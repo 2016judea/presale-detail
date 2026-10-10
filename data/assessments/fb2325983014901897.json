@@ -1,0 +1,25 @@
+{
+ "fit": true,
+ "fit_reason": "Private seller listing a complete 2022 GMC Canyon pickup, which we can detail.",
+ "photo_quality": "good",
+ "need_score": 2,
+ "findings": [
+  "White paint on the doors, fenders and tailgate looks clean and glossy in every exterior shot",
+  "Black wheels and tires look clean with dressed sidewalls",
+  "Black bumper trim, running boards and fender flares look dark, not faded",
+  "No interior photos, so the cabin condition can't be judged"
+ ],
+ "services": [
+  "exterior wash and wax",
+  "interior detail"
+ ],
+ "message": "Hi, we saw your listing for the Canyon AT4. The white paint and black wheels already look sharp in your photos. If you'd like it fully freshened inside and out before showings, we do a pre-sale detail that comes to you. Would you like a quote?",
+ "id": "fb2325983014901897",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T12:17:21",
+ "usage": {
+  "in": 6252,
+  "out": 272
+ }
+}

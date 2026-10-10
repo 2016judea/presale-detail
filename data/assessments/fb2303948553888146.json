@@ -1,0 +1,21 @@
+{
+ "fit": false,
+ "fit_reason": "Although listed as a private seller, the photos show a brand-new boat on a dealer showroom floor (Rapid Marine signage, other new inventory around it), so this is dealer stock rather than a private owner's boat.",
+ "photo_quality": "good",
+ "need_score": 0,
+ "findings": [
+  "Hull paint and graphics are glossy and clean on both sides",
+  "Mercury outboard cowling is clean and shiny",
+  "Carpet, seats and storage compartments look new and spotless"
+ ],
+ "services": [],
+ "message": "Hi, we saw your listing for the Crestliner 1850 Fish Hawk. It already looks showroom clean, with glossy hull paint and spotless carpet and seats. If you ever want a detail or polish to keep it looking that way, we come to you and would be happy to give you a quote.",
+ "id": "fb2303948553888146",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T12:16:10",
+ "usage": {
+  "in": 4449,
+  "out": 271
+ }
+}

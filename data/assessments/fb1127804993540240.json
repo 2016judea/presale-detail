@@ -1,0 +1,20 @@
+{
+ "fit": false,
+ "fit_reason": "Although tagged as a private seller, the listing text and photos show this is dealer stock from Warner's Dock Inc., photographed on the dealership lot with a stock tag on the pontoon, not a private owner's sale.",
+ "photo_quality": "good",
+ "need_score": 2,
+ "findings": [
+  "Pontoon tubes show some dull, uneven discoloration along the lower port and starboard sides",
+  "Fence panels, furniture and bimini look clean and in near-new condition"
+ ],
+ "services": [],
+ "message": "Hi, we saw your listing for the Sylvan Mirage Fish pontoon. The fence panels and seating look sharp, and the aluminum tubes show some dull, uneven areas along the sides that a polish could brighten. We do mobile pre-sale details and tube polishing and come to you. Would you like a quote?",
+ "id": "fb1127804993540240",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T12:16:15",
+ "usage": {
+  "in": 5457,
+  "out": 280
+ }
+}

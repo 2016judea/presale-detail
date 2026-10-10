@@ -1,0 +1,17 @@
+{
+ "fit": false,
+ "fit_reason": "This is new dealer stock, not a private owner's sale: the photos are taken on the Riverview Sports and Marine lot with dealer signage, the boat is a brand-new 2026 model with no motor fitted and plastic still on the helm windscreen, and the text reads like a dealer description offering any horsepower up to a limit.",
+ "photo_quality": "good",
+ "need_score": 0,
+ "findings": [],
+ "services": [],
+ "message": "",
+ "id": "fb1399232141868498",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T12:16:36",
+ "usage": {
+  "in": 6469,
+  "out": 154
+ }
+}

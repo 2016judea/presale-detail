@@ -1,0 +1,29 @@
+{
+ "fit": true,
+ "fit_reason": "Private seller listing a whole aluminum fishing boat with outboard and trailer.",
+ "photo_quality": "good",
+ "need_score": 5,
+ "findings": [
+  "Dirt and grime on the floor of the rear splash well / transom area next to the motor",
+  "Scuffing and grime on the lower edge of the outboard cowling",
+  "Faded, dull black finish on the outboard cowl and lower unit",
+  "Light dirt and wear on the cream seat cushions, especially the pedestal seat tops",
+  "Green carpet looks generally clean but shows some dust and matting near the rear deck",
+  "Hull side paint and graphics look somewhat dull along the port side"
+ ],
+ "services": [
+  "interior detail",
+  "exterior wash and wax",
+  "trim restoration",
+  "touch-up"
+ ],
+ "message": "Hi, we saw your listing for the Crestliner Fish Hawk. It looks well kept, and a cleanup of the splash well by the motor plus bringing the faded black on the Johnson cowling back would help it pop in photos. We do pre-sale boat details that come to you, including carpet, seats and hull. Would you like a quote?",
+ "id": "fb1648005023613242",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T12:16:33",
+ "usage": {
+  "in": 5984,
+  "out": 364
+ }
+}

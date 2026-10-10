@@ -92,3 +92,13 @@ where the guys live, and `config.CITY` is the stand-in until then.
 
 **Call: build.** The fields the thesis rests on (photos → need, price, freshness,
 a way to reach the seller) all fill. The gaps cost precision, not the product.
+
+### Facebook Marketplace (added 2026-10-10, 150 newest boats/cars/trucks, logged out)
+
+Item pages carry title, price, photos (150/150), description, creation time and
+location text. No lat/lon, no renewal time, no price history. The `vehicle_seller_type`
+field says PRIVATE_SELLER on dealer stock too, so `seller_type` can't be filled from
+it: 61/150 newest items were dealer text (caught before a model call) and the model
+flagged most of the rest of the dealers. Contact is Facebook's own Message button,
+so `seller_contact` is a link, never a number. Photo URLs are signed and expire, so
+each refresh re-reads the item pages.

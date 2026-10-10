@@ -1,0 +1,26 @@
+{
+ "fit": true,
+ "fit_reason": "Whole pickup truck listed by a private seller (trade-only listing, but still a complete vehicle we can detail).",
+ "photo_quality": "poor",
+ "need_score": 3,
+ "findings": [
+  "All five photos taken at dusk, so paint condition is hard to judge",
+  "Paint on the doors and bed sides looks somewhat flat rather than glossy in the side shots",
+  "Black wheels and tires look dull and undressed",
+  "Rear bumper area looks dull and grimy in the rear shot",
+  "No interior photos to judge the cabin"
+ ],
+ "services": [
+  "exterior wash and wax",
+  "trim restoration"
+ ],
+ "message": "Hi, we saw your Silverado listing. From the photos the paint on the doors and bed sides looks a little flat, and the wheels and rear bumper could use some attention. We do pre-sale details and come to you, which could help it show better to people offering trades. Would you like a quote?",
+ "id": "fb1435331818570245",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T12:17:04",
+ "usage": {
+  "in": 5151,
+  "out": 298
+ }
+}

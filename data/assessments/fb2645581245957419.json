@@ -1,0 +1,30 @@
+{
+ "fit": true,
+ "fit_reason": "Whole aluminum fishing boat on trailer offered by a private seller.",
+ "photo_quality": "good",
+ "need_score": 6,
+ "findings": [
+  "Faded, uneven red carpet on the front casting deck and floor, with darker stained and matted patches",
+  "Debris and dirt on the bow carpet near the trolling motor",
+  "Dusty, spotted windshield behind the depth finder",
+  "Dirt and grime on the white console top around the depth finder mount",
+  "Dull, chalky look to the black and gray hull side graphics area under the MirroCraft decal",
+  "Scuffs and grime on the lower outboard housing and skeg",
+  "Grubby gray seat bases and dirty seat vinyl on the pedestal seats"
+ ],
+ "services": [
+  "interior detail",
+  "exterior wash and wax",
+  "trim restoration",
+  "touch-up"
+ ],
+ "message": "Hi, we saw your listing for the 1996 MirroCraft Aggressor. The carpet on the front deck and floor looks stained and matted in spots, and the windshield and console top have some built-up grime. We do mobile pre-sale details for boats, including carpet cleaning, vinyl, and a hull wash and wax, and can come to you. Would you like a quote?",
+ "id": "fb2645581245957419",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T12:16:22",
+ "usage": {
+  "in": 5997,
+  "out": 397
+ }
+}

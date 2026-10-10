@@ -1,0 +1,25 @@
+{
+ "fit": true,
+ "fit_reason": "Whole sailboat (1986 Catalina Capri 18) on trailer, listed by a private seller.",
+ "photo_quality": "fair",
+ "need_score": 3,
+ "findings": [
+  "Topsides gelcoat looks generally white and clean, but the starboard hull side in the trailer photo shows some dullness and uneven reflection along the upper hull",
+  "Blue bottom paint near the waterline and boot stripe on the starboard side looks patchy and uneven in the trailer photo",
+  "Light scuffing and marks on the white cockpit seats and deck near the companionway"
+ ],
+ "services": [
+  "gelcoat oxidation removal",
+  "exterior wash and wax",
+  "touch-up"
+ ],
+ "message": "Hi, we saw your listing for the Capri 18. The boat looks well cared for, and the hull side in the trailer shot has a bit of dullness a gelcoat polish and wax would brighten up, plus a few scuffs around the cockpit seats. We do pre-sale gelcoat polish and detailing and come to you. Would you like a quote?",
+ "id": "fb1415482773382874",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T12:16:19",
+ "usage": {
+  "in": 6663,
+  "out": 346
+ }
+}

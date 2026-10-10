@@ -1,0 +1,26 @@
+{
+ "fit": true,
+ "fit_reason": "Private seller listing a whole 2022 Lund 2075 Pro Guide aluminum fishing boat with motor and trailer.",
+ "photo_quality": "good",
+ "need_score": 2,
+ "findings": [
+  "Hull paint and graphics on the port side look clean and glossy",
+  "Carpeted floor and casting decks look clean and free of debris",
+  "Seats look clean with no visible staining",
+  "Smudges and wipe marks on the Helix screen faces at the dash",
+  "Light water spotting visible on the black Mercury cowling in the overhead shot"
+ ],
+ "services": [
+  "interior detail",
+  "exterior wash and wax"
+ ],
+ "message": "Hi, we saw your listing for the Lund 2075 Pro Guide and it already looks very well kept. If you want it extra sharp for buyers, we could do a light pre-sale detail that comes to you, cleaning up the smudges on the Helix screens and the spotting on the black Mercury cowl and giving the hull a wax. Would you like a quote?",
+ "id": "fb3641813062661075",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T12:16:33",
+ "usage": {
+  "in": 6180,
+  "out": 328
+ }
+}

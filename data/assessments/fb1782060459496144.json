@@ -1,0 +1,30 @@
+{
+ "fit": true,
+ "fit_reason": "Whole pickup truck listed by a private seller on Marketplace.",
+ "photo_quality": "good",
+ "need_score": 6,
+ "findings": [
+  "Hazy, yellowed driver-side headlight lens on the front",
+  "Dull, flat-looking white paint on the hood and front fenders",
+  "Grey interior with general dust on the dash, door panels and center console",
+  "Scuffed leather on the driver seat bolster and cushion with a small mark on the edge",
+  "Grime and rust staining inside the bed on the side walls and bed mat",
+  "Light scuffs on the lower rear quarter panel near the bumper on the driver side"
+ ],
+ "services": [
+  "headlight restoration",
+  "exterior wash and wax",
+  "paint correction / buff",
+  "interior detail",
+  "touch-up"
+ ],
+ "message": "Hola, vimos su anuncio de la F-150. Los faros delanteros se ven opacos y amarillentos, y la pintura blanca del cofre se ve un poco apagada, cosas que una restauraci\u00f3n de faros y un pulido mejoran mucho en las fotos. Hacemos detallado completo antes de vender y vamos a su casa. \u00bfLe gustar\u00eda una cotizaci\u00f3n? / Hi, we saw your F-150 listing. The headlights look hazy and the white paint on the hood looks a bit dull, which a headlight restoration and buff would freshen up for buyers. We do pre-sale details and come to you, would you like a quote?",
+ "id": "fb1782060459496144",
+ "model": "claude-opus-5-5",
+ "photos_seen": 4,
+ "assessed_at": "2026-10-10T12:17:17",
+ "usage": {
+  "in": 5030,
+  "out": 463
+ }
+}

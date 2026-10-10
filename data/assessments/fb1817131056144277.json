@@ -1,0 +1,29 @@
+{
+ "fit": true,
+ "fit_reason": "Whole 2003 VW Golf GTI offered by a private seller on Facebook Marketplace.",
+ "photo_quality": "fair",
+ "need_score": 6,
+ "findings": [
+  "Heavy dust and debris coating the instrument cluster lens and dash area in the odometer photo",
+  "Yellowed, hazy headlight lenses visible in the front three-quarter shots",
+  "Dark blue paint looks flat and dull on the hood and side panels, with little reflection",
+  "Hood shows uneven, blotchy finish in the front-facing photo",
+  "Black lower bumper grilles and trim look faded and grayish on the front bumper"
+ ],
+ "services": [
+  "interior detail",
+  "headlight restoration",
+  "paint correction / buff",
+  "exterior wash and wax",
+  "trim restoration"
+ ],
+ "message": "Hi, we saw your listing for the GTI. In the photos the headlights look pretty yellowed and there's a good layer of dust on the gauge cluster and dash. We do pre-sale details that come to you, including headlight restoration and a buff to bring some depth back to the blue paint. Would you like a quote?",
+ "id": "fb1817131056144277",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T12:16:41",
+ "usage": {
+  "in": 4987,
+  "out": 359
+ }
+}

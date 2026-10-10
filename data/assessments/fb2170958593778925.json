@@ -1,0 +1,26 @@
+{
+ "fit": true,
+ "fit_reason": "Whole boat on trailer listed by a private seller; a bowrider we can detail.",
+ "photo_quality": "good",
+ "need_score": 4,
+ "findings": [
+  "Light grayish soiling and dulling on the white vinyl seat backs and bolsters, most visible on the rear sunpad backrest and cockpit bench",
+  "Light scuffing and grime on the cockpit and walk-through floor",
+  "Black hull sides look reasonably glossy but show some dullness and light haze in the bright sun near the bow",
+  "Minor smudges on the white gelcoat around the transom seat and speaker panel"
+ ],
+ "services": [
+  "interior detail",
+  "exterior wash and wax",
+  "gelcoat oxidation removal"
+ ],
+ "message": "Hi, we saw your listing for the Cobalt 24SD and it looks like a well kept boat. The white vinyl on the seat backs and the cockpit floor are showing some light soiling, and the dark hull sides could use a polish to really pop in photos. We do pre-sale interior and gelcoat polish details and come to you. Would you like a quote?",
+ "id": "fb2170958593778925",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T12:16:28",
+ "usage": {
+  "in": 6344,
+  "out": 353
+ }
+}

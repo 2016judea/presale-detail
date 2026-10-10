@@ -1,0 +1,26 @@
+{
+ "fit": true,
+ "fit_reason": "Whole boat (Yamaha jet boat with trailer) listed by a private seller on Facebook Marketplace.",
+ "photo_quality": "good",
+ "need_score": 3,
+ "findings": [
+  "Blue hull gelcoat on the port side looks glossy with no visible chalkiness",
+  "Light water spotting and faint stains on the tan mat on the swim platform and rear cockpit inserts",
+  "Some light marks on the white vinyl of the bow seating",
+  "Cockpit and helm look tidy and uncluttered",
+  "Hull below the cover is mostly hidden in the trailer photos"
+ ],
+ "services": [
+  "interior detail",
+  "exterior wash and wax"
+ ],
+ "message": "Hi, we saw your listing for the Yamaha Limited S and it looks well kept. We noticed some light water spots on the tan mats at the swim platform and a few marks on the white vinyl up front. We do mobile pre-sale details for boats, a cleanup of the mats and vinyl plus a wash and wax, and can come to you. Would you like a quote?",
+ "id": "fb1618860039830703",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T12:16:36",
+ "usage": {
+  "in": 5930,
+  "out": 342
+ }
+}

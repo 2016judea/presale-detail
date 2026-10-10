@@ -3,7 +3,9 @@ what is visible, draft the message. Cached by posting id: a rerun costs $0.
 
 Writes data/assessments/<id>.json (committed, so the cache travels with the repo).
 """
+import base64
 import concurrent.futures as cf
+import urllib.request
 import json
 import os
 import re
@@ -70,6 +72,12 @@ SCHEMA = {
     "additionalProperties": False,
 }
 
+# Obvious dealer stock on Facebook (which has no by-owner filter), caught from the
+# text before paying for a model call. Craigslist is already by-owner; the model judges it.
+DEALER = re.compile(r"(?<!no )\b(dealer(ship)?|stock ?#|stock number|factory demo|we finance|financing available|"
+                    r"visit our|our inventory|in-house financing|trade-?ins? welcome|"
+                    r"call (us|our)|inc\.|llc)\b", re.I)
+
 MONEY = re.compile(r"\$\s?\d|\d+\s?(?:%|percent|dollars|bucks|k\b)", re.I)
 
 
@@ -87,8 +95,21 @@ def api_key() -> str:
 client = anthropic.Anthropic(api_key=api_key(), max_retries=4)
 
 
+def image_block(u: str) -> dict:
+    """Craigslist images go by URL. Facebook's CDN URLs are signed and may not be
+    fetchable by the API, so those are downloaded and sent inline."""
+    if "fbcdn.net" not in u:
+        return {"type": "image", "source": {"type": "url", "url": u}}
+    req = urllib.request.Request(u, headers={"User-Agent": "Mozilla/5.0"})
+    with urllib.request.urlopen(req, timeout=30) as r:
+        data = r.read()
+    return {"type": "image", "source": {"type": "base64", "media_type": "image/jpeg",
+                                        "data": base64.b64encode(data).decode()}}
+
+
 def describe(l: dict) -> str:
-    facts = [f"Section: {l['kind']}s by owner", f"Title: {l['title']}"]
+    where = "Facebook Marketplace" if l.get("source") == "facebook" else "Craigslist, by-owner section"
+    facts = [f"Source: {where} ({l['kind']}s)", f"Title: {l['title']}"]
     if l.get("year"):
         facts.append(f"Year: {l['year']}")
     if l.get("make_model"):
@@ -110,7 +131,13 @@ def assess(l: dict) -> dict:
                "skipped": True}
         p.write_text(json.dumps(rec, indent=1))
         return rec
-    content = [{"type": "image", "source": {"type": "url", "url": u}} for u in photos]
+    if l.get("source") == "facebook" and DEALER.search(l.get("body") or ""):
+        rec = {"id": l["id"], "fit": False, "fit_reason": "dealer listing (text)", "need_score": 0,
+               "findings": [], "services": [], "message": "", "photo_quality": "poor",
+               "skipped": True}
+        p.write_text(json.dumps(rec, indent=1))
+        return rec
+    content = [image_block(u) for u in photos]
     content.append({"type": "text", "text": describe(l)})
     for attempt in range(2):
         r = client.messages.create(

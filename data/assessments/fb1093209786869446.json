@@ -1,0 +1,32 @@
+{
+ "fit": true,
+ "fit_reason": "Whole car, a 2000 Honda CR-V, listed by a private seller.",
+ "photo_quality": "good",
+ "need_score": 7,
+ "findings": [
+  "Yellowed, hazy headlight lenses on both front headlights",
+  "Scuffs and chipped, peeling paint on the front bumper, especially the passenger-side corner and lower edge",
+  "Dull, flat silver paint on the hood and front fenders",
+  "Faded, chalky gray side body molding along the driver-side doors",
+  "Faded black lower bumper and fender trim",
+  "Streaky, dirty windshield glass",
+  "Dusty dash cover and center console area inside"
+ ],
+ "services": [
+  "headlight restoration",
+  "exterior wash and wax",
+  "paint correction / buff",
+  "trim restoration",
+  "touch-up",
+  "interior detail"
+ ],
+ "message": "Hi, we saw your CR-V listing on Marketplace. The headlights have gone pretty yellow and the side moldings and black trim look faded, both things that clean up well and make photos pop. We do mobile pre-sale details, including headlight restoration, a buff and trim restoration, and can come to you. Would you like a quote?",
+ "id": "fb1093209786869446",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T12:16:54",
+ "usage": {
+  "in": 6158,
+  "out": 368
+ }
+}

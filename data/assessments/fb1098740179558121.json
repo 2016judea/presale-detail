@@ -1,0 +1,22 @@
+{
+ "fit": true,
+ "fit_reason": "Whole pickup truck listed by a private seller.",
+ "photo_quality": "good",
+ "need_score": 1,
+ "findings": [
+  "White paint on hood, doors and bed sides looks clean and glossy in all photos",
+  "Black front bumper and grille look dark and even, not faded",
+  "Headlight lenses look clear",
+  "Tires and wheels look clean; tires appear dressed"
+ ],
+ "services": [],
+ "message": "Hi, we saw your listing for the F250 and it already looks sharp, with clean white paint and dark, even black trim on the bumper and grille. If you want a quick touch-up wash or an interior wipe-down before showings, we come to you. Would you like a quote?",
+ "id": "fb1098740179558121",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T12:17:07",
+ "usage": {
+  "in": 4329,
+  "out": 227
+ }
+}

@@ -1,0 +1,27 @@
+{
+ "fit": true,
+ "fit_reason": "Whole passenger car listed by a private seller.",
+ "photo_quality": "good",
+ "need_score": 4,
+ "findings": [
+  "Black hood looks dull and hazy in the straight-on front shot, with uneven reflections suggesting light swirling",
+  "Light dust and film on the front bumper and lower grille area",
+  "Headlight lenses show slight haze, more visible on the driver side in the front shot",
+  "Dust visible on the dash and instrument cluster surround"
+ ],
+ "services": [
+  "exterior wash and wax",
+  "paint correction / buff",
+  "headlight restoration",
+  "interior detail"
+ ],
+ "message": "Hi, we saw your listing for the Cruze. It looks to be in good shape, but in the front photo the black hood looks a little dull and the headlights have a slight haze, which black paint tends to show in pictures. We do mobile pre-sale details, including a buff and headlight touch-up, and can come to you. Would you like a quote?",
+ "id": "fb1804689883900698",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T12:16:54",
+ "usage": {
+  "in": 5930,
+  "out": 304
+ }
+}

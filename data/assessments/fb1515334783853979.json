@@ -1,0 +1,32 @@
+{
+ "fit": true,
+ "fit_reason": "Whole pickup truck offered by a private seller.",
+ "photo_quality": "fair",
+ "need_score": 6,
+ "findings": [
+  "Dusty, grimy dash top and gauge cluster lens with spots and smudges",
+  "Dirty steering column and dash trim around the instrument cluster",
+  "Yellowed, hazy headlight lenses on both sides",
+  "Dull, faded blue paint on hood and fenders",
+  "Dull green tailgate paint with streaks",
+  "Hazy chrome front and rear bumpers",
+  "Dirty lower two-tone panels and rocker areas",
+  "Faded red bedliner and loose tires cluttering the bed"
+ ],
+ "services": [
+  "interior detail",
+  "exterior wash and wax",
+  "paint correction / buff",
+  "headlight restoration",
+  "trim restoration"
+ ],
+ "message": "Hi, we saw your F-250 listing and wanted to reach out. The dash and gauge cluster look pretty dusty in the photos, and the headlights have gone hazy and yellow. We do mobile pre-sale details, including interior cleanup and headlight restoration, and can come to you. Would you like a quote?",
+ "id": "fb1515334783853979",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T12:17:28",
+ "usage": {
+  "in": 6023,
+  "out": 362
+ }
+}

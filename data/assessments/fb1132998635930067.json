@@ -1,0 +1,22 @@
+{
+ "fit": false,
+ "fit_reason": "Although tagged as a private seller, the listing text says it is for sale by Unique Classic Cars and the photos show their showroom, banners and dealer plates, so this is dealer stock, not a private owner's vehicle.",
+ "photo_quality": "good",
+ "need_score": 1,
+ "findings": [
+  "Blue paint on the hood, fenders and quarter panels is already glossy with clean reflections",
+  "White vinyl top looks clean",
+  "Chrome bumpers and wheels are bright",
+  "Car is professionally staged in a dealer showroom"
+ ],
+ "services": [],
+ "message": "Hi, we saw your listing for the 1971 Buick GS 350. The blue paint and chrome already look sharp in the photos. If you ever need a mobile detail or gloss touch-up on inventory, we come to you. Would you like a quote?",
+ "id": "fb1132998635930067",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T12:16:47",
+ "usage": {
+  "in": 3744,
+  "out": 275
+ }
+}

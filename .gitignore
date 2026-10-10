@@ -2,3 +2,4 @@ data/cache/posts/
 .env
 __pycache__/
 .vercel/
+data/cache/fb/

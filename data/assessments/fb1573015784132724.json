@@ -1,0 +1,25 @@
+{
+ "fit": true,
+ "fit_reason": "Whole 2024 Ford F-150 pickup listed by a private seller on Facebook Marketplace.",
+ "photo_quality": "good",
+ "need_score": 1,
+ "findings": [
+  "White paint on the doors, bed sides and tailgate looks clean and glossy in all exterior shots",
+  "Black front and rear bumpers, grille and running boards look dark and unfaded",
+  "Black wheels and tires look clean with dressed sidewalls",
+  "Headlights and taillights look clear",
+  "No interior photos, so the cab condition can't be judged"
+ ],
+ "services": [
+  "interior detail"
+ ],
+ "message": "Hi, we saw your listing for the F-150. The truck already looks sharp, with clean white paint and dark black trim in your photos. If you want the inside freshened up before buyers come by, we do a mobile interior detail that comes to you. Would you like a quote?",
+ "id": "fb1573015784132724",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T12:17:10",
+ "usage": {
+  "in": 5965,
+  "out": 284
+ }
+}

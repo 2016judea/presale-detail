@@ -1,0 +1,28 @@
+{
+ "fit": true,
+ "fit_reason": "Whole pickup truck listed by a private seller on Facebook Marketplace.",
+ "photo_quality": "fair",
+ "need_score": 5,
+ "findings": [
+  "Hazy, yellowed headlight lens on the passenger-side front",
+  "Grayish faded black plastic on the sail panels and bed rail caps",
+  "White paint looks flat and dull with light road film along the lower doors and rocker area",
+  "Dull, grimy aluminum wheels with brake dust",
+  "Interior not shown in any photo, so it can't be judged"
+ ],
+ "services": [
+  "headlight restoration",
+  "trim restoration",
+  "exterior wash and wax",
+  "paint correction / buff"
+ ],
+ "message": "Hi, we saw your Avalanche listing and it looks like a solid truck. The headlights are starting to haze over and the black sail panel and bed cap trim have faded to gray, both things we can bring back so it photographs sharper. We do mobile pre-sale details and come to you. Would you like a quote?",
+ "id": "fb2103052786964113",
+ "model": "claude-opus-5-5",
+ "photos_seen": 3,
+ "assessed_at": "2026-10-10T12:17:12",
+ "usage": {
+  "in": 3942,
+  "out": 317
+ }
+}

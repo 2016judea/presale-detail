@@ -1,0 +1,22 @@
+{
+ "fit": false,
+ "fit_reason": "Although marked private seller, the photos show the truck staged in front of a sales building with 'Sales Hours' on the window and a lot of other vehicles, and the description reads like dealer copy (Carfax 1-owner, equipment groups). This looks like dealer stock, not a private owner sale.",
+ "photo_quality": "good",
+ "need_score": 1,
+ "findings": [
+  "Black paint on the doors, bed sides and tailgate is already glossy with clear, sharp reflections",
+  "Chrome bumpers and wheels look clean and bright",
+  "Headlight on the front corner appears clear",
+  "Black fender flares and mud flaps look dark, not faded"
+ ],
+ "services": [],
+ "message": "Hi, we saw your listing for the 2021 Ram 2500. The black paint and chrome already look sharp in the photos. If you ever want a mobile interior detail or a wash and wax to keep it that way, we come to you. Would you like a quote?",
+ "id": "fb1084346921269730",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T12:17:09",
+ "usage": {
+  "in": 6633,
+  "out": 312
+ }
+}

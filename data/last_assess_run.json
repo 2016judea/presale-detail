@@ -1,7 +1,7 @@
 {
- "calls": 294,
+ "calls": 151,
  "errors": 0,
- "input_tokens": 835112,
- "output_tokens": 86033,
- "cost_usd": 5.06
+ "input_tokens": 500549,
+ "output_tokens": 27790,
+ "cost_usd": 2.56
 }

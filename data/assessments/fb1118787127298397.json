@@ -1,0 +1,30 @@
+{
+ "fit": true,
+ "fit_reason": "Whole pickup truck listed by a private seller.",
+ "photo_quality": "fair",
+ "need_score": 6,
+ "findings": [
+  "Light swirling and haze visible in the black paint on the tailgate and rear bed sides",
+  "Dust and water-spotting on the black paint along the driver side doors and bed",
+  "Grime and dirt film on the black fender arch and lower bed side behind the rear wheel",
+  "Dull, browned tires and dusty wheels",
+  "Faded, dull black plastic on the front lower bumper valance and step bars",
+  "Hazy, slightly yellowed headlight lenses",
+  "Company-style stickers on both front doors that would need removal"
+ ],
+ "services": [
+  "exterior wash and wax",
+  "paint correction / buff",
+  "trim restoration",
+  "headlight restoration"
+ ],
+ "message": "Hi, we saw your F-150 listing on Marketplace. Black paint shows everything, and in the photos there's some haze and swirling on the tailgate and bed sides, plus dusty wheels and faded black trim up front. We do mobile pre-sale details and buffing that come to you. Would you like a quote?",
+ "id": "fb1118787127298397",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T12:17:22",
+ "usage": {
+  "in": 5930,
+  "out": 360
+ }
+}

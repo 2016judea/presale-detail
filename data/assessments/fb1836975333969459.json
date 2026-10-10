@@ -1,0 +1,28 @@
+{
+ "fit": true,
+ "fit_reason": "Private owner selling a whole boat (1997 Sea Ray 215 Express Cruiser) with trailer.",
+ "photo_quality": "fair",
+ "need_score": 6,
+ "findings": [
+  "Bow deck looks dull and chalky with grayish staining across the non-skid and around the forward hatch",
+  "Hull sides appear flat rather than glossy, with light scuffing along the starboard side near the dock",
+  "Grime and discoloration on the transom and swim platform area in the stern shot",
+  "Dirty, scuffed rub rail and hull around the bow in the dock photos",
+  "Older photos show the hull on the trailer with a dull finish below the rub rail"
+ ],
+ "services": [
+  "gelcoat oxidation removal",
+  "exterior wash and wax",
+  "interior detail",
+  "touch-up"
+ ],
+ "message": "Hi, we saw your listing for the Sea Ray 215. The bow deck and hull sides look a bit dull and stained in the photos, which a gelcoat polish and wax would brighten up nicely before buyers come out. We do pre-sale boat details and can come to you. Would you like a quote?",
+ "id": "fb1836975333969459",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T12:16:18",
+ "usage": {
+  "in": 5484,
+  "out": 360
+ }
+}

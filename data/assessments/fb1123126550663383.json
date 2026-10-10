@@ -1,0 +1,27 @@
+{
+ "fit": true,
+ "fit_reason": "Private seller listing a whole runabout boat with motor and trailer.",
+ "photo_quality": "fair",
+ "need_score": 7,
+ "findings": [
+  "Dull, flat gelcoat along the port and starboard hull sides with no reflection",
+  "Faded, chalky-looking gray and charcoal stripe bands along both sides of the hull",
+  "Grime and staining on the white hull near the bow and lower sides above the trailer bunks",
+  "Dull white deck and bow surfaces with little gloss",
+  "No interior shots shown, so the cockpit cannot be judged from the photos"
+ ],
+ "services": [
+  "gelcoat oxidation removal",
+  "exterior wash and wax",
+  "trim restoration"
+ ],
+ "message": "Hi, we saw your listing for the Forester Diva. The gelcoat and the gray stripe bands along the hull sides look pretty flat in the photos, and a gelcoat polish would bring back a lot of the shine. We do mobile pre-sale boat details and can come to you. Would you like a quote?",
+ "id": "fb1123126550663383",
+ "model": "claude-opus-5-5",
+ "photos_seen": 4,
+ "assessed_at": "2026-10-10T12:16:17",
+ "usage": {
+  "in": 5019,
+  "out": 331
+ }
+}

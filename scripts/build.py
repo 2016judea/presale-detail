@@ -55,7 +55,7 @@ def main():
             "posted_at": l["posted_at"], "updated_at": l["updated_at"],
             "need": a["need_score"], "findings": a["findings"], "services": a["services"],
             "message": a["message"], "contact_in_post": l["contact_in_post"],
-            "phones": l["phones"],
+            "phones": l["phones"], "source": l.get("source", "craigslist"), "also": l.get("also"),
             "score": round(score(l, a, now, fallback), 3),
         })
     cards.sort(key=lambda c: (-round(c["score"], 2), c["kind"] != "boat", -c["need"]))

@@ -1,0 +1,25 @@
+{
+ "fit": true,
+ "fit_reason": "Whole 2020 Kia Soul listed by a private seller on Facebook Marketplace.",
+ "photo_quality": "good",
+ "need_score": 2,
+ "findings": [
+  "Paint on hood, doors and rear hatch shows strong gloss and clear reflections",
+  "Unpainted gray rear bumper and lower trim look slightly dull/hazy compared to the paint",
+  "Headlights appear clear with no visible yellowing",
+  "Interior only visible through glass; nothing to judge"
+ ],
+ "services": [
+  "trim restoration",
+  "exterior wash and wax"
+ ],
+ "message": "Hi, we saw your listing for the 2020 Kia Soul. The paint already looks glossy in your photos, but the gray rear bumper and lower trim look a little faded next to it. We do mobile pre-sale details, including trim restoration and a wash and wax, and can come to you. Would you like a quote?",
+ "id": "fb924269760528464",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T12:16:56",
+ "usage": {
+  "in": 6186,
+  "out": 293
+ }
+}

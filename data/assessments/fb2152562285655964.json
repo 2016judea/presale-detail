@@ -1,0 +1,26 @@
+{
+ "fit": true,
+ "fit_reason": "Whole pontoon boat listed by a private seller.",
+ "photo_quality": "good",
+ "need_score": 3,
+ "findings": [
+  "Black side panels and red graphics are glossy with strong reflections on both sides",
+  "Pontoon tubes look fairly bright with no heavy staining visible at the waterline",
+  "Light scuffing and faint grime on the white vinyl of the rear lounge cushions and armrests",
+  "Some debris and leaves on the deck carpet near the stern lounge",
+  "Bimini canvas shows light dust and spotting on top"
+ ],
+ "services": [
+  "interior detail",
+  "exterior wash and wax"
+ ],
+ "message": "Hi, we saw your listing for the Barletta 23UC and it looks like it has been well kept. The rear lounge vinyl has some light scuffing and the deck carpet has a bit of debris that a quick cleanup would sharpen up in photos. We do mobile pre-sale details for pontoons, including vinyl cleaning and a wash and wax on the panels and toons. Would you like a quote?",
+ "id": "fb2152562285655964",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T12:16:30",
+ "usage": {
+  "in": 6107,
+  "out": 340
+ }
+}

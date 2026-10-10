@@ -1,0 +1,24 @@
+{
+ "fit": true,
+ "fit_reason": "Whole boat (2018 Cobalt R5 Surf) listed by a private seller; boat is detailable even though trailer is not included.",
+ "photo_quality": "good",
+ "need_score": 2,
+ "findings": [
+  "Navy hull sides look glossy with clean reflections on both port and starboard sides",
+  "White vinyl seating in the cockpit and rear bench looks clean with no visible staining",
+  "Sea grass flooring and swim platform mat appear clean",
+  "Light grime and dark residue around the outdrive and lower transom area under the swim platform"
+ ],
+ "services": [
+  "exterior wash and wax"
+ ],
+ "message": "Hi, we saw your listing for the Cobalt R5 Surf and it already looks sharp, especially the navy hull and the white seating. If you want it fully buyer-ready, we do a pre-sale wash and wax and can clean up the lower transom and drive area, and we come to you. Would you like a quote?",
+ "id": "fb4682921181952094",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T12:16:31",
+ "usage": {
+  "in": 6316,
+  "out": 307
+ }
+}

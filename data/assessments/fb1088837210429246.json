@@ -1,0 +1,28 @@
+{
+ "fit": true,
+ "fit_reason": "Private seller listing a whole 2012 Ford F-150 crew cab truck.",
+ "photo_quality": "fair",
+ "need_score": 5,
+ "findings": [
+  "Hazy, yellowed headlight lenses on both front headlights",
+  "Red paint looks somewhat flat and dull along the bed side and rear door in the third photo",
+  "Dirt and grime on the lower body and chrome rocker trim near the rear wheel",
+  "Dusty, dull wheel with grime on the spokes and dry-looking tire sidewall in the close-up",
+  "Light dirt film on the hood and front bumper area"
+ ],
+ "services": [
+  "exterior wash and wax",
+  "paint correction / buff",
+  "headlight restoration",
+  "trim restoration"
+ ],
+ "message": "Hi, we saw your listing for the F-150. The headlights look a bit hazy and the red paint on the bed side has gone a little flat in the photos. We do mobile pre-sale details that include a wash, buff and headlight restoration, and we come to you. Would you like a quote?",
+ "id": "fb1088837210429246",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T12:17:07",
+ "usage": {
+  "in": 4913,
+  "out": 332
+ }
+}

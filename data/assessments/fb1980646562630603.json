@@ -1,0 +1,30 @@
+{
+ "fit": true,
+ "fit_reason": "Private seller listing a whole 2019 Ram 1500 pickup, which we can detail inside and out.",
+ "photo_quality": "good",
+ "need_score": 6,
+ "findings": [
+  "Dirt, grime and debris on the driver-side rubber floor mat and floor area",
+  "Dust and scuffing on the dashboard and center console plastics",
+  "Worn, shiny grime on the steering wheel rim",
+  "Dirt and scuffs on the driver door sill and lower door panel",
+  "Boxed parts and loose items left on the passenger floor",
+  "Faded, slightly hazy headlight lens visible in the front three-quarter photo",
+  "Black plastic front bumper and grille looking slightly dull"
+ ],
+ "services": [
+  "interior detail",
+  "headlight restoration",
+  "trim restoration",
+  "exterior wash and wax"
+ ],
+ "message": "Hi, we saw your listing for the orange Ram 1500. The paint looks good, but the driver floor and door sill show a fair amount of dirt, and the steering wheel and dash could use a cleanup before buyers see it. We do mobile pre-sale details and can come to you. Would you like a quote?",
+ "id": "fb1980646562630603",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T12:17:21",
+ "usage": {
+  "in": 5463,
+  "out": 367
+ }
+}

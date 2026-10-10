@@ -1,0 +1,28 @@
+{
+ "fit": true,
+ "fit_reason": "Whole pickup truck offered by a private seller with clear exterior photos.",
+ "photo_quality": "good",
+ "need_score": 4,
+ "findings": [
+  "Hazy, yellowed lens on the front headlights, most visible on the driver side",
+  "Rear bumper looks dull and faded, especially across the top step area",
+  "Black fender flares and running boards look slightly grayed rather than deep black",
+  "Paint on the tailgate and hood looks a bit flat compared to the doors",
+  "Rust staining on the exhaust tip and hitch area at the rear"
+ ],
+ "services": [
+  "headlight restoration",
+  "trim restoration",
+  "exterior wash and wax",
+  "paint correction / buff"
+ ],
+ "message": "Hi, we saw your Tacoma listing and it looks like a solid truck. The headlight lenses are starting to haze and the black flares and rear bumper look a little faded in the photos. We do pre-sale details that come to you, including headlight and trim restoration and a paint polish. Would you like a quote?",
+ "id": "fb2203993013885875",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T12:17:20",
+ "usage": {
+  "in": 6038,
+  "out": 324
+ }
+}

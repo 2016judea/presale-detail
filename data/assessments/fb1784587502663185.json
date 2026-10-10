@@ -1,0 +1,28 @@
+{
+ "fit": true,
+ "fit_reason": "Whole pickup truck listed by a private seller on Marketplace.",
+ "photo_quality": "fair",
+ "need_score": 4,
+ "findings": [
+  "Hazy, yellowed headlight lenses on the front corners",
+  "Dull, flat-looking silver paint on the tailgate and bed sides",
+  "Faded gray rear bumper and lower trim cladding",
+  "Light dust and grime on the lower doors and wheel arches",
+  "Dirty wheels with brake dust on the spokes"
+ ],
+ "services": [
+  "exterior wash and wax",
+  "headlight restoration",
+  "trim restoration",
+  "paint correction / buff"
+ ],
+ "message": "Hi, we saw your listing for the F-150 FX4. The headlights look a bit hazy and the rear bumper and lower trim have faded, which a pre-sale detail with headlight and trim restoration would freshen up. We come to you, so there's no need to drop the truck off. Would you like a quote?",
+ "id": "fb1784587502663185",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T12:16:56",
+ "usage": {
+  "in": 6008,
+  "out": 304
+ }
+}
