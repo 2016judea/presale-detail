@@ -1,0 +1,14 @@
+{
+ "prices": [
+  {
+   "tier": "car_interior",
+   "size": "any",
+   "unit": "flat",
+   "price": 225,
+   "starting_at": false,
+   "quote": "$225 \u2014 Complete Interior Detail"
+  }
+ ],
+ "durations": [],
+ "url": "https://www.craigslist.org/view/d/minnetonka-mobile-interior-auto/6B1p4GvNwWb7RU4UBwhFn2"
+}

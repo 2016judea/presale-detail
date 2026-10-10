@@ -1,0 +1,54 @@
+{
+ "prices": [
+  {
+   "tier": "car_full",
+   "size": "small",
+   "unit": "flat",
+   "price": 150,
+   "starting_at": false,
+   "quote": "Small vehicle $150"
+  },
+  {
+   "tier": "car_full",
+   "size": "mid",
+   "unit": "flat",
+   "price": 200,
+   "starting_at": false,
+   "quote": "Mid size vehicle $200"
+  },
+  {
+   "tier": "car_full",
+   "size": "large",
+   "unit": "flat",
+   "price": 300,
+   "starting_at": false,
+   "quote": "XL vehicle $300"
+  },
+  {
+   "tier": "car_full",
+   "size": "small",
+   "unit": "flat",
+   "price": 320,
+   "starting_at": false,
+   "quote": "Small vehicle $320"
+  },
+  {
+   "tier": "car_full",
+   "size": "mid",
+   "unit": "flat",
+   "price": 420,
+   "starting_at": false,
+   "quote": "Mid size vehicle-$420"
+  },
+  {
+   "tier": "car_full",
+   "size": "large",
+   "unit": "flat",
+   "price": 600,
+   "starting_at": false,
+   "quote": "XL vehicle $600"
+  }
+ ],
+ "durations": [],
+ "url": "https://www.craigslist.org/view/d/burnsville-vehicle-concierge-mobile/kgEyJVZ55wrRtEsNieDcwm"
+}

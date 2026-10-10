@@ -1,0 +1,30 @@
+{
+ "prices": [
+  {
+   "tier": "car_interior",
+   "size": "any",
+   "unit": "flat",
+   "price": 120,
+   "starting_at": true,
+   "quote": "Interior Deep Clean |  Starting at $120|"
+  },
+  {
+   "tier": "car_full",
+   "size": "any",
+   "unit": "flat",
+   "price": 200,
+   "starting_at": true,
+   "quote": "Full package | Starting At $200|"
+  },
+  {
+   "tier": "paint_correction",
+   "size": "any",
+   "unit": "flat",
+   "price": 50,
+   "starting_at": false,
+   "quote": "Add clay bar polishing to the full package for $50"
+  }
+ ],
+ "durations": [],
+ "url": "https://www.craigslist.org/view/d/saint-paul-kripotos-auto-spa-mobile/iL91c6qVeRnqVr11HHUcPb"
+}

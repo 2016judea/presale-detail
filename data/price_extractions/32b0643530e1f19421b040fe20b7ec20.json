@@ -1,0 +1,14 @@
+{
+ "prices": [
+  {
+   "tier": "car_full",
+   "size": "any",
+   "unit": "flat",
+   "price": 250,
+   "starting_at": false,
+   "quote": "we\u2019ll clean the interior of your car, and the exterior for only 250$!!"
+  }
+ ],
+ "durations": [],
+ "url": "https://www.facebook.com/marketplace/item/1011371384984737/"
+}

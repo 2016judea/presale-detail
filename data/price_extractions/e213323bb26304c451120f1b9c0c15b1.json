@@ -1,0 +1,30 @@
+{
+ "prices": [
+  {
+   "tier": "car_interior",
+   "size": "any",
+   "unit": "flat",
+   "price": 175,
+   "starting_at": false,
+   "quote": "Mobile Interior Auto Detailing - I Come To You - $175.00"
+  },
+  {
+   "tier": "car_interior",
+   "size": "any",
+   "unit": "flat",
+   "price": 175,
+   "starting_at": false,
+   "quote": "$175.00 includes:"
+  },
+  {
+   "tier": "car_interior",
+   "size": "any",
+   "unit": "flat",
+   "price": 225,
+   "starting_at": false,
+   "quote": "$225 \u2014 Complete Interior Detail"
+  }
+ ],
+ "durations": [],
+ "url": "https://www.craigslist.org/view/d/minnetonka-mobile-interior-auto/5npP5GHdWWW3W2w8M5aGJ6"
+}

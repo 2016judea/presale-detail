@@ -1,0 +1,30 @@
+{
+ "prices": [
+  {
+   "tier": "car_full",
+   "size": "small",
+   "unit": "flat",
+   "price": 99,
+   "starting_at": true,
+   "quote": "Starting at 99$/149$/199$"
+  },
+  {
+   "tier": "car_full",
+   "size": "mid",
+   "unit": "flat",
+   "price": 149,
+   "starting_at": true,
+   "quote": "Starting at 99$/149$/199$"
+  },
+  {
+   "tier": "car_full",
+   "size": "large",
+   "unit": "flat",
+   "price": 199,
+   "starting_at": true,
+   "quote": "Starting at 99$/149$/199$"
+  }
+ ],
+ "durations": [],
+ "url": "https://www.craigslist.org/view/d/minneapolis-wrightwayexteriorcleaning/7szw6RSQHZSpyrzAUy9FsX"
+}

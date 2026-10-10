@@ -102,3 +102,41 @@ it: 61/150 newest items were dealer text (caught before a model call) and the mo
 flagged most of the rest of the dealers. Contact is Facebook's own Message button,
 so `seller_contact` is a link, never a number. Photo URLs are signed and expire, so
 each refresh re-reads the item pages.
+
+---
+
+## Price table provenance (2026-10-10)
+
+`data/price_table.json`, built by `scripts/price_table.py` from competitors' own ads:
+Craigslist Minneapolis services searches (bbb and aos categories; queries detailing,
+auto/car/boat detailing, buffing, oxidation, headlight, ceramic, paint correction,
+gelcoat, wax) and Facebook Marketplace service listings (`scripts/fetch_fb_services.js`,
+ten searches, logged out). 121 local ads were read (Facebook
+kept to Minnesota locations), 55 stated a number.
+
+A model lists each stated price with the exact words it came from; code keeps a price
+only if those words are in the ad and contain the number (0
+rejected). Add-on prices are dropped, per-light headlight prices are doubled to a pair,
+and each seller counts once per tier (their mid-size price, else their median), so `n`
+is sellers, not posts. Quote = median x (1 - `config.DISCOUNT`), rounded to $5.
+`config.PRICE_OVERRIDE` wins over any row. No national figures are used anywhere.
+
+| Tier | n (sellers) | Local median | Quote | |
+|---|---|---|---|---|
+| Car interior detail | 2 | $160 | $145 | thin |
+| Car exterior wash + wax | 0 | - | - | thin |
+| Full detail (inside + out) | 4 | $225 | $205 |  |
+| Paint correction / buff | 1 | $400 | $360 | thin |
+| Headlight restoration (pair) | 3 | $100 | $90 |  |
+| Touch-up (per area) | 1 | $350 | $315 | thin |
+| Boat wash + wax (per ft) | 0 | - | - | thin |
+| Boat oxidation removal / compound (per ft) | 0 | - | - | thin |
+
+**What reality couldn't fill:** no local ad states a car wash-and-wax-only price, or
+any per-foot boat price (the two boat detailers found say "ask for a quote" and
+"starting at" a flat refresh). Boat cards show their line items with no amount until
+`PRICE_OVERRIDE` sets `boat_wash_wax` and `boat_oxidation`. Exterior-only grime on a car
+quotes as a full detail, the cheapest local price that covers it.
+
+**Hours:** no ad stated a job duration, so every row of `config.HOURS` is a labelled
+default, not a measurement. Ranking ($ per hour) is only as good as those defaults.

@@ -1,0 +1,350 @@
+{
+ "built_from": {
+  "ads_read": 121,
+  "ads_with_prices": 55,
+  "quotes_rejected_unverified": 0
+ },
+ "tiers": {
+  "car_interior": {
+   "label": "Car interior detail",
+   "unit": "flat",
+   "n": 2,
+   "prices_stated": 3,
+   "median": 160.0,
+   "thin": true,
+   "per_seller": [
+    120,
+    200.0
+   ],
+   "sources": [
+    "https://www.craigslist.org/view/d/minnetonka-mobile-interior-auto/5npP5GHdWWW3W2w8M5aGJ6",
+    "https://www.craigslist.org/view/d/saint-paul-kripotos-auto-spa-mobile/iL91c6qVeRnqVr11HHUcPb"
+   ],
+   "prices": [
+    {
+     "price": 120,
+     "size": "any",
+     "starting_at": true,
+     "quote": "Interior Deep Clean |  Starting at $120|",
+     "url": "https://www.craigslist.org/view/d/saint-paul-kripotos-auto-spa-mobile/iL91c6qVeRnqVr11HHUcPb",
+     "source": "craigslist",
+     "seller": "cl:7632342919"
+    },
+    {
+     "price": 175,
+     "size": "any",
+     "starting_at": false,
+     "quote": "Mobile Interior Auto Detailing - I Come To You - $175.00",
+     "url": "https://www.craigslist.org/view/d/minnetonka-mobile-interior-auto/5npP5GHdWWW3W2w8M5aGJ6",
+     "source": "craigslist",
+     "seller": "cl:mobile interior auto detailing - i come to you -"
+    },
+    {
+     "price": 225,
+     "size": "any",
+     "starting_at": false,
+     "quote": "$225 \u2014 Complete Interior Detail",
+     "url": "https://www.craigslist.org/view/d/minnetonka-mobile-interior-auto/5npP5GHdWWW3W2w8M5aGJ6",
+     "source": "craigslist",
+     "seller": "cl:mobile interior auto detailing - i come to you -"
+    }
+   ],
+   "stated_hours": []
+  },
+  "car_wash_wax": {
+   "label": "Car exterior wash + wax",
+   "unit": "flat",
+   "n": 0,
+   "prices_stated": 0,
+   "median": null,
+   "thin": true,
+   "per_seller": [],
+   "sources": [],
+   "prices": [],
+   "stated_hours": []
+  },
+  "car_full": {
+   "label": "Full detail (inside + out)",
+   "unit": "flat",
+   "n": 4,
+   "prices_stated": 11,
+   "median": 225.0,
+   "thin": false,
+   "per_seller": [
+    149,
+    200,
+    250,
+    310.0
+   ],
+   "sources": [
+    "https://www.craigslist.org/view/d/burnsville-vehicle-concierge-mobile/kgEyJVZ55wrRtEsNieDcwm",
+    "https://www.craigslist.org/view/d/minneapolis-wrightwayexteriorcleaning/7szw6RSQHZSpyrzAUy9FsX",
+    "https://www.craigslist.org/view/d/saint-paul-kripotos-auto-spa-mobile/iL91c6qVeRnqVr11HHUcPb",
+    "https://www.facebook.com/marketplace/item/1011371384984737/"
+   ],
+   "prices": [
+    {
+     "price": 150,
+     "size": "small",
+     "starting_at": false,
+     "quote": "Small vehicle $150",
+     "url": "https://www.craigslist.org/view/d/burnsville-vehicle-concierge-mobile/kgEyJVZ55wrRtEsNieDcwm",
+     "source": "craigslist",
+     "seller": "cl:vehicle concierge/ mobile mechanic cash crypto electronic payment"
+    },
+    {
+     "price": 200,
+     "size": "mid",
+     "starting_at": false,
+     "quote": "Mid size vehicle $200",
+     "url": "https://www.craigslist.org/view/d/burnsville-vehicle-concierge-mobile/kgEyJVZ55wrRtEsNieDcwm",
+     "source": "craigslist",
+     "seller": "cl:vehicle concierge/ mobile mechanic cash crypto electronic payment"
+    },
+    {
+     "price": 300,
+     "size": "large",
+     "starting_at": false,
+     "quote": "XL vehicle $300",
+     "url": "https://www.craigslist.org/view/d/burnsville-vehicle-concierge-mobile/kgEyJVZ55wrRtEsNieDcwm",
+     "source": "craigslist",
+     "seller": "cl:vehicle concierge/ mobile mechanic cash crypto electronic payment"
+    },
+    {
+     "price": 320,
+     "size": "small",
+     "starting_at": false,
+     "quote": "Small vehicle $320",
+     "url": "https://www.craigslist.org/view/d/burnsville-vehicle-concierge-mobile/kgEyJVZ55wrRtEsNieDcwm",
+     "source": "craigslist",
+     "seller": "cl:vehicle concierge/ mobile mechanic cash crypto electronic payment"
+    },
+    {
+     "price": 420,
+     "size": "mid",
+     "starting_at": false,
+     "quote": "Mid size vehicle-$420",
+     "url": "https://www.craigslist.org/view/d/burnsville-vehicle-concierge-mobile/kgEyJVZ55wrRtEsNieDcwm",
+     "source": "craigslist",
+     "seller": "cl:vehicle concierge/ mobile mechanic cash crypto electronic payment"
+    },
+    {
+     "price": 600,
+     "size": "large",
+     "starting_at": false,
+     "quote": "XL vehicle $600",
+     "url": "https://www.craigslist.org/view/d/burnsville-vehicle-concierge-mobile/kgEyJVZ55wrRtEsNieDcwm",
+     "source": "craigslist",
+     "seller": "cl:vehicle concierge/ mobile mechanic cash crypto electronic payment"
+    },
+    {
+     "price": 200,
+     "size": "any",
+     "starting_at": true,
+     "quote": "Full package | Starting At $200|",
+     "url": "https://www.craigslist.org/view/d/saint-paul-kripotos-auto-spa-mobile/iL91c6qVeRnqVr11HHUcPb",
+     "source": "craigslist",
+     "seller": "cl:7632342919"
+    },
+    {
+     "price": 99,
+     "size": "small",
+     "starting_at": true,
+     "quote": "Starting at 99$/149$/199$",
+     "url": "https://www.craigslist.org/view/d/minneapolis-wrightwayexteriorcleaning/7szw6RSQHZSpyrzAUy9FsX",
+     "source": "craigslist",
+     "seller": "cl:wrightwayexteriorcleaning - mobile detailing"
+    },
+    {
+     "price": 149,
+     "size": "mid",
+     "starting_at": true,
+     "quote": "Starting at 99$/149$/199$",
+     "url": "https://www.craigslist.org/view/d/minneapolis-wrightwayexteriorcleaning/7szw6RSQHZSpyrzAUy9FsX",
+     "source": "craigslist",
+     "seller": "cl:wrightwayexteriorcleaning - mobile detailing"
+    },
+    {
+     "price": 199,
+     "size": "large",
+     "starting_at": true,
+     "quote": "Starting at 99$/149$/199$",
+     "url": "https://www.craigslist.org/view/d/minneapolis-wrightwayexteriorcleaning/7szw6RSQHZSpyrzAUy9FsX",
+     "source": "craigslist",
+     "seller": "cl:wrightwayexteriorcleaning - mobile detailing"
+    },
+    {
+     "price": 250,
+     "size": "any",
+     "starting_at": false,
+     "quote": "we\u2019ll clean the interior of your car, and the exterior for only 250$!!",
+     "url": "https://www.facebook.com/marketplace/item/1011371384984737/",
+     "source": "facebook",
+     "seller": "fb:pfbid02JRAp8zEgEgE76fpVMpct9xkDiMMBonSLnZUhnqBLPk4ucRxAuX2nMP7ATfdutqhJl"
+    }
+   ],
+   "stated_hours": []
+  },
+  "paint_correction": {
+   "label": "Paint correction / buff",
+   "unit": "flat",
+   "n": 1,
+   "prices_stated": 5,
+   "median": 400,
+   "thin": true,
+   "per_seller": [
+    400
+   ],
+   "sources": [
+    "https://www.facebook.com/marketplace/item/1049528461044144/",
+    "https://www.facebook.com/marketplace/item/2259244668230514/"
+   ],
+   "prices": [
+    {
+     "price": 350,
+     "size": "small",
+     "starting_at": false,
+     "quote": "(coupe2door and sedans 350)",
+     "url": "https://www.facebook.com/marketplace/item/2259244668230514/",
+     "source": "facebook",
+     "seller": "fb:61569875240418"
+    },
+    {
+     "price": 400,
+     "size": "mid",
+     "starting_at": false,
+     "quote": "(SUV 400)",
+     "url": "https://www.facebook.com/marketplace/item/2259244668230514/",
+     "source": "facebook",
+     "seller": "fb:61569875240418"
+    },
+    {
+     "price": 500,
+     "size": "large",
+     "starting_at": false,
+     "quote": "(truck 500)",
+     "url": "https://www.facebook.com/marketplace/item/2259244668230514/",
+     "source": "facebook",
+     "seller": "fb:61569875240418"
+    },
+    {
+     "price": 450,
+     "size": "large",
+     "starting_at": false,
+     "quote": "(truck $450)",
+     "url": "https://www.facebook.com/marketplace/item/1049528461044144/",
+     "source": "facebook",
+     "seller": "fb:61569875240418"
+    },
+    {
+     "price": 600,
+     "size": "any",
+     "starting_at": false,
+     "quote": "(supercar$600)",
+     "url": "https://www.facebook.com/marketplace/item/1049528461044144/",
+     "source": "facebook",
+     "seller": "fb:61569875240418"
+    }
+   ],
+   "stated_hours": []
+  },
+  "headlight": {
+   "label": "Headlight restoration (pair)",
+   "unit": "flat",
+   "n": 3,
+   "prices_stated": 3,
+   "median": 100,
+   "thin": false,
+   "per_seller": [
+    30,
+    100,
+    100
+   ],
+   "sources": [
+    "https://www.craigslist.org/view/d/paintless-dent-repair-hail-damage-door/3aoEwx1KWRd2q54jp4GG1C",
+    "https://www.facebook.com/marketplace/item/1049528461044144/",
+    "https://www.facebook.com/marketplace/item/1407785514797699/"
+   ],
+   "prices": [
+    {
+     "price": 30,
+     "size": "any",
+     "starting_at": false,
+     "quote": "Foggy headlights? Clear them up for $30",
+     "url": "https://www.craigslist.org/view/d/paintless-dent-repair-hail-damage-door/3aoEwx1KWRd2q54jp4GG1C",
+     "source": "craigslist",
+     "seller": "cl:7634391668"
+    },
+    {
+     "price": 100,
+     "size": "any",
+     "starting_at": false,
+     "quote": "Headlight Restoration($50 per side)",
+     "url": "https://www.facebook.com/marketplace/item/1049528461044144/",
+     "source": "facebook",
+     "seller": "fb:61569875240418"
+    },
+    {
+     "price": 100,
+     "size": "any",
+     "starting_at": false,
+     "quote": "$50 per light",
+     "url": "https://www.facebook.com/marketplace/item/1407785514797699/",
+     "source": "facebook",
+     "seller": "fb:pfbid03736vzqifju5b4e6N4XbJaGoXgCJHhokMGnevoB57LNya1SnhjtRHvvouXydPaztel"
+    }
+   ],
+   "stated_hours": []
+  },
+  "touch_up": {
+   "label": "Touch-up (per area)",
+   "unit": "flat",
+   "n": 1,
+   "prices_stated": 1,
+   "median": 350,
+   "thin": true,
+   "per_seller": [
+    350
+   ],
+   "sources": [
+    "https://www.facebook.com/marketplace/item/2460968601050799/"
+   ],
+   "prices": [
+    {
+     "price": 350,
+     "size": "any",
+     "starting_at": false,
+     "quote": "Listed price: $350",
+     "url": "https://www.facebook.com/marketplace/item/2460968601050799/",
+     "source": "facebook",
+     "seller": "fb:pfbid053EUnFk7bss7ePWJBjwa2s1JN5YhqrDtiA5WbWyCNBWCUoWDqS88ZVYSmsjUcbW9l"
+    }
+   ],
+   "stated_hours": []
+  },
+  "boat_wash_wax": {
+   "label": "Boat wash + wax (per ft)",
+   "unit": "per_foot",
+   "n": 0,
+   "prices_stated": 0,
+   "median": null,
+   "thin": true,
+   "per_seller": [],
+   "sources": [],
+   "prices": [],
+   "stated_hours": []
+  },
+  "boat_oxidation": {
+   "label": "Boat oxidation removal / compound (per ft)",
+   "unit": "per_foot",
+   "n": 0,
+   "prices_stated": 0,
+   "median": null,
+   "thin": true,
+   "per_seller": [],
+   "sources": [],
+   "prices": [],
+   "stated_hours": []
+  }
+ }
+}

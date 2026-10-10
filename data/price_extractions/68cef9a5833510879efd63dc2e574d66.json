@@ -1,0 +1,22 @@
+{
+ "prices": [
+  {
+   "tier": "other",
+   "size": "any",
+   "unit": "flat",
+   "price": 40,
+   "starting_at": false,
+   "quote": "$40/Axle for brake pads"
+  },
+  {
+   "tier": "other",
+   "size": "any",
+   "unit": "flat",
+   "price": 50,
+   "starting_at": false,
+   "quote": "$50/Axle with rotor replacement"
+  }
+ ],
+ "durations": [],
+ "url": "https://www.craigslist.org/view/d/minneapolis-brake-work-and-jump-start/ekekgJ2Vr5ZFVnveBAR7mr"
+}

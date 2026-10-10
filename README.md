@@ -23,11 +23,14 @@ and for more, and the listing's clock is already running.
    detail need 0–10, names what it can see, and drafts the message. Results are
    cached by posting id in `data/assessments/`, so a rerun only pays for new listings.
    The model never produces a dollar figure. Prices come from the listing.
-3. `scripts/build.py` ranks by need × price × freshness (boats win ties) and writes
-   `site/index.html`.
-4. `scripts/deploy.py` pushes `site/` to Vercel.
+3. `scripts/redraft.py` writes each message's first line from the stored findings.
+4. `scripts/quote.py` maps findings to services and prices each one from
+   `data/price_table.json`: 10% under what Twin Cities detailers list on Craigslist
+   and Facebook (`scripts/price_table.py`). Set your own prices and hours in `config.py`.
+5. `scripts/build.py` ranks by quote per estimated hour and writes `site/index.html`.
+6. `scripts/deploy.py` pushes `site/` to Vercel.
 
-`./refresh.sh` runs all four. Change `CITY` in `config.py` for another Craigslist market.
+`./refresh.sh` runs them in order. Change `CITY` in `config.py` for another Craigslist market.
 
 Nothing is sent automatically. Craigslist's terms restrict unsolicited service offers,
 so on Craigslist reply only where the seller left a phone number or invites contact.

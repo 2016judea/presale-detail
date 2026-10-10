@@ -1,0 +1,38 @@
+{
+ "prices": [
+  {
+   "tier": "paint_correction",
+   "size": "small",
+   "unit": "flat",
+   "price": 350,
+   "starting_at": false,
+   "quote": "(coupe2door and sedans 350)"
+  },
+  {
+   "tier": "paint_correction",
+   "size": "mid",
+   "unit": "flat",
+   "price": 400,
+   "starting_at": false,
+   "quote": "(SUV 400)"
+  },
+  {
+   "tier": "paint_correction",
+   "size": "large",
+   "unit": "flat",
+   "price": 500,
+   "starting_at": false,
+   "quote": "(truck 500)"
+  },
+  {
+   "tier": "other",
+   "size": "any",
+   "unit": "flat",
+   "price": 350,
+   "starting_at": false,
+   "quote": "Add Option ceramic (350)"
+  }
+ ],
+ "durations": [],
+ "url": "https://www.facebook.com/marketplace/item/2259244668230514/"
+}

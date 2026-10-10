@@ -1,0 +1,14 @@
+{
+ "prices": [
+  {
+   "tier": "touch_up",
+   "size": "any",
+   "unit": "flat",
+   "price": 350,
+   "starting_at": false,
+   "quote": "Listed price: $350"
+  }
+ ],
+ "durations": [],
+ "url": "https://www.facebook.com/marketplace/item/2460968601050799/"
+}
