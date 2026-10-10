@@ -107,7 +107,7 @@ function card(c,i){
   return`<article class="card" data-k="${c.kind}">
   <div class="ph">${c.photo?`<img referrerpolicy="no-referrer" loading="${i<3?"eager":"lazy"}" src="${esc(c.photo)}" alt="">`:""}<span class="kind">${c.kind}</span></div>
   <div class="body">
-    <div class="top"><span class="price"><small>Asking price</small> ${money(c.price)}</span><span class="age"><small>Estimated hours</small> ${c.quote.hours?hrs(c.quote.hours):"?"}</span></div>
+    <div class="top"><span class="price"><small>Job price</small> ${money(c.quote.total)}</span><span class="age"><small>Estimated hours</small> ${c.quote.hours?hrs(c.quote.hours):"?"}</span></div>
     <h2>${esc(c.title)}</h2>
     <div class="loc"><span class="src ${c.source}">${c.source==="facebook"?"Facebook":"Craigslist"}</span>${esc(c.location)}${c.also?` · <a href="${esc(c.also.url)}" target="_blank" rel="noopener">also on Facebook</a>`:""}</div>
     <div><ul class="saw">${saw.map(f=>`<li>${esc(f)}</li>`).join("")}${rest.map(f=>`<li hidden>${esc(f)}</li>`).join("")}</ul>
