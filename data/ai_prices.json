@@ -1,0 +1,53 @@
+{
+  "model": "gemini-pro-latest + google_search",
+  "prices": {
+    "car_interior": {
+      "price": 110,
+      "hours": 2.5,
+      "us_low": 125,
+      "us_high": 200
+    },
+    "car_wash_wax": {
+      "price": 70,
+      "hours": 1.5,
+      "us_low": 80,
+      "us_high": 140
+    },
+    "car_full": {
+      "price": 170,
+      "hours": 4,
+      "us_low": 190,
+      "us_high": 300
+    },
+    "paint_correction": {
+      "price": 225,
+      "hours": 5,
+      "us_low": 250,
+      "us_high": 500
+    },
+    "headlight": {
+      "price": 45,
+      "hours": 1,
+      "us_low": 50,
+      "us_high": 100
+    },
+    "touch_up": {
+      "price": 35,
+      "hours": 0.5,
+      "us_low": 45,
+      "us_high": 90
+    },
+    "boat_wash_wax": {
+      "price": 12,
+      "hours": 0.2,
+      "us_low": 15,
+      "us_high": 25
+    },
+    "boat_oxidation": {
+      "price": 30,
+      "hours": 0.5,
+      "us_low": 35,
+      "us_high": 60
+    }
+  }
+}

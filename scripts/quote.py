@@ -1,6 +1,6 @@
 """Deterministic quote per listing: the model's findings -> service tiers (keyword rules),
-each priced from data/price_table.json (local median minus config.DISCOUNT, rounded to
-$5) or config.PRICE_OVERRIDE, with hours from config.HOURS. No model touches a number."""
+each priced from data/ai_prices.json (Gemini's competitive rate) or config.PRICE_OVERRIDE,
+with hours from the same file or config.HOURS_OVERRIDE."""
 import json
 import re
 import sys
@@ -10,7 +10,6 @@ ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT))
 import config  # noqa: E402
 
-TABLE = json.loads((ROOT / "data" / "price_table.json").read_text())["tiers"]
 
 NAMES = {
     "car_interior": "an interior detail", "car_wash_wax": "a wash and wax",
@@ -33,18 +32,20 @@ def round5(x):
     return int(x / 5 + 0.5) * 5  # half up: $202.50 -> $205
 
 
+AI = json.loads((ROOT / "data" / "ai_prices.json").read_text())["prices"]
+
+
 def unit_price(tier):
+    # Aidan 2026-10-10: "just ask an AI to price it." Gemini's competitive rate
+    # (scripts/ai_prices.py) unless config.PRICE_OVERRIDE sets the tier.
     if tier in config.PRICE_OVERRIDE:
         return config.PRICE_OVERRIDE[tier], "your price (config.py)"
-    row = TABLE.get(tier)
-    if not row or row["median"] is None:
-        return None, "no local price found"
-    # A median of one or two ads is one shop's price, not the market's (2026-10-10: a single
-    # $350 bumper-repair ad set every touch-up and pushed car quotes to $600-970). Thin tiers
-    # are priced on sight unless config.PRICE_OVERRIDE sets them.
-    if row["thin"]:
-        return None, f"only {row['n']} local price(s), priced on sight; set it in config.py"
-    return round5(row["median"] * (1 - config.DISCOUNT)), f"local median ${row['median']:g}, n={row['n']}"
+    r = AI[tier]
+    return r["price"], f"AI rate (US {r['us_low']}-{r['us_high']})"
+
+
+def tier_hours(tier):
+    return config.HOURS_OVERRIDE.get(tier, AI[tier]["hours"])
 
 
 def boat_length(l):
@@ -95,7 +96,7 @@ def quote(l, a):
             tier, (price, basis) = "car_full", unit_price("car_full")  # a full detail covers the interior
         per_ft = tier.startswith("boat_")
         q = length if per_ft else qty
-        h = config.HOURS[tier][0] * q
+        h = tier_hours(tier) * q
         if price is None:
             missing.append(tier)
             lines.append({"tier": tier, "name": NAMES[tier], "qty": q, "unit_price": None,

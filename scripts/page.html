@@ -98,12 +98,10 @@ function contact(c){
   return`<div class="contact">No phone in the post. Use the listing's reply button only if the post invites contact.</div>`}
 function hrs(h){return (Math.round(h*4)/4).toString()}
 function quoteBlock(c){const q=c.quote;
-  const lines=q.lines.map(x=>`<div class="qline"><span>${esc(x.name[0].toUpperCase()+x.name.slice(1))}${x.tier.startsWith("boat_")?` (${x.qty} ft)`:x.qty>1?` (${x.qty} areas)`:""}</span><b>${x.amount?money(x.amount):"no local price"}</b></div>`).join("");
   const head=q.total?`<div class="qhead">${money(q.total)} <small>· ~${hrs(q.hours)} hrs · ${money(q.per_hour)}/hr</small></div>`:`<div class="qhead">No quote yet</div>`;
   const notes=[];
-  if(q.missing.length)notes.push(`No local price found for ${q.missing.map(t=>t.replace(/_/g," ")).join(", ")}. Set yours in config.py.`);
   if(c.kind==="boat"&&q.boat_length_src==="default")notes.push(`No length in the listing; quoted as up to ${q.boat_length} ft.`);
-  return`<div class="quote">${head}${lines}${notes.map(n=>`<div class="qnote">${esc(n)}</div>`).join("")}</div>`}
+  return`<div class="quote">${head}${notes.map(n=>`<div class="qnote">${esc(n)}</div>`).join("")}</div>`}
 function card(c,i){
   const saw=c.findings.slice(0,3),rest=c.findings.slice(3);
   return`<article class="card" data-k="${c.kind}">
@@ -153,7 +151,7 @@ document.addEventListener("click",e=>{
   if(m){m.previousElementSibling.querySelectorAll("li[hidden]").forEach(li=>li.hidden=false);m.remove()}
 });
 const t=new Date(DATA.meta.fetched_at);
-$("#foot").innerHTML=`Refreshed ${t.toLocaleString("en-US",{month:"short",day:"numeric",hour:"numeric",minute:"2-digit"})}. A vision model scored the photos and wrote each message's first line. Quotes are computed: each service is priced ${Math.round(DATA.meta.discount*100)}% under the median of what Twin Cities detailers list on Craigslist and Facebook, and hours are starting guesses until you set your own in config.py. Asking prices come from the listing. Nothing here is sent automatically.`;
+$("#foot").innerHTML=`Refreshed ${t.toLocaleString("en-US",{month:"short",day:"numeric",hour:"numeric",minute:"2-digit"})}. A vision model scored the photos and wrote each message's first line. Quotes are computed from a competitive per-service rate an AI (Gemini, with web search) set against what US mobile detailers charge, with its job-hour estimates; set your own prices and times in config.py. Asking prices come from the listing. Nothing here is sent automatically.`;
 render();
 </script>
 </body>

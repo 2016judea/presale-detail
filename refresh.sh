@@ -9,6 +9,7 @@ cd "$(dirname "$0")"
 set -a; [ -f .env ] && . ./.env; [ -z "$VERCEL_TOKEN" ] && . ~/Desktop/bricks/.env; set +a
 node scripts/fetch_fb.js   # Facebook Marketplace, headless and logged out
 python3 scripts/fetch.py   # Craigslist, then merges both sources
+python3 scripts/ai_prices.py   # Gemini competitive rate + hours per tier
 python3 scripts/assess.py
 python3 scripts/redraft.py   # first line of each message, from the stored findings
 python3 scripts/build.py

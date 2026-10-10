@@ -100,12 +100,8 @@ def main():
                 "unquoted": sum(1 for c in cs if not c["quote"]["total"]),
                 "new24": sum(1 for c in cs if c["new24"]),
             }
-    table = json.loads((ROOT / "data" / "price_table.json").read_text())["tiers"]
-    prices = [{"tier": t, "label": r["label"], "n": r["n"], "median": r["median"], "thin": r["thin"],
-               "quote": Q.unit_price(t)[0], "hours": config.HOURS[t][0], "hours_src": config.HOURS[t][1]}
-              for t, r in table.items()]
-    meta = {"city": doc["city"], "fetched_at": doc["fetched_at"], "counts": counts,
-            "discount": config.DISCOUNT, "prices": prices}
+    prices = [{"tier": t, "quote": Q.unit_price(t)[0], "hours": Q.tier_hours(t)} for t in Q.AI]
+    meta = {"city": doc["city"], "fetched_at": doc["fetched_at"], "counts": counts, "prices": prices}
     tpl = (ROOT / "scripts" / "page.html").read_text()
     page = (tpl.replace("/*DATA*/null", json.dumps({"meta": meta, "cards": cards}))
                .replace("/*READER_EVENTS*/", (ROOT / "scripts" / "reader_events.js").read_text())
