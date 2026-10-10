@@ -39,7 +39,12 @@ def unit_price(tier):
     row = TABLE.get(tier)
     if not row or row["median"] is None:
         return None, "no local price found"
-    return round5(row["median"] * (1 - config.DISCOUNT)), ("thin: " if row["thin"] else "") + f"local median ${row['median']:g}, n={row['n']}"
+    # A median of one or two ads is one shop's price, not the market's (2026-10-10: a single
+    # $350 bumper-repair ad set every touch-up and pushed car quotes to $600-970). Thin tiers
+    # are priced on sight unless config.PRICE_OVERRIDE sets them.
+    if row["thin"]:
+        return None, f"only {row['n']} local price(s), priced on sight; set it in config.py"
+    return round5(row["median"] * (1 - config.DISCOUNT)), f"local median ${row['median']:g}, n={row['n']}"
 
 
 def boat_length(l):
@@ -86,6 +91,8 @@ def quote(l, a):
     length, length_src = (boat_length(l) if l["kind"] == "boat" else (None, None))
     for tier, qty in tiers_for(l, a.get("findings", [])):
         price, basis = unit_price(tier)
+        if price is None and tier == "car_interior" and unit_price("car_full")[0]:
+            tier, (price, basis) = "car_full", unit_price("car_full")  # a full detail covers the interior
         per_ft = tier.startswith("boat_")
         q = length if per_ft else qty
         h = config.HOURS[tier][0] * q

@@ -44,6 +44,9 @@ def message(opener, q, kind):
         if kind == "boat" and q["boat_length_src"] == "default":
             size = f" for a boat up to {config.BOAT_LENGTH_DEFAULT_FT:g} ft"
         parts.append(f"We can do it for ${q['total']}{size}, which includes {join_and([x['name'] for x in priced])}, and we come to you.")
+        extra = [x["name"] for x in q["lines"] if not x["amount"]]
+        if extra:
+            parts.append(f"If you'd like {join_and(extra)} too, we can price that when we see it.")
         parts.append("Want to pick a time this week?")
     else:
         parts.append("We come to you. Want me to send a price?")
