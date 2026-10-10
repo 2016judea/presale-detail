@@ -71,7 +71,7 @@ footer{max-width:1200px;margin:0 auto;padding:0 16px 32px;color:var(--mute);font
 <body>
 <header>
   <h1>Private sellers who need a detail</h1>
-  <p class="sub" id="sub">Cars and boats just listed by private sellers in {{CITY}} on Craigslist and Facebook Marketplace, ranked by what a job pays per hour of your time. Each has a quote and a message ready to send.</p>
+  <p class="sub" id="sub">Cars and boats just listed by private sellers in {{CITY}} on Craigslist and Facebook Marketplace, biggest job first. Each has a quote and a message ready to send.</p>
   <p class="stat" id="stat"></p>
   <p class="terms">Craigslist's terms restrict unsolicited service offers. On Craigslist posts, reply only where the seller left a phone number or asks to be contacted. Anywhere, keep it to one message.</p>
 </header>
@@ -105,15 +105,13 @@ function quoteBlock(c){const q=c.quote;
 function card(c,i){
   const saw=c.findings.slice(0,3),rest=c.findings.slice(3);
   return`<article class="card" data-k="${c.kind}">
-  <div class="ph">${c.photo?`<img referrerpolicy="no-referrer" loading="${i<3?"eager":"lazy"}" src="${esc(c.photo)}" alt="">`:""}<span class="rank">#${i+1}</span><span class="kind">${c.kind}</span></div>
+  <div class="ph">${c.photo?`<img referrerpolicy="no-referrer" loading="${i<3?"eager":"lazy"}" src="${esc(c.photo)}" alt="">`:""}<span class="kind">${c.kind}</span></div>
   <div class="body">
-    <div class="top"><span class="price">${money(c.price)}</span><span class="age">${age(c)}</span></div>
+    <div class="top"><span class="price"><small>Asking price</small> ${money(c.price)}</span><span class="age"><small>Estimated hours</small> ${c.quote.hours?hrs(c.quote.hours):"?"}</span></div>
     <h2>${esc(c.title)}</h2>
     <div class="loc"><span class="src ${c.source}">${c.source==="facebook"?"Facebook":"Craigslist"}</span>${esc(c.location)}${c.also?` · <a href="${esc(c.also.url)}" target="_blank" rel="noopener">also on Facebook</a>`:""}</div>
-    <div class="need">Needs a detail <span class="bar"><i style="width:${c.need*10}%"></i></span>${c.need}/10</div>
     <div><ul class="saw">${saw.map(f=>`<li>${esc(f)}</li>`).join("")}${rest.map(f=>`<li hidden>${esc(f)}</li>`).join("")}</ul>
     ${rest.length?`<button class="more" data-more>+ ${rest.length} more</button>`:""}</div>
-    ${quoteBlock(c)}
     <div class="msg">${esc(c.message)}</div>
     ${contact(c)}
     <div class="acts"><button data-copy="${c.id}">Copy message</button><a href="${esc(c.url)}" target="_blank" rel="noopener" data-open="${c.id}">${c.source==="facebook"?"Message seller":"Open listing"}</a></div>

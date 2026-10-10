@@ -83,8 +83,8 @@ def main():
             "source": l.get("source", "craigslist"), "also": l.get("also"),
             "quote": q, "days_idle": round((now - last).total_seconds() / 86400, 2),
         })
-    cards.sort(key=lambda c: (c["quote"]["per_hour"] is None, -(c["quote"]["per_hour"] or 0),
-                              -c["need"], c["days_idle"]))
+    # Aidan 2026-10-10: biggest job first, regardless of hours. Ties: need, then freshness.
+    cards.sort(key=lambda c: (-(c["quote"]["total"] or 0), -c["need"], c["days_idle"]))
 
     # Counts for every filter combination, so the tabs and the header line follow the
     # active filters without the page doing any arithmetic of its own.
