@@ -4,152 +4,161 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="noindex">
-<title>Pre-Sale Detail</title>
-<meta name="description" content="Private sellers in {{CITY}} who just listed a car or boat, ranked by how much a detail would help the photos — with a message ready to send.">
+<title>Detail Jobs</title>
+<meta name="description" content="Cars and boats for sale near {{CITY}} that need a detail, biggest job first, with a message ready to send.">
 <script>window.va=window.va||function(){(window.vaq=window.vaq||[]).push(arguments)};</script>
 <script defer src="/_vercel/insights/script.js"></script>
 <script>/*READER_EVENTS*/</script>
 <style>
-:root{--bg:#f4f1ea;--card:#fffdf8;--ink:#1d1b17;--mute:#6b665c;--line:#e2dccf;--accent:#0f5e6b;--accent-ink:#fff;--warn:#8a5a00;--chip:#ebe5d8;--hot:#b4471c}
-@media (prefers-color-scheme:dark){:root{--bg:#141412;--card:#1d1c19;--ink:#efebe2;--mute:#a19b8f;--line:#2f2d28;--accent:#5fb3c0;--accent-ink:#0b1b1e;--warn:#e0b25a;--chip:#2a2824;--hot:#f08a5d}}
+:root{--bg:#f4f1ea;--card:#fffdf8;--ink:#1d1b17;--mute:#6b665c;--line:#e2dccf;--accent:#0f5e6b;--accent-ink:#fff;--chip:#ebe5d8;--good:#2f7a3d}
+@media (prefers-color-scheme:dark){:root{--bg:#141412;--card:#1d1c19;--ink:#efebe2;--mute:#a7a194;--line:#33302a;--accent:#5fb3c0;--accent-ink:#0b1b1e;--chip:#2a2824;--good:#6cc27c}}
 *{box-sizing:border-box}
 html{-webkit-text-size-adjust:100%}
 body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.45 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif}
-header{padding:20px 16px 8px;max-width:1200px;margin:0 auto}
-h1{font-size:24px;line-height:1.15;margin:0 0 6px;letter-spacing:-.01em}
-.sub{color:var(--mute);font-size:15px;margin:0}
-.terms{margin:12px 0 0;padding:10px 12px;border:1px solid var(--line);border-radius:10px;font-size:13.5px;color:var(--warn);background:var(--card)}
+header{padding:22px 16px 12px;max-width:1200px;margin:0 auto}
+.who{font-size:13px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--mute);margin:0 0 6px}
+h1{font-size:30px;line-height:1.1;margin:0 0 8px;letter-spacing:-.02em}
+.sub{color:var(--mute);font-size:16px;margin:0}
+.sub b{color:var(--ink)}
 nav{position:sticky;top:0;z-index:5;background:var(--bg);padding:10px 0;border-bottom:1px solid var(--line)}
-nav .in{max-width:1200px;margin:0 auto;padding:0 16px;display:flex;gap:8px;align-items:center}
-nav button{font:inherit;font-size:15px;padding:8px 14px;border-radius:999px;border:1px solid var(--line);background:var(--card);color:var(--ink);cursor:pointer;min-height:40px}
+nav .in{max-width:1200px;margin:0 auto;padding:0 16px;display:flex;flex-direction:column;gap:8px}
+nav .row{display:flex;gap:6px;flex-wrap:wrap;align-items:center}
+nav button{font:inherit;font-size:15px;padding:8px 14px;border-radius:999px;border:1px solid var(--line);background:var(--card);color:var(--ink);cursor:pointer;min-height:44px}
 nav button[aria-pressed=true]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
-nav .count{margin-left:auto;color:var(--mute);font-size:13px;white-space:nowrap}
-main{max-width:1200px;margin:0 auto;padding:12px 16px 40px;display:grid;gap:16px;grid-template-columns:1fr}
+.tools{max-width:1200px;margin:0 auto;padding:0 16px 12px;display:flex;gap:6px;align-items:center;flex-wrap:wrap}
+.tools .row{display:flex;gap:6px}
+.tools button{font:inherit;font-size:14px;padding:5px 12px;border-radius:999px;border:1px solid var(--line);background:var(--card);color:var(--ink);cursor:pointer;min-height:36px}
+.tools button[aria-pressed=true]{background:var(--chip);border-color:var(--mute)}
+header .top{display:flex;justify-content:space-between;align-items:center;gap:10px;margin-bottom:6px}
+header .top .who{margin:0}
+.rates{font:inherit;font-size:14px;font-weight:600;padding:6px 14px;border-radius:999px;border:0;background:var(--ink);color:var(--bg);cursor:pointer;min-height:36px;white-space:nowrap}
+#rates{max-width:1200px;margin:0 auto;padding:0 16px}
+#rates[hidden]{display:none}
+.sheet{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:14px;margin-top:12px}
+.sheet h2{margin:0 0 4px}
+.sheet p{margin:0 0 10px;color:var(--mute);font-size:14px}
+.rate{display:grid;grid-template-columns:1fr 92px 76px;gap:8px;align-items:center;padding:6px 0;border-top:1px solid var(--line);font-size:15px}
+.rate.hd{border-top:0;font-size:12px;color:var(--mute);font-weight:600;text-transform:uppercase;letter-spacing:.04em}
+.rate input{font:inherit;font-size:16px;width:100%;padding:8px;border:1px solid var(--line);border-radius:8px;background:var(--bg);color:var(--ink)}
+.sheet .reset{background:none;border:0;color:var(--accent);font:inherit;font-size:14px;padding:10px 0 0;cursor:pointer}
+main{max-width:1200px;margin:0 auto;padding:14px 16px 40px;display:grid;gap:16px;grid-template-columns:1fr}
 @media (min-width:760px){main{grid-template-columns:repeat(2,1fr)}}
 @media (min-width:1120px){main{grid-template-columns:repeat(3,1fr)}}
-.card{background:var(--card);border:1px solid var(--line);border-radius:14px;overflow:hidden;display:flex;flex-direction:column;min-width:0}
+.card{background:var(--card);border:1px solid var(--line);border-radius:16px;overflow:hidden;display:flex;flex-direction:column;min-width:0}
+.card.sent{opacity:.55}
 .ph{position:relative;aspect-ratio:4/3;background:var(--chip)}
 .ph img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;display:block}
-.rank{position:absolute;top:10px;left:10px;background:rgba(0,0,0,.72);color:#fff;font-weight:700;font-size:14px;padding:4px 9px;border-radius:999px}
-.kind{position:absolute;top:10px;right:10px;background:rgba(255,255,255,.9);color:#222;font-size:12px;font-weight:600;padding:4px 9px;border-radius:999px;text-transform:uppercase;letter-spacing:.04em}
-.body{padding:14px;display:flex;flex-direction:column;gap:10px;flex:1}
-.top{display:flex;justify-content:space-between;align-items:baseline;gap:10px}
-.price{font-size:22px;font-weight:700}
-.age{color:var(--mute);font-size:13px;text-align:right}
-.age b{color:var(--hot);font-weight:600}
+.kind{position:absolute;top:10px;right:10px;background:rgba(255,255,255,.92);color:#222;font-size:12px;font-weight:700;padding:4px 9px;border-radius:999px;text-transform:uppercase;letter-spacing:.04em}
+.body{padding:16px;display:flex;flex-direction:column;gap:12px;flex:1}
+.job{display:flex;gap:28px;align-items:flex-start}
+.job div{display:flex;flex-direction:column}
+.job small{font-size:12px;font-weight:600;color:var(--mute);text-transform:uppercase;letter-spacing:.05em}
+.job .pay{font-size:32px;font-weight:800;letter-spacing:-.02em;line-height:1.05}
+.job .hrs{font-size:32px;font-weight:500;letter-spacing:-.02em;line-height:1.05;color:var(--mute)}
 h2{font-size:17px;line-height:1.3;margin:0;overflow-wrap:anywhere}
-.loc{color:var(--mute);font-size:14px;margin-top:-6px}
+.loc{color:var(--mute);font-size:14px;margin-top:-8px}
 .src{display:inline-block;font-size:12px;font-weight:700;padding:1px 7px;border-radius:5px;margin-right:6px;color:#fff;vertical-align:1px}
 .src.craigslist{background:#5a3e85}.src.facebook{background:#1b64d8}
-.need{display:flex;align-items:center;gap:10px;font-size:14px;font-weight:600}
-.bar{flex:1;height:8px;border-radius:4px;background:var(--chip);overflow:hidden}
-.bar i{display:block;height:100%;background:var(--hot)}
-.saw{margin:0;padding-left:18px;font-size:14.5px}
+.fix small{display:block;font-size:12px;font-weight:600;color:var(--mute);text-transform:uppercase;letter-spacing:.05em;margin-bottom:2px}
+.saw{margin:0;padding-left:18px;font-size:15px}
 .saw li{margin:2px 0}
-.msg{border:1px solid var(--line);border-radius:10px;padding:10px 12px;font-size:15px;background:var(--bg);white-space:pre-wrap}
-.contact{font-size:13.5px;color:var(--mute)}
+.more{background:none;border:0;color:var(--accent);font:inherit;font-size:14px;padding:4px 0;cursor:pointer}
+.msg{border-left:3px solid var(--accent);padding:2px 0 2px 12px;font-size:15px;white-space:pre-wrap}
+.contact{font-size:14px;color:var(--mute)}
 .contact b{color:var(--ink)}
-.acts{display:flex;gap:8px;margin-top:auto}
-.acts button,.acts a{flex:1;font:inherit;font-size:15px;font-weight:600;text-align:center;text-decoration:none;padding:11px 10px;border-radius:10px;min-height:44px;cursor:pointer}
-.acts button{background:var(--accent);color:var(--accent-ink);border:0}
-.acts a{border:1px solid var(--line);color:var(--ink);background:var(--card)}
-.more{background:none;border:0;color:var(--accent);font:inherit;font-size:14px;padding:0;cursor:pointer;text-align:left}
-.stat{margin:12px 0 0;font-size:15px;font-weight:600}
-.stat span{white-space:nowrap}
-nav .row{display:flex;gap:6px;flex-wrap:wrap}
-nav .in{flex-direction:column;align-items:stretch;gap:8px}
-nav .src-row button{font-size:13px;min-height:34px;padding:5px 11px}
-.quote{border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:10px 0;display:flex;flex-direction:column;gap:4px}
-.qhead{font-size:17px;font-weight:700}
-.qhead small{font-weight:500;color:var(--mute);font-size:14px}
-.qline{display:flex;justify-content:space-between;gap:10px;font-size:14px;color:var(--mute)}
-.qline b{color:var(--ink);font-weight:600;white-space:nowrap}
-.qnote{font-size:13px;color:var(--warn)}
-footer{max-width:1200px;margin:0 auto;padding:0 16px 32px;color:var(--mute);font-size:13px}
+.acts{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-top:auto}
+.acts .copy{grid-column:1/-1;background:var(--accent);color:var(--accent-ink);border:0;font-size:17px;min-height:52px}
+.acts button,.acts a{font:inherit;font-size:15px;font-weight:600;text-align:center;text-decoration:none;padding:11px 10px;border-radius:12px;min-height:46px;cursor:pointer;display:flex;align-items:center;justify-content:center}
+.acts a,.acts .mark{border:1px solid var(--line);color:var(--ink);background:var(--card)}
+.acts .mark[aria-pressed=true]{color:var(--good);border-color:var(--good)}
+.empty{grid-column:1/-1;text-align:center;color:var(--mute);padding:40px 0}
+footer{max-width:1200px;margin:0 auto;padding:0 16px 40px;color:var(--mute);font-size:13.5px}
 </style>
 </head>
 <body>
 <header>
-  <h1>Private sellers who need a detail</h1>
-  <p class="sub" id="sub">Cars and boats just listed by private sellers in {{CITY}} on Craigslist and Facebook Marketplace, biggest job first. Each has a quote and a message ready to send.</p>
-  <p class="stat" id="stat"></p>
-  <p class="terms">Craigslist's terms restrict unsolicited service offers. On Craigslist posts, reply only where the seller left a phone number or asks to be contacted. Anywhere, keep it to one message.</p>
+  <div class="top"><p class="who">Zane &amp; Darren · Detail jobs</p><button class="rates" id="ratesBtn" aria-expanded="false">Your prices</button></div>
+  <h1 id="h1"></h1>
+  <p class="sub" id="sub"></p>
 </header>
-<nav><div class="in">
-  <div class="row" id="kinds"></div>
-  <div class="row src-row" id="srcs"></div>
-</div></nav>
+<div class="tools"><span id="srcs" class="row"></span></div>
+<section id="rates" hidden></section>
+<nav><div class="in"><div class="row" id="kinds"></div></div></nav>
 <main id="list"></main>
 <footer id="foot"></footer>
 <script>
 const DATA=/*DATA*/null;
 const $=s=>document.querySelector(s);
 const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
-const money=n=>n?"$"+n.toLocaleString("en-US"):"No price";
-function ago(iso){if(!iso)return"";const d=(Date.now()-new Date(iso.replace(/([+-]\d\d)(\d\d)$/,"$1:$2")))/864e5;
-  if(d<1/24)return"just now";if(d<1)return Math.round(d*24)+"h ago";const n=Math.round(d);return n+(n==1?" day ago":" days ago")}
-function age(c){const p=ago(c.posted_at),u=ago(c.updated_at);
-  if(c.posted_at===c.updated_at)return`Posted <b>${p}</b>`;
-  return`Renewed <b>${u}</b><br>first posted ${p}`}
+const money=n=>"$"+Math.round(n).toLocaleString("en-US");
+const store={get(k,d){try{return JSON.parse(localStorage.getItem(k))??d}catch(_){return d}},set(k,v){try{localStorage.setItem(k,JSON.stringify(v))}catch(_){}}};
+let mine=store.get("rates",{}), sent=store.get("sent",{}), kind="all", src="all";
+const DEF=Object.fromEntries(DATA.meta.prices.map(p=>[p.tier,p]));
+const rate=t=>({price:mine[t]?.price??DEF[t].price,hours:mine[t]?.hours??DEF[t].hours});
+const r5=x=>Math.floor(x/5+.5)*5;
+function price(c){let total=0,hours=0;
+  for(const l of c.quote.lines){const r=rate(l.tier);total+=r5(r.price*l.qty);hours+=r.hours*l.qty}
+  return{total,hours,message:c.msg_tpl.replace("{TOTAL}",money(total))}}
+const hrs=h=>{const q=Math.round(h*2)/2;return q+(q===1?" hr":" hrs")};
 function contact(c){
-  if(c.source==="facebook")return`<div class="contact">Facebook seller. Use <b>Message seller</b> on the listing.</div>`;
-  if(c.phones.length)return`<div class="contact">Phone in post: <b>${c.phones.map(esc).join(", ")}</b></div>`;
-  if(c.contact_in_post)return`<div class="contact"><b>Seller left a phone number.</b> Tap "show contact info" on the listing.</div>`;
-  return`<div class="contact">No phone in the post. Use the listing's reply button only if the post invites contact.</div>`}
-function hrs(h){return (Math.round(h*4)/4).toString()}
-function quoteBlock(c){const q=c.quote;
-  const head=q.total?`<div class="qhead">${money(q.total)} <small>· ~${hrs(q.hours)} hrs · ${money(q.per_hour)}/hr</small></div>`:`<div class="qhead">No quote yet</div>`;
-  const notes=[];
-  if(c.kind==="boat"&&q.boat_length_src==="default")notes.push(`No length in the listing; quoted as up to ${q.boat_length} ft.`);
-  return`<div class="quote">${head}${notes.map(n=>`<div class="qnote">${esc(n)}</div>`).join("")}</div>`}
-function card(c,i){
-  const saw=c.findings.slice(0,3),rest=c.findings.slice(3);
-  return`<article class="card" data-k="${c.kind}">
+  if(c.source==="facebook")return`<div class="contact">Send it with <b>Message seller</b> on Facebook.</div>`;
+  if(c.phones.length)return`<div class="contact">Text <b>${c.phones.map(esc).join(", ")}</b></div>`;
+  if(c.contact_in_post)return`<div class="contact">Seller left a number: tap <b>show contact info</b> on the listing.</div>`;
+  return`<div class="contact">Reply through the listing.</div>`}
+function card(c,i){const p=c._p,saw=c.findings.slice(0,3),rest=c.findings.slice(3),isSent=!!sent[c.id];
+  return`<article class="card${isSent?" sent":""}">
   <div class="ph">${c.photo?`<img referrerpolicy="no-referrer" loading="${i<3?"eager":"lazy"}" src="${esc(c.photo)}" alt="">`:""}<span class="kind">${c.kind}</span></div>
   <div class="body">
-    <div class="top"><span class="price"><small>Job price</small> ${money(c.quote.total)}</span><span class="age"><small>Estimated hours</small> ${c.quote.hours?hrs(c.quote.hours):"?"}</span></div>
+    <div class="job"><div><small>Job price</small><span class="pay">${money(p.total)}</span></div><div><small>Estimated hours</small><span class="hrs">${hrs(p.hours)}</span></div></div>
     <h2>${esc(c.title)}</h2>
-    <div class="loc"><span class="src ${c.source}">${c.source==="facebook"?"Facebook":"Craigslist"}</span>${esc(c.location)}${c.also?` · <a href="${esc(c.also.url)}" target="_blank" rel="noopener">also on Facebook</a>`:""}</div>
-    <div><ul class="saw">${saw.map(f=>`<li>${esc(f)}</li>`).join("")}${rest.map(f=>`<li hidden>${esc(f)}</li>`).join("")}</ul>
-    ${rest.length?`<button class="more" data-more>+ ${rest.length} more</button>`:""}</div>
-    <div class="msg">${esc(c.message)}</div>
+    <div class="loc"><span class="src ${c.source}">${c.source==="facebook"?"Facebook":"Craigslist"}</span>${esc(c.location)}</div>
+    <div class="fix"><small>What it needs</small><ul class="saw">${saw.map(f=>`<li>${esc(f)}</li>`).join("")}${rest.map(f=>`<li hidden>${esc(f)}</li>`).join("")}</ul>
+    ${rest.length?`<button class="more" data-more>Show ${rest.length} more</button>`:""}</div>
+    <div class="msg">${esc(p.message)}</div>
     ${contact(c)}
-    <div class="acts"><button data-copy="${c.id}">Copy message</button><a href="${esc(c.url)}" target="_blank" rel="noopener" data-open="${c.id}">${c.source==="facebook"?"Message seller":"Open listing"}</a></div>
+    <div class="acts"><button class="copy" data-copy="${c.id}">Copy message</button><a href="${esc(c.url)}" target="_blank" rel="noopener" data-open="${c.id}">${c.source==="facebook"?"Message seller":"Open listing"}</a><button class="mark" data-sent="${c.id}" aria-pressed="${isSent}">${isSent?"Sent ✓":"Mark sent"}</button></div>
   </div></article>`}
-let kind="all",src="all";
-const C=(k,s)=>DATA.meta.counts[k+"|"+s];
-function tabs(){
-  $("#kinds").innerHTML=[["all","All"],["car","Cars"],["boat","Boats"]].map(([k,l])=>`<button data-kind="${k}" aria-pressed="${k===kind}">${l} ${C(k,src).shown}</button>`).join("");
-  $("#srcs").innerHTML=[["all","Both sites"],["craigslist","Craigslist"],["facebook","Facebook"]].map(([s,l])=>`<button data-src="${s}" aria-pressed="${s===src}">${l} ${C(kind,s).shown}</button>`).join("");
-  const n=C(kind,src);
-  const bits=[`${n.read} private listings read today`,`${n.shown} need a detail`];
-  if(n.quotes)bits.push(`${money(n.quotes)} in quotes`+(n.unquoted?` (${n.unquoted} not yet priced)`:""));
-  bits.push(`${n.new24} new in the last 24h`);
-  $("#stat").innerHTML=bits.map(b=>`<span>${esc(b)}</span>`).join(" · ");
-}
 function render(){
-  const cs=DATA.cards.filter(c=>(kind==="all"||c.kind===kind)&&(src==="all"||c.source===src));
-  $("#list").innerHTML=cs.map(card).join("");
-  tabs();
+  DATA.cards.forEach(c=>c._p=price(c));
+  const all=DATA.cards, f=(k,s)=>all.filter(c=>(k==="all"||c.kind===k)&&(s==="all"||c.source===s));
+  const cs=f(kind,src).sort((a,b)=>b._p.total-a._p.total||b.need-a.need||a.days_idle-b.days_idle);
+  const open=cs.filter(c=>!sent[c.id]);
+  $("#h1").textContent=`${money(open.reduce((a,c)=>a+c._p.total,0))} in detail jobs`;
+  const fresh=open.filter(c=>c.new24).length, nSent=cs.length-open.length;
+  $("#sub").innerHTML=`<b>${open.length}</b> people selling a ${kind==="all"?"car or boat":kind} near ${esc(DATA.meta.city.replace(/^./,m=>m.toUpperCase()))} need a detail${fresh?`, <b>${fresh}</b> listed today`:""}. Biggest job first.${nSent?` ${nSent} marked sent.`:""}`;
+  $("#kinds").innerHTML=[["all","All"],["car","Cars"],["boat","Boats"]].map(([k,l])=>`<button data-kind="${k}" aria-pressed="${k===kind}">${l} ${f(k,src).length}</button>`).join("");
+  $("#srcs").innerHTML=[["all","Both"],["craigslist","Craigslist"],["facebook","Facebook"]].map(([s,l])=>`<button data-src="${s}" aria-pressed="${s===src}">${l} ${f(kind,s).length}</button>`).join("");
+  $("#list").innerHTML=cs.length?cs.map(card).join(""):`<p class="empty">Nothing here today. New listings come in daily.</p>`;
 }
+function sheet(){
+  $("#rates").innerHTML=`<div class="sheet"><h2>Your prices</h2><p>What you charge and how long it takes you. Every job price on this page updates as you type. Saved on this phone.</p>
+  <div class="rate hd"><span>Service</span><span>Price $</span><span>Hours</span></div>
+  ${DATA.meta.prices.map(p=>{const r=rate(p.tier);return`<label class="rate"><span>${esc(p.label)}</span><input inputmode="decimal" data-t="${p.tier}" data-f="price" value="${r.price}"><input inputmode="decimal" data-t="${p.tier}" data-f="hours" value="${r.hours}"></label>`}).join("")}
+  <button class="reset" data-reset>Reset to suggested prices</button></div>`}
+document.addEventListener("input",e=>{const i=e.target.closest("[data-t]");if(!i)return;
+  const v=parseFloat(i.value);if(!(v>=0))return;(mine[i.dataset.t]??={})[i.dataset.f]=v;store.set("rates",mine);render()});
 document.addEventListener("click",e=>{
-  const f=e.target.closest("nav button");
+  if(e.target.closest("#ratesBtn")){const r=$("#rates"),b=$("#ratesBtn");r.hidden=!r.hidden;b.setAttribute("aria-expanded",!r.hidden);if(!r.hidden){sheet();va("event",{name:"open_prices"})}return}
+  if(e.target.closest("[data-reset]")){mine={};store.set("rates",mine);sheet();render();return}
+  const f=e.target.closest("button[data-kind],button[data-src]");
   if(f){if(f.dataset.kind)kind=f.dataset.kind;if(f.dataset.src)src=f.dataset.src;render();window.scrollTo({top:0});return}
   const cp=e.target.closest("[data-copy]");
-  if(cp){const c=DATA.cards.find(x=>x.id===cp.dataset.copy);
+  if(cp){const c=DATA.cards.find(x=>x.id===cp.dataset.copy),text=c._p.message;
     const done=()=>{cp.textContent="Copied";setTimeout(()=>cp.textContent="Copy message",1600)};
-    (navigator.clipboard?navigator.clipboard.writeText(c.message):Promise.reject()).then(done,()=>{
-      const t=document.createElement("textarea");t.value=c.message;document.body.appendChild(t);t.select();document.execCommand("copy");t.remove();done()});
+    (navigator.clipboard?navigator.clipboard.writeText(text):Promise.reject()).then(done,()=>{
+      const t=document.createElement("textarea");t.value=text;document.body.appendChild(t);t.select();document.execCommand("copy");t.remove();done()});
     va("event",{name:"copy",data:{id:c.id,kind:c.kind}});
     try{window.posthog&&posthog.capture&&posthog.capture("copy",{id:c.id,kind:c.kind,source:c.source})}catch(_){}
     return}
+  const sd=e.target.closest("[data-sent]");
+  if(sd){const id=sd.dataset.sent;if(sent[id])delete sent[id];else sent[id]=Date.now();store.set("sent",sent);render();va("event",{name:"mark_sent"});return}
   const op=e.target.closest("[data-open]");
   if(op){va("event",{name:"open_listing",data:{id:op.dataset.open}});return}
   const m=e.target.closest("[data-more]");
   if(m){m.previousElementSibling.querySelectorAll("li[hidden]").forEach(li=>li.hidden=false);m.remove()}
 });
 const t=new Date(DATA.meta.fetched_at);
-$("#foot").innerHTML=`Refreshed ${t.toLocaleString("en-US",{month:"short",day:"numeric",hour:"numeric",minute:"2-digit"})}. A vision model scored the photos and wrote each message's first line. Quotes are computed from a competitive per-service rate an AI (Gemini, with web search) set against what US mobile detailers charge, with its job-hour estimates; set your own prices and times in config.py. Asking prices come from the listing. Nothing here is sent automatically.`;
+$("#foot").innerHTML=`Updated ${t.toLocaleString("en-US",{month:"short",day:"numeric",hour:"numeric",minute:"2-digit"})}. Job prices start from a competitive US rate; set your own under <b>Your prices</b>. Nothing is sent for you.`;
 render();
 </script>
 </body>

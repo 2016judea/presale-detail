@@ -79,6 +79,9 @@ def main():
             "new24": (now - posted).total_seconds() < 86400,
             "need": a["need_score"], "findings": a["findings"],
             "message": message(opener, q, l["kind"]),
+            # The page reprices every card from the user's own rates, so it needs the
+            # message with the total left open, plus the line items.
+            "msg_tpl": message(opener, q, l["kind"]).replace(f"${q['total']}", "{TOTAL}", 1) if q["total"] else message(opener, q, l["kind"]),
             "contact_in_post": l["contact_in_post"], "phones": l["phones"],
             "source": l.get("source", "craigslist"), "also": l.get("also"),
             "quote": q, "days_idle": round((now - last).total_seconds() / 86400, 2),
@@ -100,7 +103,10 @@ def main():
                 "unquoted": sum(1 for c in cs if not c["quote"]["total"]),
                 "new24": sum(1 for c in cs if c["new24"]),
             }
-    prices = [{"tier": t, "quote": Q.unit_price(t)[0], "hours": Q.tier_hours(t)} for t in Q.AI]
+    LABELS = {"car_full": "Full detail (car)", "car_interior": "Interior only (car)", "car_wash_wax": "Wash + wax (car)",
+              "paint_correction": "Buff / paint correction", "headlight": "Headlights (pair)", "touch_up": "Touch-up (per spot)",
+              "boat_wash_wax": "Boat wash + wax (per ft)", "boat_oxidation": "Boat oxidation (per ft)"}
+    prices = [{"tier": t, "label": LABELS[t], "price": Q.unit_price(t)[0], "hours": Q.tier_hours(t)} for t in LABELS]
     meta = {"city": doc["city"], "fetched_at": doc["fetched_at"], "counts": counts, "prices": prices}
     tpl = (ROOT / "scripts" / "page.html").read_text()
     page = (tpl.replace("/*DATA*/null", json.dumps({"meta": meta, "cards": cards}))
