@@ -1,0 +1,26 @@
+{
+ "fit": true,
+ "fit_reason": "Whole 1989 Sea Ray 260 cuddy powerboat listed by a private owner in the boats by owner section.",
+ "photo_quality": "fair",
+ "need_score": 5,
+ "findings": [
+  "Cuddy cabin cluttered with fishing rods, tackle boxes, bags and gear on the berth cushions and floor",
+  "Gelcoat on the bow deck and hull sides looks somewhat flat and dull in places rather than deeply glossy",
+  "Cockpit side panel and gunwale area show light grime and dust around the rod holder and storage opening",
+  "Cabin carpet and upholstered berth cushions look like they could use a cleaning"
+ ],
+ "services": [
+  "interior detail",
+  "exterior wash and wax",
+  "gelcoat oxidation removal"
+ ],
+ "message": "Hi, we saw your listing for the 1989 Sea Ray 260 Cuddy on the Rainy River. The hull and deck gelcoat look a little flat in the photos, and the cuddy cabin has a lot of gear in it that hides the berths and carpet. We do pre-sale details and gelcoat polish and can come to the dock. Would you like a quote?",
+ "id": "7935744980",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:50:34",
+ "usage": {
+  "in": 3348,
+  "out": 380
+ }
+}

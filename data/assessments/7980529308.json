@@ -1,0 +1,29 @@
+{
+ "fit": true,
+ "fit_reason": "Whole van offered by a private owner in the cars-by-owner section.",
+ "photo_quality": "good",
+ "need_score": 4,
+ "findings": [
+  "Hood paint looks dull and blotchy with uneven reflection across the top in the front photo",
+  "Rear doors look slightly dull and faded compared with the side panels",
+  "Front bumper caps and bug deflector look a bit grey and faded rather than deep black",
+  "Lower body cladding and side molding strip look slightly chalky",
+  "Headlight lenses look mildly hazy in the front photo",
+  "Light road film on the lower rear corners and around the rear step bumper"
+ ],
+ "services": [
+  "exterior wash and wax",
+  "paint correction / buff",
+  "trim restoration",
+  "headlight restoration"
+ ],
+ "message": "Hi, we saw your listing for the Ram Van shorty and it looks like a really clean one. In the photos the hood paint looks a little dull and blotchy, and the black bumper caps are starting to fade. We do a mobile pre-sale buff and trim restoration that would bring that dark cherry back up to a deep gloss before buyers come out. Would you like a quote?",
+ "id": "7980529308",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:52:10",
+ "usage": {
+  "in": 3807,
+  "out": 366
+ }
+}

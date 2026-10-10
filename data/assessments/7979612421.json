@@ -1,0 +1,26 @@
+{
+ "fit": true,
+ "fit_reason": "Private owner selling a whole 2009 Audi Q7 SUV.",
+ "photo_quality": "fair",
+ "need_score": 5,
+ "findings": [
+  "Torn and worn leather on the driver seat side bolster",
+  "Creased, worn leather on the front seat backs and second-row seats",
+  "Dust and haze on the dash top and center console trim",
+  "Streaks and spots on the rear moonroof glass",
+  "Exterior white paint looks reasonably clean but slightly dull in low evening light"
+ ],
+ "services": [
+  "interior detail",
+  "exterior wash and wax"
+ ],
+ "message": "Hi, we saw your listing for the Q7. The leather looks pretty worn on the seats, and the dash and moonroof glass could use a cleanup before buyers come out. We do mobile pre-sale details, including a leather clean and condition and an exterior wash and wax, and we come to you. Would you like a quote?",
+ "id": "7979612421",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:53:16",
+ "usage": {
+  "in": 3521,
+  "out": 294
+ }
+}

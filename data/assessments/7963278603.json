@@ -1,0 +1,29 @@
+{
+ "fit": true,
+ "fit_reason": "Private owner selling a complete 14 ft Lund aluminum boat with motor and trailer.",
+ "photo_quality": "fair",
+ "need_score": 5,
+ "findings": [
+  "Bare aluminum hull sides below the red stripe look dull and hazy with streaky staining near the bow",
+  "Interior floor and ribs show dirt, scuffs and worn grey patches in the walkways",
+  "Light green interior paint is dusty with marks along the gunwales and seat bases",
+  "Red vinyl seat cushions look faded and slightly chalky",
+  "Wooden bench seat tops are weathered and dull",
+  "Red stripe on the hull side looks somewhat faded under the cover line"
+ ],
+ "services": [
+  "interior detail",
+  "exterior wash and wax",
+  "paint correction / buff",
+  "trim restoration"
+ ],
+ "message": "Hi, we saw your listing for the 14 foot Lund with the Yamaha. The interior floor and seats look a bit dusty and worn in the photos, and the bare aluminum on the hull sides has gone dull. We do mobile pre-sale details for boats, including cleaning the interior and polishing the aluminum and stripe, and can come to you. Would you like a quote?",
+ "id": "7963278603",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:49:38",
+ "usage": {
+  "in": 2982,
+  "out": 388
+ }
+}

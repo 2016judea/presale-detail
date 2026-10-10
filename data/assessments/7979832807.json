@@ -1,0 +1,27 @@
+{
+ "fit": true,
+ "fit_reason": "Whole pickup truck listed by a private owner in cars by owner.",
+ "photo_quality": "good",
+ "need_score": 3,
+ "findings": [
+  "Silver paint on the hood, fenders and doors looks reasonably clean but slightly flat rather than deeply glossy",
+  "Headlight lenses on both front corners look somewhat hazy and yellowed",
+  "Black plastic bumper lower valance and rear step bumper pads look a bit gray and faded",
+  "Light dust and road film on the lower rocker panels and rear bumper area",
+  "Interior not shown in any photo, so its condition can't be judged"
+ ],
+ "services": [
+  "exterior wash and wax",
+  "headlight restoration",
+  "trim restoration"
+ ],
+ "message": "Hi, we saw your listing for the 2007 Colorado and it looks like a clean, well kept truck. The headlight lenses look a little hazy and the black bumper trim has faded some, both of which we can freshen up along with a wash and wax. We do pre-sale details that come to you. Would you like a quote?",
+ "id": "7979832807",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:53:00",
+ "usage": {
+  "in": 3341,
+  "out": 336
+ }
+}

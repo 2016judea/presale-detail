@@ -1,0 +1,27 @@
+{
+ "fit": true,
+ "fit_reason": "Whole private-party car listed by owner.",
+ "photo_quality": "fair",
+ "need_score": 3,
+ "findings": [
+  "Silver paint looks generally clean but somewhat flat under overcast light, especially on the hood and trunk lid",
+  "Headlight lenses appear slightly hazy/yellowed on the front corners",
+  "Black trim around the windows and rear spoiler edges looks a bit faded",
+  "Tires look dull/brown rather than dressed",
+  "No interior photos, so interior condition can't be judged"
+ ],
+ "services": [
+  "exterior wash and wax",
+  "headlight restoration",
+  "trim restoration"
+ ],
+ "message": "Hi, we saw your listing for the Thunderbird and it looks like a solid, clean car. The headlight lenses look a little hazy and the black trim is a bit faded, which a quick restoration and wax would sharpen up in photos. We do mobile pre-sale details and can come to you. Would you like a quote?",
+ "id": "7980022521",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:52:49",
+ "usage": {
+  "in": 2649,
+  "out": 308
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "fit": true,
+ "fit_reason": "Whole car, a 2001 Audi S4 sedan listed by its private owner in cars by owner.",
+ "photo_quality": "good",
+ "need_score": 4,
+ "findings": [
+  "Scuffs and scrapes on the lower front bumper below the passenger headlight",
+  "Hazy, yellowed passenger headlight lens",
+  "Brake dust and grime on the inner wheel barrels and around the calipers",
+  "Dusty dashboard top and fine dust on the center console trim",
+  "Silver paint looks clean but somewhat flat in the side shots, with no deep gloss",
+  "Light dirt and road film along the lower rocker panels"
+ ],
+ "services": [
+  "exterior wash and wax",
+  "headlight restoration",
+  "touch-up",
+  "interior detail",
+  "paint correction / buff"
+ ],
+ "message": "Hi, we saw your listing for the S4 B5 and it looks like a well-kept build. From the photos, the passenger headlight is a bit hazy and there are some scuffs on the lower front bumper, both of which we can clean up along with a light buff and interior wipe-down. We do pre-sale details that come to you. Would you like a quote?",
+ "id": "7979719827",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:53:10",
+ "usage": {
+  "in": 3849,
+  "out": 366
+ }
+}

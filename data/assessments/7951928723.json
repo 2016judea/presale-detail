@@ -1,0 +1,29 @@
+{
+ "fit": true,
+ "fit_reason": "Private owner selling a complete 14ft aluminum Lund fishing boat with outboard and trailer.",
+ "photo_quality": "good",
+ "need_score": 4,
+ "findings": [
+  "Dull, slightly chalky look to the bare aluminum lower hull on both sides",
+  "Red painted upper hull band looks a bit flat rather than glossy",
+  "Light grime and dirt in the floor of the hull between the bench seats",
+  "Gear (rope, anchor, net, minnow bucket) piled in the bow area making the interior look cluttered",
+  "Weathered, faded finish on the wooden bench seat tops",
+  "Some scuffing and dirt on the outboard lower unit and cowling"
+ ],
+ "services": [
+  "exterior wash and wax",
+  "paint correction / buff",
+  "interior detail",
+  "touch-up"
+ ],
+ "message": "Hi, we saw your listing for the 1989 Lund and outboard package. It looks like a solid boat, and a cleanout of the hull floor plus a polish on the red band and aluminum sides would really help it pop in photos. We do pre-sale boat details and come to you. Would you like a quote?",
+ "id": "7951928723",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:49:17",
+ "usage": {
+  "in": 2798,
+  "out": 363
+ }
+}

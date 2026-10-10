@@ -1,0 +1,28 @@
+{
+ "fit": true,
+ "fit_reason": "Whole 20' Rinker bowrider on trailer, sold by a private owner. Not running, but the hull and interior can still be detailed.",
+ "photo_quality": "fair",
+ "need_score": 7,
+ "findings": [
+  "Faded, dull blue gelcoat stripe along the port hull side",
+  "Dull, chalky-looking white gelcoat on the lower port hull",
+  "Grimy, stained seat vinyl on the cockpit and bow seats, especially the white panels",
+  "Dirty, stained carpet on the cockpit floor and bow area",
+  "Dust and grime on the dash and console surfaces",
+  "Weathered, dirty windshield and cockpit side panels"
+ ],
+ "services": [
+  "gelcoat oxidation removal",
+  "interior detail",
+  "exterior wash and wax"
+ ],
+ "message": "Hi Doug, we saw your listing for the Rinker. The seat vinyl and cockpit carpet look like they'd clean up well, and the faded blue stripe on the hull could get its color back with a gelcoat polish. We do pre-sale details and come to you, so the boat wouldn't need to move. Would you like a quote?",
+ "id": "7953953121",
+ "model": "claude-opus-5-5",
+ "photos_seen": 3,
+ "assessed_at": "2026-10-10T11:51:03",
+ "usage": {
+  "in": 2195,
+  "out": 368
+ }
+}

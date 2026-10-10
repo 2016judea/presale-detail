@@ -1,0 +1,25 @@
+{
+ "fit": false,
+ "fit_reason": "This is a consignment listing handled by a marina (Knotty Oar Marina), not a private owner selling their own boat, so it falls under dealer stock.",
+ "photo_quality": "good",
+ "need_score": 6,
+ "findings": [
+  "Dull, hazy pontoon tubes on both sides with darker water staining and scum toward the bow",
+  "Dark waterline staining on the front of the port pontoon visible from the bow angle",
+  "Grime and streaking on the port side fence panel near the gate",
+  "Overall flat, chalky look to the white fence panels and rails rather than a gloss"
+ ],
+ "services": [
+  "exterior wash and wax",
+  "gelcoat oxidation removal"
+ ],
+ "message": "Hi, we saw the listing for the Starcraft Holiday 200. The pontoon tubes look dull with some waterline staining toward the bow, and the side panels have some streaking near the gate. We do mobile pre-sale cleanups, including toon brightening and a wash and wax on the fence panels. Would you like a quote?",
+ "id": "7956168728",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:50:01",
+ "usage": {
+  "in": 3557,
+  "out": 334
+ }
+}

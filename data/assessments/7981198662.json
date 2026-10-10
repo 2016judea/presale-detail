@@ -1,0 +1,30 @@
+{
+ "fit": true,
+ "fit_reason": "Whole car, a 2006 Saturn Ion, listed by a private owner in cars by owner.",
+ "photo_quality": "good",
+ "need_score": 6,
+ "findings": [
+  "Light stains and soiling on the driver seat bottom cushion",
+  "Spotting and smudges on the rear bench seat cushion",
+  "Dirty, scuffed driver footwell carpet and floor mat area",
+  "Grime and dirt on the rear door jamb and sill area",
+  "Paint looks flat and dull on the hood and side panels, without much gloss",
+  "Headlight lens looks somewhat yellowed and hazy on the passenger side",
+  "Dusty dash and center console surfaces"
+ ],
+ "services": [
+  "interior detail",
+  "exterior wash and wax",
+  "paint correction / buff",
+  "headlight restoration"
+ ],
+ "message": "Hi, we saw your listing for the Saturn Ion. The cloth seats have some light stains on the driver cushion and rear bench, and the driver footwell and door jambs look like they could use a good cleaning. We do mobile pre-sale details, including interior shampoo, an exterior wash and buff, and headlight restoration, and we come to you. Would you like a quote?",
+ "id": "7981198662",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:51:19",
+ "usage": {
+  "in": 3533,
+  "out": 382
+ }
+}

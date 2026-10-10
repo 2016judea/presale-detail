@@ -1,0 +1,30 @@
+{
+ "fit": true,
+ "fit_reason": "Whole classic car (1972 Ford LTD sedan) listed by a private owner in cars by owner.",
+ "photo_quality": "good",
+ "need_score": 6,
+ "findings": [
+  "Dull, flat-looking paint on the hood and trunk lid with little gloss in direct sun",
+  "Uneven sheen and dullness along the side panels and doors",
+  "Green vinyl roof looks faded and dusty, especially over the rear window area",
+  "Dirt and grime in the rear door jamb and on the sill plate",
+  "Rear bench seat vinyl looks dingy with visible soiling in the pleats",
+  "Loose item (blue cushion) left on the rear seat",
+  "Smudgy, faded interior door panel and lower door area on the rear door"
+ ],
+ "services": [
+  "paint correction / buff",
+  "exterior wash and wax",
+  "interior detail",
+  "trim restoration"
+ ],
+ "message": "Hi, we saw your listing for the 1972 LTD and it looks like a solid car. The paint on the hood and trunk looks a bit flat in the photos, and the rear bench and door jambs could use a cleanup. We do pre-sale details, including a machine buff and vinyl top refresh, and we come to you. Would you like a quote?",
+ "id": "7980870072",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:51:41",
+ "usage": {
+  "in": 3098,
+  "out": 394
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "fit": true,
+ "fit_reason": "Whole private-party 1983 Chevy Cavalier convertible listed by owner.",
+ "photo_quality": "fair",
+ "need_score": 6,
+ "findings": [
+  "Dull, flat white paint on the hood and front fenders with spotting visible on the hood",
+  "Dirt and grime buildup along the lower rocker panels and rear bumper area",
+  "Faded, grayed black bumper rub strips front and rear",
+  "Faded gray body side trim stripes along the doors",
+  "Hazy, yellowed headlight lenses",
+  "Dusty-looking soft top with light gray fading on the black canvas",
+  "Dirty, worn-looking wire-style wheel covers"
+ ],
+ "services": [
+  "exterior wash and wax",
+  "paint correction / buff",
+  "trim restoration",
+  "headlight restoration",
+  "interior detail"
+ ],
+ "message": "Hi, we saw your listing for the 1983 Cavalier convertible. The white paint on the hood looks a little flat and the black bumper strips have faded to gray, both things a buff and trim restoration would freshen up nicely before buyers see it. We do mobile pre-sale details and can come to you. Would you like a quote?",
+ "id": "7981148859",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:51:28",
+ "usage": {
+  "in": 3194,
+  "out": 371
+ }
+}

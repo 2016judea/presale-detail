@@ -1,0 +1,28 @@
+{
+ "fit": true,
+ "fit_reason": "Whole passenger sedan listed by a private owner in cars by owner.",
+ "photo_quality": "fair",
+ "need_score": 5,
+ "findings": [
+  "Steering wheel rim shows a worn, shiny, grimy grip area at the top and sides",
+  "Dust and light grime across the dashboard top and around the center stack",
+  "Dust visible on the center console and cupholder area",
+  "Headlight lenses look slightly cloudy on the driver side front",
+  "Dark paint on the hood and front bumper looks dull in places with light film, harder to judge in harsh sun"
+ ],
+ "services": [
+  "interior detail",
+  "exterior wash and wax",
+  "headlight restoration",
+  "paint correction / buff"
+ ],
+ "message": "Hi, we saw your Impala listing and it looks like a solid car. In the photos the steering wheel and dash are showing some wear and dust, and the dark paint up front could use some gloss back. We do mobile pre-sale details, inside and out, and come to you. Would you like a quote?",
+ "id": "7980489675",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:52:10",
+ "usage": {
+  "in": 3213,
+  "out": 321
+ }
+}

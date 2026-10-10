@@ -1,0 +1,26 @@
+{
+ "fit": true,
+ "fit_reason": "Private owner selling a whole 1965 Pontiac LeMans convertible.",
+ "photo_quality": "good",
+ "need_score": 4,
+ "findings": [
+  "Green paint is glossy overall but shows a slightly flat, uneven sheen on the trunk lid and rear quarters",
+  "Light dust and grime in the engine bay, on the inner fenders and around the air cleaner and valve cover",
+  "Tonneau/boot cover area behind the rear seat looks dusty and wrinkled",
+  "Front and rear chrome bumpers show some dullness and haze"
+ ],
+ "services": [
+  "exterior wash and wax",
+  "paint correction / buff",
+  "interior detail"
+ ],
+ "message": "Hi, we saw your listing for the 1965 LeMans convertible, it's a great looking cruiser. The green paint has good gloss, and a light buff on the trunk lid and rear quarters plus an engine bay cleanup would make it pop even more in photos. We do pre-sale details and come to you. Would you like a quote?",
+ "id": "7979784564",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:53:00",
+ "usage": {
+  "in": 3576,
+  "out": 330
+ }
+}

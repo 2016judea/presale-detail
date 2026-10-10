@@ -1,0 +1,25 @@
+{
+ "fit": true,
+ "fit_reason": "Private owner selling a whole pickup truck in the cars by owner section.",
+ "photo_quality": "good",
+ "need_score": 3,
+ "findings": [
+  "Exterior paint looks fairly clean and glossy in the sunlit side shots",
+  "Dirt, leaves and debris scattered across the spray-in bedliner floor",
+  "Light dust and haze visible on the tailgate and rear bumper in the rear shots",
+  "Some road grime on the lower rocker and side step area"
+ ],
+ "services": [
+  "exterior wash and wax",
+  "interior detail"
+ ],
+ "message": "Hi, we saw your listing for the Silverado RST. The paint looks good, but the bed liner has a fair amount of dirt and debris, and the tailgate and rear bumper look a little dusty in the photos. We do pre-sale details that come to you, including a wash and wax and a bed clean-out, so it photographs its best. Would you like a quote?",
+ "id": "7980047412",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:52:49",
+ "usage": {
+  "in": 3247,
+  "out": 300
+ }
+}

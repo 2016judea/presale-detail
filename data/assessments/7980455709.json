@@ -1,0 +1,26 @@
+{
+ "fit": true,
+ "fit_reason": "Private owner selling a whole car (2013 Tesla Model S sedan) in the cars by owner section.",
+ "photo_quality": "fair",
+ "need_score": 3,
+ "findings": [
+  "Five exterior photos only, with heavy dappled tree shade across the hood and sides that makes paint condition hard to judge",
+  "White paint looks fairly clean and reasonably glossy on the hood and front fascia",
+  "Light dust and road film visible on the lower front bumper and lower rear quarter near the wheels",
+  "Black wheels look dusty with some brake dust on the front and rear wheels",
+  "No interior photos, so interior condition cannot be judged"
+ ],
+ "services": [
+  "exterior wash and wax",
+  "interior detail"
+ ],
+ "message": "Hi, we saw your listing for the white Model S. It looks to be in good shape, though the lower bumper and black wheels are picking up some dust and road film. We do pre-sale details that come to you, a wash and wax plus an interior clean so it shows its best in photos. Would you like a quote?",
+ "id": "7980455709",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:52:13",
+ "usage": {
+  "in": 2584,
+  "out": 335
+ }
+}

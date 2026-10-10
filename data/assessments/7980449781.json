@@ -1,0 +1,27 @@
+{
+ "fit": true,
+ "fit_reason": "Private owner selling a whole 2012 Mercedes E350 sedan.",
+ "photo_quality": "fair",
+ "need_score": 4,
+ "findings": [
+  "Light dust and road film along the lower doors and rocker panels on both sides",
+  "Water bottle and loose items visible on the front passenger seat and dash area through the windshield",
+  "Clutter on the front of the dash visible through the windshield",
+  "Paint looks reasonably glossy on the trunk lid and hood, with some dullness and light film on the lower front bumper",
+  "Headlight lenses look slightly hazy in the front photo"
+ ],
+ "services": [
+  "exterior wash and wax",
+  "interior detail",
+  "headlight restoration"
+ ],
+ "message": "Hi, we saw your listing for the E350. The paint still has good gloss, but there's some road film on the lower doors and a few items on the front seat and dash showing in the photos. We do pre-sale details that come to you, including a wash and wax, interior cleanup and headlight touch-up. Would you like a quote?",
+ "id": "7980449781",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:52:14",
+ "usage": {
+  "in": 2922,
+  "out": 329
+ }
+}

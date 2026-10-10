@@ -1,0 +1,28 @@
+{
+ "fit": true,
+ "fit_reason": "Whole private-party car (1993 Lincoln Mark VIII) listed by its owner.",
+ "photo_quality": "good",
+ "need_score": 6,
+ "findings": [
+  "Leather driver seat shows heavy creasing and wear on the bolster and cushion",
+  "Dusty, dull interior surfaces on dash, console and door panel",
+  "Gray carpet in driver footwell looks dirty and matted",
+  "Loose items (spray can, cloth) left on the driver seat in the interior photo",
+  "Blue paint on hood, roof and trunk looks hazy with dust and light grime in spots, could use a polish to bring back depth",
+  "Chrome and lower body trim along the sides look dusty"
+ ],
+ "services": [
+  "interior detail",
+  "exterior wash and wax",
+  "paint correction / buff"
+ ],
+ "message": "Hi Kevin, we saw your listing for the 1993 Mark VIII. The leather seats and carpet look like they could really come back with a deep clean and conditioning, and a polish would bring out more shine in that blue paint. We do pre-sale details and come to you. Would you like a quote?",
+ "id": "7980640122",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:52:01",
+ "usage": {
+  "in": 2927,
+  "out": 357
+ }
+}

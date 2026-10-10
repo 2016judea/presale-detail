@@ -1,0 +1,28 @@
+{
+ "fit": true,
+ "fit_reason": "Whole 2004 Toyota Sequoia SUV listed by a private owner in cars by owner.",
+ "photo_quality": "fair",
+ "need_score": 5,
+ "findings": [
+  "Black paint looks dull and dusty rather than glossy on the hood and front fenders in the front shots",
+  "Unpainted black front bumper and lower trim look faded and grayish",
+  "Headlight lenses appear slightly hazy and yellowed",
+  "Dust and road film visible along the lower doors and rocker area on the driver side",
+  "Several photos are taken at dusk and in shade, which limits detail on paint condition; no interior photos shown"
+ ],
+ "services": [
+  "exterior wash and wax",
+  "paint correction / buff",
+  "trim restoration",
+  "headlight restoration"
+ ],
+ "message": "Hi, we saw your listing for the Sequoia. The black paint on the hood looks a bit dull, and the front bumper trim and headlights have faded some, which a buff, trim restoration and headlight polish would really freshen up for photos. We do mobile pre-sale details and can come to you before the weekend. Would you like a quote?",
+ "id": "7980792828",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:51:48",
+ "usage": {
+  "in": 2827,
+  "out": 358
+ }
+}

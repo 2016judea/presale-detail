@@ -1,0 +1,17 @@
+{
+ "fit": false,
+ "fit_reason": "This is a service ad for marine electronics and audio installation, not a private owner selling a boat. The photos show example install work, not a vehicle for sale.",
+ "photo_quality": "fair",
+ "need_score": 0,
+ "findings": [],
+ "services": [],
+ "message": "",
+ "id": "7927597266",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:49:40",
+ "usage": {
+  "in": 3102,
+  "out": 97
+ }
+}

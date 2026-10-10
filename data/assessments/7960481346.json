@@ -1,0 +1,26 @@
+{
+ "fit": true,
+ "fit_reason": "Whole powerboat on trailer listed by a private owner.",
+ "photo_quality": "good",
+ "need_score": 3,
+ "findings": [
+  "Hull gelcoat and red graphics along the port and starboard sides look fairly glossy with no obvious chalkiness, though the white lower hull near the bow appears slightly flat",
+  "Light dust and smudging on the gray dash and steering wheel area at the helm",
+  "Some dirt and grime on the red carpet near the helm floor",
+  "Engine compartment surfaces and hoses look dusty with a cluttered storage bin beside the engine"
+ ],
+ "services": [
+  "interior detail",
+  "exterior wash and wax",
+  "gelcoat oxidation removal"
+ ],
+ "message": "Hi, we saw your listing for the Glastron SSV215 and it already shows well. A quick pre-sale detail could brighten the red carpet and dash at the helm and put a fresh polish and wax on the hull so it really pops in photos. We come to you, including storage locations. Would you like a quote?",
+ "id": "7960481346",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:50:07",
+ "usage": {
+  "in": 3373,
+  "out": 332
+ }
+}

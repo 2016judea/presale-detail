@@ -1,0 +1,28 @@
+{
+ "fit": true,
+ "fit_reason": "Private owner selling two whole vintage aluminum boats; the photos show one hull in detail, which we can clean and polish.",
+ "photo_quality": "good",
+ "need_score": 6,
+ "findings": [
+  "Grime, dirt and debris in the bottom of the hull near the bow",
+  "Dirt and debris packed under the bench seats",
+  "Weathered, faded and peeling paint on the forward deck",
+  "Dull, weathered paint along the starboard hull with dark staining at the bow",
+  "Weathered, faded red finish on the wooden bench seats",
+  "Leaves and debris tucked under the seat ends visible in the overhead shot"
+ ],
+ "services": [
+  "interior detail",
+  "exterior wash and wax",
+  "touch-up"
+ ],
+ "message": "Hi Terry, we saw your listing for the pair of King Fisher boats. The bottom of the hull and the area under the seats have a lot of dirt and debris, and the outside of the hull looks weathered. We do pre-sale cleanups and come to you, and a good wash-out and clean exterior would help buyers see the boats in better condition. Would you like a quote?",
+ "id": "7952657477",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:49:55",
+ "usage": {
+  "in": 3202,
+  "out": 358
+ }
+}

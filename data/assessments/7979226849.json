@@ -1,0 +1,26 @@
+{
+ "fit": true,
+ "fit_reason": "Whole 2006 Sea Ray 260 Sundancer cruiser listed by a private owner in the boats by owner section.",
+ "photo_quality": "fair",
+ "need_score": 4,
+ "findings": [
+  "Gelcoat on the port and starboard topsides looks somewhat flat rather than deep gloss in the dock photos",
+  "Light dirt and scuffing on the swim platform and transom step area",
+  "Hoses and lines left coiled on the cockpit deck and transom, making the cockpit look cluttered",
+  "Some grime and staining around the transom and engine hatch edges"
+ ],
+ "services": [
+  "gelcoat oxidation removal",
+  "exterior wash and wax",
+  "interior detail"
+ ],
+ "message": "Hi, we saw your listing for the Sea Ray 260 Sundancer. It looks well kept. A polish and wax would bring more shine to the hull sides, and a cleanup of the swim platform and cockpit would help the photos. We do pre-sale boat details and come to you. Would you like a quote?",
+ "id": "7979226849",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:49:28",
+ "usage": {
+  "in": 2741,
+  "out": 333
+ }
+}

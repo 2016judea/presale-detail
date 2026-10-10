@@ -1,0 +1,28 @@
+{
+ "fit": true,
+ "fit_reason": "Whole SUV listed by a private owner in the cars by owner section.",
+ "photo_quality": "fair",
+ "need_score": 5,
+ "findings": [
+  "Black paint looks glossy overall but shows a dull, hazy look on the front fender in the wheel close-up",
+  "Brake dust and grime on the front wheel and in the wheel well",
+  "Tire sidewalls look dry and brownish rather than dressed",
+  "Visible wear creases and dull surface on the second-row leather captain's chair",
+  "Dust and debris on the rear floor mat and carpet behind the second-row seat",
+  "Dusty scuffed door sill area by the Chevrolet sill plate"
+ ],
+ "services": [
+  "interior detail",
+  "exterior wash and wax",
+  "paint correction / buff"
+ ],
+ "message": "Hi, we saw your listing for the black Suburban LTZ. The paint still has good shine, but the close-up shows some haze on the front fender and brake dust on the wheels, and the second-row seats and floor could use a cleanup. We do mobile pre-sale details, including a buff and leather cleaning, that come to you. Would you like a quote?",
+ "id": "7980789468",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:51:53",
+ "usage": {
+  "in": 3186,
+  "out": 364
+ }
+}

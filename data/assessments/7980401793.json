@@ -1,0 +1,28 @@
+{
+ "fit": true,
+ "fit_reason": "Private owner selling a whole work van in cars by owner.",
+ "photo_quality": "good",
+ "need_score": 5,
+ "findings": [
+  "Ghosting from removed company lettering visible on the driver side and passenger side cargo panels",
+  "Faint outline of old lettering on the rear cargo doors",
+  "Black plastic rear bumper looks faded and grayish",
+  "Front bumper and lower grille trim look dull and faded",
+  "White paint on the body sides looks flat rather than glossy",
+  "Light dirt along the lower rocker areas and behind the rear wheels"
+ ],
+ "services": [
+  "exterior wash and wax",
+  "paint correction / buff",
+  "trim restoration"
+ ],
+ "message": "Hi, we saw your listing for the 2014 Express 2500. The outline from the old company lettering still shows on the sides and back doors, and the black bumpers have faded to gray. We do mobile pre-sale details with buffing and trim restoration that could clean that up before buyers come out. Would you like a quote?",
+ "id": "7980401793",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:52:22",
+ "usage": {
+  "in": 2700,
+  "out": 322
+ }
+}

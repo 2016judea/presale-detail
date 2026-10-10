@@ -1,0 +1,25 @@
+{
+ "fit": true,
+ "fit_reason": "Private owner selling a whole 1979 Corvette coupe.",
+ "photo_quality": "fair",
+ "need_score": 3,
+ "findings": [
+  "Paint on the hood, doors and rear fascia looks clean but somewhat flat under overcast light, with little deep gloss showing",
+  "Light road dust and grime visible on the lower rocker area and lower rear bumper",
+  "Tire sidewalls look slightly dull/browned rather than dressed black",
+  "Interior is barely visible in the photos, so its condition can't be judged"
+ ],
+ "services": [
+  "exterior wash and wax",
+  "paint correction / buff"
+ ],
+ "message": "Hi, we saw your listing for the 1979 Corvette and it looks like a very clean car. In the photos the paint reads a little flat and the lower rockers and tires could use some attention to really make that white pop for buyers. We do mobile pre-sale details, including a wash, light machine polish and wax, and can come to you. Would you like a quote?",
+ "id": "7980790905",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:51:50",
+ "usage": {
+  "in": 2982,
+  "out": 318
+ }
+}

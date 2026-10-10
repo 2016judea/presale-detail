@@ -1,0 +1,26 @@
+{
+ "fit": true,
+ "fit_reason": "Whole pontoon boat with motor and trailer listed by a private owner.",
+ "photo_quality": "fair",
+ "need_score": 5,
+ "findings": [
+  "Light spotting and dulling on the rear seat back panels near the motor",
+  "Dirty, discolored pontoon tubes at the stern",
+  "Some grime and staining on the lower vinyl seat bases and corners in the bow seating area",
+  "Dull, faded finish on the cream helm console and rear seat shells",
+  "Carpet looks a bit dusty in the bow and center deck"
+ ],
+ "services": [
+  "interior detail",
+  "exterior wash and wax"
+ ],
+ "message": "Hi, we saw your listing for the Palm Beach pontoon. The seating and carpet look good overall, but the stern tubes and the lower vinyl panels show some grime that a pre-sale detail would clean up. We come to you and can do a full wash, vinyl and carpet clean, and tube cleanup. Would you like a quote?",
+ "id": "7976064975",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:50:56",
+ "usage": {
+  "in": 2730,
+  "out": 315
+ }
+}

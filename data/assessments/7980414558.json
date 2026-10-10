@@ -1,0 +1,26 @@
+{
+ "fit": true,
+ "fit_reason": "Privately owned 2017 Lowe Fishing Machine aluminum fishing boat with trailer, listed by owner.",
+ "photo_quality": "good",
+ "need_score": 5,
+ "findings": [
+  "Open storage compartments on either side of the bow seat show dirt, grime and yellowish staining on the bin floors",
+  "Dusty, light-colored marks and grime on the inside of the storage lid panels by the bow seat",
+  "Gray carpet on the bow and main deck looks dusty with lint and light debris",
+  "Light dust and smudges on the windshield panels and console glass",
+  "Painted hull and graphics look fairly clean and glossy in the side shots, with only light dullness visible"
+ ],
+ "services": [
+  "interior detail",
+  "exterior wash and wax"
+ ],
+ "message": "Hi, we saw your listing for the Lowe Fishing Machine. It looks like a well-kept boat, though the photos show some grime and staining inside the storage bins by the bow seat and dust on the deck carpet. We do pre-sale boat details that come to you, including carpet, compartments, glass and a hull wash and wax. Would you like a quote?",
+ "id": "7980414558",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:50:32",
+ "usage": {
+  "in": 2674,
+  "out": 370
+ }
+}

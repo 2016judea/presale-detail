@@ -1,0 +1,22 @@
+{
+ "fit": true,
+ "fit_reason": "Private owner selling a whole bass boat with outboard and trailer; some photos appear to be dealer showroom shots of a comparable new model, but the listing itself is by owner.",
+ "photo_quality": "good",
+ "need_score": 1,
+ "findings": [
+  "Red metalflake hull sides and gunwales look glossy with no visible oxidation or swirls",
+  "Gray carpet on front and rear decks looks clean and unworn",
+  "Seats and dual consoles look clean and like new",
+  "Several photos appear to be showroom shots of a new boat, so the seller's own boat is shown only in the hangar photo, which also looks clean"
+ ],
+ "services": [],
+ "message": "Hi, we saw your listing for the Vexus AVX. It already looks sharp, with glossy red flake on the hull and clean deck carpet. If you'd like it wiped down and polished before showings, we do a mobile pre-sale detail and can come to your hangar. Would you like a quote?",
+ "id": "7940183324",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:51:03",
+ "usage": {
+  "in": 3728,
+  "out": 317
+ }
+}

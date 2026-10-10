@@ -1,0 +1,23 @@
+{
+ "fit": true,
+ "fit_reason": "Whole boat (2024 Lund 189 Pro V GL on trailer) listed by a private owner.",
+ "photo_quality": "good",
+ "need_score": 2,
+ "findings": [
+  "Painted aluminum hull sides on both port and starboard show deep, even gloss with clear reflections",
+  "Interior carpet, seats and dash in the cockpit view look clean and uncluttered",
+  "Outboard cowling and transom look clean and glossy in the rear shot"
+ ],
+ "services": [
+  "exterior wash and wax"
+ ],
+ "message": "Hi, we saw your listing for the Lund 189 Pro V GL. It already looks sharp, with good gloss on the hull and a clean cockpit. If you want it extra fresh for showings, we can come to you for a quick wash, wax and interior wipe-down. Would you like a quote?",
+ "id": "7968731055",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:50:48",
+ "usage": {
+  "in": 2600,
+  "out": 274
+ }
+}

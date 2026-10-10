@@ -1,0 +1,25 @@
+{
+ "fit": true,
+ "fit_reason": "Whole 1967 Pontiac GTO convertible listed by a private owner in cars by owner.",
+ "photo_quality": "fair",
+ "need_score": 2,
+ "findings": [
+  "Paint on the hood, fenders and quarter panels presents glossy with clear reflections in the exterior shots",
+  "Chrome bumpers, grille surround and trim look bright and clean",
+  "Whitewall-lettered tires and wheels appear clean",
+  "Photos are heavily edited/HDR processed and taken from a distance, so fine swirls or interior detail can't be judged",
+  "Underside photo shows surface grime and dust on the rear axle and coil springs, which is not a pre-sale detail focus"
+ ],
+ "services": [
+  "exterior wash and wax"
+ ],
+ "message": "Hi, we saw your listing for the 67 GTO convertible and it looks sharp, the Montreal blue paint and chrome are presenting really well. If you want it looking its best for showings, we do a gentle wash and wax or light detail that comes to you. Would you like a quote?",
+ "id": "7979767232",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:53:01",
+ "usage": {
+  "in": 3182,
+  "out": 341
+ }
+}

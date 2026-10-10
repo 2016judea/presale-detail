@@ -1,0 +1,23 @@
+{
+ "fit": true,
+ "fit_reason": "Private owner selling a whole jonboat with motor and trailer.",
+ "photo_quality": "good",
+ "need_score": 2,
+ "findings": [
+  "Painted olive hull sides and interior look clean and evenly colored in all photos",
+  "Johnson outboard cowling looks clean and white with no obvious chalking",
+  "A few leaves and light debris on the floor and bench area inside the boat"
+ ],
+ "services": [
+  "exterior wash and wax"
+ ],
+ "message": "Hi, we saw your listing for the Lowe jonboat and Johnson rig. It already looks well kept, with clean paint on the hull and a bright motor cowling. If you want it extra sharp for buyers, we can come to you for a quick wash, wipe-down of the interior and a coat of protectant on the hull and cowling. Would you like a quote?",
+ "id": "7962828720",
+ "model": "claude-opus-5-5",
+ "photos_seen": 3,
+ "assessed_at": "2026-10-10T11:50:09",
+ "usage": {
+  "in": 2616,
+  "out": 269
+ }
+}

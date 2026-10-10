@@ -1,0 +1,29 @@
+{
+ "fit": true,
+ "fit_reason": "Private owner selling a whole 2013 Subaru Crosstrek in the cars by owner section.",
+ "photo_quality": "fair",
+ "need_score": 6,
+ "findings": [
+  "Hazy, yellowed headlight lenses on both front headlights",
+  "Dull, flat-looking dark gray paint on the hood and front bumper with little gloss",
+  "Dirty, stained driver's floor mat",
+  "Dust and grime on the driver's door sill and lower door area",
+  "Faded unpainted black plastic fender flares and lower body cladding"
+ ],
+ "services": [
+  "headlight restoration",
+  "exterior wash and wax",
+  "paint correction / buff",
+  "trim restoration",
+  "interior detail"
+ ],
+ "message": "Hi, we saw your Crosstrek listing and it looks like a solid car. In the photos the headlights look hazy and the driver's floor mat and door sill could use a cleaning. We do mobile pre-sale details, including headlight restoration and a buff, and can come to you. Would you like a quote?",
+ "id": "7980141213",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:52:39",
+ "usage": {
+  "in": 2675,
+  "out": 325
+ }
+}

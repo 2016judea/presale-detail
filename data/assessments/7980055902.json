@@ -1,0 +1,27 @@
+{
+ "fit": true,
+ "fit_reason": "Whole passenger car, a 2010 Jetta sedan, listed by a private owner in cars by owner.",
+ "photo_quality": "good",
+ "need_score": 4,
+ "findings": [
+  "Headlight lenses look hazy and yellowed on both sides in the front shots",
+  "Red paint looks clean overall, but the hood and roof read slightly flat rather than deep gloss in direct sun",
+  "Black lower front grille and bumper trim insert look a bit faded and grey",
+  "Black plastic rear lower bumper valance looks slightly faded"
+ ],
+ "services": [
+  "headlight restoration",
+  "trim restoration",
+  "exterior wash and wax",
+  "paint correction / buff"
+ ],
+ "message": "Hi, we saw your Jetta listing and the car looks clean. The headlights look a little hazy in the front photos and the black lower bumper trim has faded some, both things we can bring back. We do mobile pre-sale details, including headlight and trim restoration and a paint polish, and we come to you. Would you like a quote?",
+ "id": "7980055902",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:52:49",
+ "usage": {
+  "in": 2702,
+  "out": 329
+ }
+}

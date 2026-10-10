@@ -1,0 +1,28 @@
+{
+ "fit": true,
+ "fit_reason": "Whole 2007 BMW 328xi sedan listed by a private owner in cars by owner.",
+ "photo_quality": "fair",
+ "need_score": 6,
+ "findings": [
+  "Hazy, yellowed headlight lenses on both front headlights",
+  "Water spots and dried residue across the hood and roof of the black paint",
+  "Dull, uneven finish on the rear bumper and trunk area",
+  "Faded, grayish black plastic on the front bumper lower grille area",
+  "Brake dust buildup on the wheels"
+ ],
+ "services": [
+  "headlight restoration",
+  "exterior wash and wax",
+  "paint correction / buff",
+  "trim restoration"
+ ],
+ "message": "Hi, we saw your listing for the 2007 BMW 328xi. In the photos the headlights look hazy and the black paint on the hood and roof shows water spots and dullness, which black cars really show off. We do mobile pre-sale details, including headlight restoration and a paint buff, and can come to you. Would you like a quote?",
+ "id": "7979743947",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:53:05",
+ "usage": {
+  "in": 2574,
+  "out": 321
+ }
+}

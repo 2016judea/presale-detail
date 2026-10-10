@@ -1,0 +1,27 @@
+{
+ "fit": true,
+ "fit_reason": "Whole car, 1985 Camaro Z28 listed by a private owner in cars by owner.",
+ "photo_quality": "fair",
+ "need_score": 4,
+ "findings": [
+  "Dust and light debris visible on the dash top and along the lower dash panel near the Z28 emblem",
+  "Faint lint and light soiling on the gray cloth front and rear seats",
+  "Dust on the instrument cluster bezel and steering column area",
+  "Exterior blue paint looks fairly glossy from a distance but appears slightly flat on the hood and front fascia in the sun",
+  "Lower silver body cladding and rocker trim look a bit dull along the passenger side"
+ ],
+ "services": [
+  "interior detail",
+  "exterior wash and wax",
+  "paint correction / buff"
+ ],
+ "message": "Hi, we saw your listing for the 1985 Z28 and it looks like a nice car. The photos show some dust on the dash and a little lint on the cloth seats, and the blue paint could use a bit more pop on the hood. We do mobile pre-sale details, interior plus a wash, wax or light buff, and can come to you. Would you like a quote?",
+ "id": "7980015279",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:52:55",
+ "usage": {
+  "in": 3408,
+  "out": 365
+ }
+}

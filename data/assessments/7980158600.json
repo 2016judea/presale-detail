@@ -1,0 +1,27 @@
+{
+ "fit": true,
+ "fit_reason": "Whole SUV listed by a private owner in the cars by owner section.",
+ "photo_quality": "good",
+ "need_score": 3,
+ "findings": [
+  "Paint looks glossy overall with good reflections on the hood and doors; seller says a full detail was just done",
+  "Light dust or film on the lower rear bumper and lower liftgate area",
+  "Driver seat leather shows creasing and some light scuffing on the side bolster",
+  "Floor mat and carpet look a bit dusty with some debris on the driver side",
+  "Headlight lenses look mostly clear with slight haze visible from the front"
+ ],
+ "services": [
+  "interior detail",
+  "exterior wash and wax",
+  "headlight restoration"
+ ],
+ "message": "Hi, we saw your Jeep Liberty listing and it already looks well kept. If you want a final touch before showings, we could clean and condition the leather on the driver seat, freshen the floor mats and give the headlights a quick polish. We come to you. Would you like a quote?",
+ "id": "7980158600",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:52:39",
+ "usage": {
+  "in": 3143,
+  "out": 315
+ }
+}

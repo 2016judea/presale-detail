@@ -1,0 +1,24 @@
+{
+ "fit": true,
+ "fit_reason": "Private owner selling a complete aluminum fishing boat with motor and trailer.",
+ "photo_quality": "fair",
+ "need_score": 3,
+ "findings": [
+  "Painted aluminum hull sides look somewhat flat and dull rather than glossy, especially the silver lower sides in the close-up shots",
+  "Faint water spotting and light film visible on the lower hull near the rivet line",
+  "Gray fold-down seats and rear deck look clean but slightly dusty in the stern photos"
+ ],
+ "services": [
+  "exterior wash and wax",
+  "interior detail"
+ ],
+ "message": "Hi, we saw your listing for the Lowe Line and it looks like it has been well cared for. The silver hull sides look a little flat in the photos, and a wash and wax would bring back the shine on the paint and decals. We do pre-sale details that come to you, including a quick wipe-down of the seats and deck. Would you like a quote?",
+ "id": "7954183286",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:50:41",
+ "usage": {
+  "in": 3157,
+  "out": 300
+ }
+}

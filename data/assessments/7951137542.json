@@ -1,0 +1,30 @@
+{
+ "fit": true,
+ "fit_reason": "Whole 1986 Four Winns Horizon 190 powerboat on trailer, listed by a private owner.",
+ "photo_quality": "fair",
+ "need_score": 7,
+ "findings": [
+  "Dull, faded navy gelcoat on the hull sides and transom with a chalky look",
+  "Grime and dark staining on the underside of the swim platform",
+  "Worn, dirty blue finish and scuffs on the top of the swim platform",
+  "Discolored, grimy vinyl on the cockpit seats, especially the gray seat panels",
+  "Dirty, stained cockpit carpet",
+  "Dirt and dust on the dash and console areas",
+  "Seller notes the interior needs some love"
+ ],
+ "services": [
+  "gelcoat oxidation removal",
+  "exterior wash and wax",
+  "interior detail",
+  "touch-up"
+ ],
+ "message": "Hi, we saw your listing for the Four Winns Horizon 190. The navy gelcoat on the hull and transom looks faded, and the cockpit vinyl and carpet could use a good cleaning. We do mobile pre-sale details with gelcoat polish and interior cleaning and can come to you. Would you like a quote?",
+ "id": "7951137542",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:51:08",
+ "usage": {
+  "in": 2720,
+  "out": 374
+ }
+}

@@ -1,0 +1,27 @@
+{
+ "fit": true,
+ "fit_reason": "Private owner selling a whole 1999 Regal 176 SEI bowrider with trailer.",
+ "photo_quality": "good",
+ "need_score": 4,
+ "findings": [
+  "Hull sides look fairly clean but the white gelcoat appears slightly flat rather than glossy along the port and starboard sides",
+  "Light yellowing and dulling on the white upper deck and bow area",
+  "Rear bench and sun pad vinyl look clean overall with some light discoloration in the seams and pleats",
+  "Dark carpet in the cockpit shows some light debris and could use a vacuum and freshening",
+  "Beige dash panel around the gauges looks a bit dusty"
+ ],
+ "services": [
+  "gelcoat oxidation removal",
+  "exterior wash and wax",
+  "interior detail"
+ ],
+ "message": "Hi, we saw your listing for the Regal 176 SEI. It looks well kept, but the white gelcoat on the hull and deck is a little flat in the photos, and a polish plus a vinyl and carpet clean-up would help it pop for buyers. We do pre-sale boat details and come to you. Would you like a quote?",
+ "id": "7942177528",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:50:29",
+ "usage": {
+  "in": 2579,
+  "out": 364
+ }
+}

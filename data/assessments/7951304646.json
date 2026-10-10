@@ -1,0 +1,17 @@
+{
+ "fit": false,
+ "fit_reason": "This listing is for a pair of wooden canoe paddles, which are accessories rather than a whole boat or vehicle we can detail. The seller's mention of wanting a canoe is a wanted request, not a vehicle for sale.",
+ "photo_quality": "good",
+ "need_score": 0,
+ "findings": [],
+ "services": [],
+ "message": "",
+ "id": "7951304646",
+ "model": "claude-opus-5-5",
+ "photos_seen": 3,
+ "assessed_at": "2026-10-10T11:50:13",
+ "usage": {
+  "in": 2409,
+  "out": 122
+ }
+}

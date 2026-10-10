@@ -1,0 +1,28 @@
+{
+ "fit": true,
+ "fit_reason": "Whole 2008 Acura MDX SUV listed by a private owner in cars by owner.",
+ "photo_quality": "good",
+ "need_score": 5,
+ "findings": [
+  "Yellowed, hazy headlight lenses on the front, most visible on the driver side",
+  "Silver paint looks flat and dull on the hood and front fenders",
+  "Light dirt and road film along the lower doors and rocker area",
+  "Black lower front bumper trim looks faded and grayish",
+  "Wheels look dull with brake dust on the faces"
+ ],
+ "services": [
+  "headlight restoration",
+  "exterior wash and wax",
+  "paint correction / buff",
+  "trim restoration"
+ ],
+ "message": "Hi, we saw your listing for the 2008 Acura MDX. The headlights look hazy and yellowed in the photos, and the silver paint on the hood looks a bit flat. We do mobile pre-sale details that include headlight restoration and a buff, and we come to you. Would you like a quote?",
+ "id": "7981017564",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:51:32",
+ "usage": {
+  "in": 3344,
+  "out": 313
+ }
+}

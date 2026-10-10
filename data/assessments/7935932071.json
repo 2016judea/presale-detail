@@ -1,0 +1,29 @@
+{
+ "fit": true,
+ "fit_reason": "Whole 16-foot aluminum fishing boat with motor and trailer, sold by a private owner (a relative of the late owner).",
+ "photo_quality": "fair",
+ "need_score": 7,
+ "findings": [
+  "Cockpit cluttered with loose gear: anchor, trolling motor prop, coiled rope, bucket, crates and long wooden boards laid across the seats",
+  "Gray carpet on the deck looks dusty and dirty, with debris scattered around",
+  "Seat cushions look dull and dusty, with a dingy tan cast",
+  "Painted hull sides along the port side look dull and chalky, with grime toward the lower hull",
+  "Black transom panel and side trim look faded and dull",
+  "Johnson outboard cowling looks dull and yellowed"
+ ],
+ "services": [
+  "interior detail",
+  "exterior wash and wax",
+  "paint correction / buff",
+  "trim restoration"
+ ],
+ "message": "Hi, we saw your listing for the 1991 Sylvan Back Troller. With the gear and boards cleared out, the deck carpet and seats cleaned, and the hull sides and motor cowling washed and polished, the boat would show a lot better in photos and to buyers. We do pre-sale details on boats and come to you. Would you like a quote?",
+ "id": "7935932071",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:50:17",
+ "usage": {
+  "in": 3543,
+  "out": 406
+ }
+}

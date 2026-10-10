@@ -1,0 +1,28 @@
+{
+ "fit": true,
+ "fit_reason": "Private owner selling a complete 14 ft aluminum fishing boat with motor and trailer, which we can detail.",
+ "photo_quality": "good",
+ "need_score": 5,
+ "findings": [
+  "Dirt, scuffs and dark staining on the light green painted floor in the stern area",
+  "Grime and loose debris along the floor and ribs toward the bow",
+  "Tangled ratchet straps and rope piled in the bow",
+  "Weathered, grayed wooden bench seats",
+  "Light dust and streaking on the green interior side walls",
+  "Blue exterior paint looks fair but somewhat flat along the hull side"
+ ],
+ "services": [
+  "interior detail",
+  "exterior wash and wax",
+  "touch-up"
+ ],
+ "message": "Hi, we saw your listing for the Starcraft Super Star. The hull looks solid, and a cleanup of the green interior floor and the bow area, where there's some staining and loose gear, would help it show better in photos. We do pre-sale boat details and can come to you. Would you like a quote?",
+ "id": "7967883246",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:51:08",
+ "usage": {
+  "in": 3313,
+  "out": 328
+ }
+}

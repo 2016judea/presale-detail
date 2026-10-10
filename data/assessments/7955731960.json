@@ -1,0 +1,24 @@
+{
+ "fit": true,
+ "fit_reason": "Private owner selling a whole boat, a 2000 Sea Ray 340 Sundancer, in the boats by owner section.",
+ "photo_quality": "fair",
+ "need_score": 3,
+ "findings": [
+  "Hull looks white and reasonably glossy in the on-water shots, but most photos are taken from a distance, so close-up gelcoat condition can't be judged",
+  "Transom and swim platform area in the slip photo look slightly dull and off-white compared with the rest of the hull",
+  "No interior or cabin photos, so cockpit and cabin condition can't be assessed"
+ ],
+ "services": [
+  "gelcoat oxidation removal",
+  "exterior wash and wax"
+ ],
+ "message": "Hi, we saw your listing for the 340 Sundancer and it looks well kept on the water. In the slip photo the transom and swim platform look a little dull next to the rest of the hull, and a gelcoat polish and wax there would help the close-up shots buyers look at. We do pre-sale boat details and come to you at the slip. Would you like a quote?",
+ "id": "7955731960",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:49:43",
+ "usage": {
+  "in": 3473,
+  "out": 342
+ }
+}

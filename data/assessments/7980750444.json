@@ -1,0 +1,24 @@
+{
+ "fit": true,
+ "fit_reason": "Private owner selling a whole boat (1999 Pro-Line 190 Sport center console) on its trailer.",
+ "photo_quality": "fair",
+ "need_score": 4,
+ "findings": [
+  "White gelcoat on the port hull side looks somewhat flat rather than glossy, consistent with mild oxidation on an older hull",
+  "Green and black hull stripes along the port side appear slightly faded",
+  "Only one distant photo from above, so the deck, console and interior can't be judged"
+ ],
+ "services": [
+  "gelcoat oxidation removal",
+  "exterior wash and wax"
+ ],
+ "message": "Hi, we saw your listing for the Pro-Line 190 Sport. From the photo, the white gelcoat along the hull side looks a little flat and the stripes are a bit faded, which a gelcoat polish and wax would brighten up before buyers see it. We're a local detailing team and we come to you. Would you like a quote?",
+ "id": "7980750444",
+ "model": "claude-opus-5-5",
+ "photos_seen": 1,
+ "assessed_at": "2026-10-10T11:50:03",
+ "usage": {
+  "in": 1834,
+  "out": 303
+ }
+}

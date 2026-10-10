@@ -1,0 +1,23 @@
+{
+ "fit": true,
+ "fit_reason": "Whole bass boat with trailer, listed by a private owner in the boats by owner section.",
+ "photo_quality": "good",
+ "need_score": 1,
+ "findings": [
+  "Hull gelcoat on the port and starboard sides looks glossy with no visible oxidation or chalking",
+  "Seats at the helm area look clean and unfaded with no visible stains",
+  "Deck carpet looks clean and evenly colored",
+  "Storage compartment under the lid looks clean and unused",
+  "Outboard cowling and trailer fenders look glossy"
+ ],
+ "services": [],
+ "message": "Hi, we saw your listing for the Nitro Z21 and it looks very well kept, with a glossy hull and clean seats and carpet. If you'd like a final wash and wax or a quick interior wipe-down before showings, we're a mobile detailing team and can come to you. Would you like a quote?",
+ "id": "7980091371",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:50:52",
+ "usage": {
+  "in": 3345,
+  "out": 287
+ }
+}

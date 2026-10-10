@@ -1,0 +1,28 @@
+{
+ "fit": true,
+ "fit_reason": "Private-owner listing for a whole 14 ft Lund aluminum boat with trailer, which we can clean and polish.",
+ "photo_quality": "good",
+ "need_score": 5,
+ "findings": [
+  "Dirt and scuffed grime streaks on the floor of the bow section inside the hull",
+  "Debris and grime in the bottom of the hull near the stern",
+  "Painted red topside looks somewhat dull and faded in the side profile shot",
+  "Bare aluminum gunwale rail and stern corners look dull and weathered",
+  "Light grime and wear on the red bow seat cushion"
+ ],
+ "services": [
+  "interior detail",
+  "exterior wash and wax",
+  "paint correction / buff",
+  "touch-up"
+ ],
+ "message": "Hi, we saw your listing for the Lund 14 and trailer. The inside floor of the hull has some dirt streaking up front, and the red paint along the side looks a little dull in the photos. We do mobile pre-sale cleanups that include cleaning out the hull, buffing the paint and brightening the aluminum rails, and we can come to you. Would you like a quote?",
+ "id": "7979819502",
+ "model": "claude-opus-5-5",
+ "photos_seen": 4,
+ "assessed_at": "2026-10-10T11:51:12",
+ "usage": {
+  "in": 2422,
+  "out": 354
+ }
+}

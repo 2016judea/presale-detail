@@ -1,0 +1,27 @@
+{
+ "fit": true,
+ "fit_reason": "Whole SUV listed by a private owner in cars by owner.",
+ "photo_quality": "good",
+ "need_score": 6,
+ "findings": [
+  "Dull, hazy black paint with dust film on the rear hatch and tailgate area",
+  "Faded, chalky gray plastic on the rear bumper lower section",
+  "Dirt and grime along the lower doors and rocker panels on both sides",
+  "Light film and water spotting visible on the rear glass and side windows",
+  "Brake dust on the alloy wheels"
+ ],
+ "services": [
+  "exterior wash and wax",
+  "paint correction / buff",
+  "trim restoration"
+ ],
+ "message": "Hi, we saw your listing for the 2009 Acura MDX. The black paint looks a bit dull and dusty in the photos, especially on the rear hatch, and the gray plastic on the rear bumper has faded. We do pre-sale details that come to you, including a wash, buff and trim restoration so it photographs and shows better to buyers. Would you like a quote?",
+ "id": "7980407043",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:52:19",
+ "usage": {
+  "in": 2674,
+  "out": 322
+ }
+}

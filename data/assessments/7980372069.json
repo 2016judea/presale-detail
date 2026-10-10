@@ -1,0 +1,26 @@
+{
+ "fit": true,
+ "fit_reason": "Whole passenger car (2003 Camry XLE sedan) listed by a private owner in cars by owner.",
+ "photo_quality": "fair",
+ "need_score": 4,
+ "findings": [
+  "Gray leather seats are free of rips but look a little dull and worn on the driver seat bolster and rear bench",
+  "Front driver floor area shows a worn, dusty rubber mat and soiled carpet",
+  "Rear passenger footwell carpet looks dusty, with loose items like cords lying on the floor",
+  "Door sill and jamb areas on the rear passenger side look dusty and grimy",
+  "Silver paint looks clean but somewhat flat in the side profile shot, without much gloss"
+ ],
+ "services": [
+  "interior detail",
+  "exterior wash and wax"
+ ],
+ "message": "Hi, we saw your Camry XLE listing and the gray leather looks like it has held up well. A pre-sale detail would freshen up the carpets and floor mats, condition the leather, clean the door jambs, and bring some shine back to the silver paint. We come to you. Would you like a quote?",
+ "id": "7980372069",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:52:27",
+ "usage": {
+  "in": 2756,
+  "out": 349
+ }
+}

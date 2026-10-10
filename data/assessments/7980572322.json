@@ -1,0 +1,25 @@
+{
+ "fit": true,
+ "fit_reason": "Whole 2024 Subaru Legacy sedan listed by a private owner in cars by owner.",
+ "photo_quality": "good",
+ "need_score": 2,
+ "findings": [
+  "Silver paint on the hood and sides looks clean and glossy in the photos",
+  "Black leather front and rear seats look clean and uncluttered",
+  "Rear floor mats and carpet look clean",
+  "Paper floor mat already in the driver footwell, suggesting it was recently cleaned",
+  "Wheels and tires look clean with dressed sidewalls"
+ ],
+ "services": [
+  "exterior wash and wax"
+ ],
+ "message": "Hi, we saw your listing for the 2024 Legacy. It already looks sharp, with clean leather seats and glossy silver paint. If you want it kept that way while it's listed, we offer a mobile wash and wax that comes to you. Would you like a quote?",
+ "id": "7980572322",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:52:04",
+ "usage": {
+  "in": 2904,
+  "out": 285
+ }
+}

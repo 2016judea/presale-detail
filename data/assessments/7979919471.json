@@ -1,0 +1,29 @@
+{
+ "fit": true,
+ "fit_reason": "Whole car (2006 Mercedes E500 sedan) listed by a private owner in the cars-by-owner section.",
+ "photo_quality": "fair",
+ "need_score": 6,
+ "findings": [
+  "Dull, flat-looking gray paint on the hood and driver-side doors with little reflection",
+  "Dust and grime along the lower rocker panels and rear bumper",
+  "Brake dust buildup on the wheels",
+  "Dirty, dusty driver floor mat and door sill area",
+  "Dusty center console and dash area; leather seats look dry and dull",
+  "Cloudy, slightly yellowed headlight lenses in the front shot"
+ ],
+ "services": [
+  "interior detail",
+  "exterior wash and wax",
+  "paint correction / buff",
+  "headlight restoration"
+ ],
+ "message": "Hi, we saw your listing for the E500 4MATIC. The gray paint looks a bit flat in the photos, and the driver floor area and sills could use a cleanup. We do mobile pre-sale details, including a buff and headlight restoration, and can come to you. Would you like a quote?",
+ "id": "7979919471",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:52:54",
+ "usage": {
+  "in": 2538,
+  "out": 345
+ }
+}

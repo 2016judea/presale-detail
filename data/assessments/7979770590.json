@@ -1,0 +1,26 @@
+{
+ "fit": true,
+ "fit_reason": "Whole 2018 Honda Civic sedan listed by its private owner in cars by owner.",
+ "photo_quality": "fair",
+ "need_score": 4,
+ "findings": [
+  "Light dust and dull, hazy spots on the dark blue paint, most visible on the driver side doors and rear quarter",
+  "Some dullness and water-spotting on the rear bumper and trunk lid",
+  "Light brake dust on the wheels",
+  "Interior seats and door panels look fairly clean in the open-door photo, though detail is limited"
+ ],
+ "services": [
+  "exterior wash and wax",
+  "paint correction / buff",
+  "interior detail"
+ ],
+ "message": "Hi Larry, we saw your listing for the 2018 Civic. The dark blue paint shows some dust and dull spots along the driver side doors and rear quarter, and a wash, light buff and wax would bring the gloss back for your photos. We do pre-sale details and come to you. Would you like a quote?",
+ "id": "7979770590",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:53:00",
+ "usage": {
+  "in": 3345,
+  "out": 308
+ }
+}

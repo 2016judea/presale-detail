@@ -1,0 +1,26 @@
+{
+ "fit": true,
+ "fit_reason": "Whole 2016 Honda CR-V SUV listed by its private original owner.",
+ "photo_quality": "fair",
+ "need_score": 3,
+ "findings": [
+  "Headlight lenses on the front look slightly hazy and yellowed",
+  "Dusty, dull look on the dash plastics in front of the gauge cluster",
+  "Light road grime along the lower door sills and rocker area on both sides",
+  "No interior seat or cargo photos, so the tan cloth seats can't be judged"
+ ],
+ "services": [
+  "exterior wash and wax",
+  "headlight restoration",
+  "interior detail"
+ ],
+ "message": "Hi Richard, we saw your listing for the white CR-V and it looks like it's been well cared for. The headlight lenses look a little hazy in the photos, and a wash and wax would bring the white paint up bright for buyers. We do pre-sale details, including headlight restoration and a light interior clean, and we come to you. Would you like a quote?",
+ "id": "7980991767",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:51:35",
+ "usage": {
+  "in": 2939,
+  "out": 307
+ }
+}

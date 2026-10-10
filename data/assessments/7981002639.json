@@ -1,0 +1,27 @@
+{
+ "fit": true,
+ "fit_reason": "Private owner selling a whole 2004 GMC Yukon Denali XL SUV.",
+ "photo_quality": "fair",
+ "need_score": 6,
+ "findings": [
+  "Grime and staining on the driver door sill and step area",
+  "Dirty, worn floor mats in the driver footwell with shoes left on the passenger floor",
+  "Dirt and debris on the rear door sill and rear floor mat",
+  "Creased, grimy-looking leather on the driver seat bolster and cushion",
+  "Sagging, stained headliner fabric above the windshield",
+  "Exterior paint looks somewhat dull in the full side shot"
+ ],
+ "services": [
+  "interior detail",
+  "exterior wash and wax"
+ ],
+ "message": "Hi David, we saw your listing for the Yukon Denali XL. In the photos the door sills and floor mats are showing some dirt and grime, and the leather seats look like they could use a good clean and condition. We do mobile pre-sale details and can come to you to get the interior and paint looking sharper for buyers. Would you like a quote?",
+ "id": "7981002639",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:51:33",
+ "usage": {
+  "in": 2734,
+  "out": 338
+ }
+}

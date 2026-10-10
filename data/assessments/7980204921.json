@@ -1,0 +1,29 @@
+{
+ "fit": true,
+ "fit_reason": "Whole cargo van listed by a private owner in cars by owner.",
+ "photo_quality": "good",
+ "need_score": 6,
+ "findings": [
+  "Dirty, stained cargo floor with debris and grime in the rear cargo area",
+  "Scuffed, dirty interior panels on the rear doors",
+  "Faded, grayed black plastic front bumper and lower body trim",
+  "Hazy, yellowed headlight lenses",
+  "Grime and dirt on the rear step/bumper area at the cargo doors",
+  "White paint looks flat rather than glossy along the sides"
+ ],
+ "services": [
+  "interior detail",
+  "exterior wash and wax",
+  "trim restoration",
+  "headlight restoration"
+ ],
+ "message": "Hi, we saw your listing for the Ram Promaster. The cargo floor and rear door panels are showing a lot of grime, and the black bumper and side trim have faded to gray. We do pre-sale details that come to you, including cleaning out the cargo area, restoring the trim and clearing up the headlights. Would you like a quote?",
+ "id": "7980204921",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:52:36",
+ "usage": {
+  "in": 2973,
+  "out": 334
+ }
+}

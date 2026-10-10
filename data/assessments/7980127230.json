@@ -1,0 +1,27 @@
+{
+ "fit": true,
+ "fit_reason": "Private owner selling a whole pickup truck (2015 Ford F-150) in the cars by owner section.",
+ "photo_quality": "good",
+ "need_score": 4,
+ "findings": [
+  "Light dust and road film along the lower doors and rocker area on both sides",
+  "Paint looks somewhat flat rather than deep gloss on the side profiles under overcast light",
+  "Dirt and debris on the driver's front floor mat and carpet",
+  "Light lint and dust on the rear carpet behind the front seats",
+  "Dust on the driver's door sill and lower trim"
+ ],
+ "services": [
+  "interior detail",
+  "exterior wash and wax",
+  "paint correction / buff"
+ ],
+ "message": "Hi, we saw your listing for the F-150 and it looks like a well kept truck. The driver's floor mat and carpet have some dirt on them, and the lower doors are carrying a bit of road film. We do mobile pre-sale details, including a light buff to bring up the gloss on the grey paint, and we come to you. Would you like a quote?",
+ "id": "7980127230",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:52:43",
+ "usage": {
+  "in": 3641,
+  "out": 331
+ }
+}

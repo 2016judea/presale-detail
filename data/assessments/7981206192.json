@@ -1,0 +1,25 @@
+{
+ "fit": true,
+ "fit_reason": "Whole passenger car (2007 Lincoln Town Car) listed by a private owner in cars by owner.",
+ "photo_quality": "fair",
+ "need_score": 2,
+ "findings": [
+  "Cashmere tri-coat paint on the hood, trunk and rear quarter panel shows clean, glossy reflections with no visible oxidation or swirling in these photos",
+  "Chrome grille, trunk trim and wheel arch moldings look bright and clean",
+  "Headlights appear clear, not yellowed",
+  "Tires and wheels look fresh and clean",
+  "No interior photos, so interior condition can't be judged"
+ ],
+ "services": [
+  "exterior wash and wax"
+ ],
+ "message": "Hi Gordie, we saw your listing for the Town Car. The cashmere paint and chrome already look sharp in the photos. If you'd like a fresh wash and wax or an interior wipe-down before showings, we come to you. Would you like a quote?",
+ "id": "7981206192",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:51:17",
+ "usage": {
+  "in": 2845,
+  "out": 308
+ }
+}

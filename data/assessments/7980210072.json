@@ -1,0 +1,29 @@
+{
+ "fit": true,
+ "fit_reason": "Whole 16 ft power boat with trailer listed by a private owner in the boats by owner section.",
+ "photo_quality": "good",
+ "need_score": 8,
+ "findings": [
+  "Dull, chalky-looking white gelcoat along the port and starboard hull sides",
+  "Faded maroon and pink hull stripes along both sides",
+  "Grime and dark staining on the white vinyl seats in the cockpit",
+  "Dirty, stained maroon carpet on the cockpit floor",
+  "Weathered, dingy upholstery on the rear bench and side panels",
+  "Dirt and residue on the deck and gunwales around the windshield",
+  "Hazy windshield panels"
+ ],
+ "services": [
+  "interior detail",
+  "gelcoat oxidation removal",
+  "exterior wash and wax"
+ ],
+ "message": "Hi, we saw your listing for the 1988 Forester 160. The hull gelcoat and stripes look faded and chalky, and the cockpit seats and carpet are showing a lot of grime. We do mobile pre-sale details with gelcoat polish and interior cleaning that comes to you, which can really help it show better to buyers. Would you like a quote?",
+ "id": "7980210072",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:50:46",
+ "usage": {
+  "in": 2709,
+  "out": 371
+ }
+}

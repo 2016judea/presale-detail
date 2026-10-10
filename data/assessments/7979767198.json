@@ -1,0 +1,28 @@
+{
+ "fit": true,
+ "fit_reason": "Private owner selling a whole car, a 2006 Chrysler 300C sedan, in the cars by owner section.",
+ "photo_quality": "fair",
+ "need_score": 4,
+ "findings": [
+  "Hazy, smudged film and water spotting on the trunk lid paint above the HEMI badge",
+  "HEMI badge insert looks cloudy and dull",
+  "Paint on the side panels looks flat rather than glossy in both exterior shots",
+  "Light soiling and wear on the tan leather driver and passenger seat bolsters",
+  "Clutter in the center console cupholder area and a phone mount on the dash",
+  "Dirty, worn driver footwell mat"
+ ],
+ "services": [
+  "exterior wash and wax",
+  "paint correction / buff",
+  "interior detail"
+ ],
+ "message": "Hi, we saw your listing for the 2006 Chrysler 300C. It looks well kept, but the trunk lid around the HEMI badge shows some haze and spotting, and the tan leather seats could use a cleaning and conditioning. We do mobile pre-sale details, including a wash, light buff and interior clean, and we come to you. Would you like a quote?",
+ "id": "7979767198",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:53:03",
+ "usage": {
+  "in": 2605,
+  "out": 370
+ }
+}

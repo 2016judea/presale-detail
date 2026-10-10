@@ -1,0 +1,21 @@
+{
+ "fit": false,
+ "fit_reason": "This is a wooden stitch-and-glue sea kayak finished in epoxy and varnish, not a car, truck, motorcycle, boat with gelcoat or paint, PWC or pontoon we detail. The finish was freshly varnished and is outside our services.",
+ "photo_quality": "good",
+ "need_score": 1,
+ "findings": [
+  "High-gloss varnish finish across the deck and hull with clear reflections in every photo",
+  "Clean cockpit interior with seat visible and no visible dirt or clutter",
+  "Deck bungees and fittings look tidy and intact"
+ ],
+ "services": [],
+ "message": "Hi, we saw your listing for the Shearwater kayak and the varnish work looks excellent, with a deep gloss on the deck and hull. Honestly it already presents very well and a wood-and-varnish boat isn't something we'd work on. If you ever have a car, truck or gelcoat boat that needs a pre-sale detail, we come to you. Would you like us to keep your contact for that?",
+ "id": "7938058016",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:50:19",
+ "usage": {
+  "in": 3190,
+  "out": 335
+ }
+}

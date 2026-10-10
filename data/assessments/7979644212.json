@@ -1,0 +1,25 @@
+{
+ "fit": true,
+ "fit_reason": "Whole 2022 BMW X3 SUV listed by a private owner in cars by owner.",
+ "photo_quality": "fair",
+ "need_score": 3,
+ "findings": [
+  "Light road film and dust on the lower rear bumper and diffuser area",
+  "Some dust and debris on the driver footwell floor mat",
+  "Light dust on the dashboard and center console trim",
+  "Wear creasing on the driver seat bolster leather that a leather clean and condition would freshen"
+ ],
+ "services": [
+  "interior detail",
+  "exterior wash and wax"
+ ],
+ "message": "Hi, we saw your listing for the white X3. It already looks sharp, but there is some light road film on the lower rear bumper and dust in the driver footwell and on the dash, and the red leather would pop more with a clean and condition. We do pre-sale details and come to you. Would you like a quote?",
+ "id": "7979644212",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:53:15",
+ "usage": {
+  "in": 3108,
+  "out": 278
+ }
+}

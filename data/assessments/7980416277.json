@@ -1,0 +1,26 @@
+{
+ "fit": true,
+ "fit_reason": "Whole SUV listed by a private owner in the cars by owner section.",
+ "photo_quality": "fair",
+ "need_score": 4,
+ "findings": [
+  "Hazy, yellowed headlight lenses on both front headlights",
+  "Faded, greyish black plastic on the lower front bumper and grille surround",
+  "Paint on the hood and sides looks somewhat flat and dull for silver",
+  "No interior photos, so interior condition can't be judged"
+ ],
+ "services": [
+  "headlight restoration",
+  "trim restoration",
+  "exterior wash and wax"
+ ],
+ "message": "Hi, we saw your listing for the 2010 Pilot. The headlight lenses look a bit hazy and the black trim on the lower front bumper has faded, both things we can restore so the front end looks fresher in photos. We do pre-sale details and come to you. Would you like a quote?",
+ "id": "7980416277",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:52:16",
+ "usage": {
+  "in": 3306,
+  "out": 276
+ }
+}

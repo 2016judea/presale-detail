@@ -1,0 +1,17 @@
+{
+ "fit": false,
+ "fit_reason": "This is a wanted ad from someone buying unwanted cars for cash, not a private owner selling a specific vehicle. The photo is a stock-style image of a tow truck towing a pickup.",
+ "photo_quality": "poor",
+ "need_score": 0,
+ "findings": [],
+ "services": [],
+ "message": "",
+ "id": "7980803055",
+ "model": "claude-opus-5-5",
+ "photos_seen": 1,
+ "assessed_at": "2026-10-10T11:51:42",
+ "usage": {
+  "in": 1569,
+  "out": 111
+ }
+}

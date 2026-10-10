@@ -1,0 +1,27 @@
+{
+ "fit": true,
+ "fit_reason": "Private owner selling a whole car, a 2009 Toyota Corolla sedan.",
+ "photo_quality": "fair",
+ "need_score": 3,
+ "findings": [
+  "Red paint on the hood, doors and rear quarter looks glossy overall, though heavy dappled shade from trees hides much of the finish",
+  "Some minor haze on the front bumper and fenders",
+  "Black front floor mat on the passenger side looks like it could use a vacuum",
+  "Light gray dash, console and cloth seats look clean, with a little dust visible on the dash and console",
+  "Headlights look fairly clear, with a light haze on the driver side lens"
+ ],
+ "services": [
+  "interior detail",
+  "exterior wash and wax",
+  "headlight restoration"
+ ],
+ "message": "Hi, we saw your listing for the red Corolla and it looks like it has been well kept. A wash and wax would sharpen up the gloss on the red paint, and a quick interior touch-up would freshen the light gray dash and the floor mats before buyers see it. We do pre-sale details and come to you. Would you like a quote?",
+ "id": "7981140699",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:51:28",
+ "usage": {
+  "in": 3372,
+  "out": 348
+ }
+}

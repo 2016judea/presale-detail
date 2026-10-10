@@ -1,0 +1,28 @@
+{
+ "fit": true,
+ "fit_reason": "Whole boat with trailer listed by a private owner in boats by owner; a parts-or-restore project, but still a complete hull we can polish and clean.",
+ "photo_quality": "good",
+ "need_score": 6,
+ "findings": [
+  "Red gelcoat on the deck and topsides looks somewhat dull and uneven in places rather than glossy",
+  "White lower hull sides show light staining and a flat, slightly chalky look along the port side",
+  "Deck surfaces in the bow area have scattered spots, specks and marks",
+  "Bow walkthrough floor is dirty with debris and loose, peeling material",
+  "Black rub rail looks faded and weathered along the sides"
+ ],
+ "services": [
+  "gelcoat oxidation removal",
+  "exterior wash and wax",
+  "interior detail",
+  "trim restoration"
+ ],
+ "message": "Hi, we saw your listing for the 1973 Switzer Craft. The red deck gelcoat and white hull sides look a little dull, and the bow walkthrough has some dirt and debris, which a cleanup and gelcoat polish could help with in the photos. We do mobile pre-sale details and gelcoat polishing that come to you. Would you like a quote?",
+ "id": "7934278941",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:50:54",
+ "usage": {
+  "in": 2780,
+  "out": 382
+ }
+}

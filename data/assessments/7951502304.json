@@ -1,0 +1,28 @@
+{
+ "fit": true,
+ "fit_reason": "Private owner selling a complete 14ft aluminum fishing boat with motor and trailer, which we can detail.",
+ "photo_quality": "good",
+ "need_score": 5,
+ "findings": [
+  "Dull, chalky gray oxidation on the bare aluminum hull sides, port and starboard",
+  "Grime and staining along the lower hull near the keel on the port side",
+  "Loose clutter on the front platform: tangled rope, cords and a fishing net",
+  "Dirt and debris on the unfinished wood platform boards at the bow",
+  "Red carpet on the floor and bench tops looks dusty and matted",
+  "Dirt and scuffing on the interior aluminum walls and bench faces"
+ ],
+ "services": [
+  "interior detail",
+  "exterior wash and wax",
+  "paint correction / buff"
+ ],
+ "message": "Hi, we saw your listing for the Northwoods 14ft with the Johnson. The aluminum hull sides look a bit dull and chalky in the photos, and the red carpet and bow platform could use a cleanup. We do mobile pre-sale details, including hull cleaning and polishing plus carpet and interior cleaning, and can come to you. Would you like a quote?",
+ "id": "7951502304",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:49:19",
+ "usage": {
+  "in": 3203,
+  "out": 381
+ }
+}

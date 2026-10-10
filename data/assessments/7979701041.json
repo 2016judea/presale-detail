@@ -1,0 +1,23 @@
+{
+ "fit": true,
+ "fit_reason": "Whole classic car (1949 Ford Custom Club Coupe) listed by a private owner in cars by owner.",
+ "photo_quality": "good",
+ "need_score": 1,
+ "findings": [
+  "Colony Blue paint on the doors, fenders and hood shows deep gloss with clear reflections",
+  "Chrome grille, bumper and side trim are bright with no visible pitting or haze",
+  "Whitewall tires and hubcaps are clean and bright",
+  "Gray interior visible through the driver window looks clean and tidy",
+  "Undercarriage shows normal light surface dulling on the muffler and exhaust, nothing a detail would meaningfully change for buyers"
+ ],
+ "services": [],
+ "message": "Hi, we saw your listing for the 1949 Ford Club Coupe. The Colony Blue paint and chrome look excellent in the photos, so it clearly has been well kept. If you ever want a light pre-sale wash and wax or interior wipe-down before showings, we come to you. Would you like a quote?",
+ "id": "7979701041",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:53:11",
+ "usage": {
+  "in": 3360,
+  "out": 335
+ }
+}

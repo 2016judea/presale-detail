@@ -1,0 +1,27 @@
+{
+ "fit": true,
+ "fit_reason": "Private owner selling a whole bass boat (2012 Skeeter TZX 190) with trailer.",
+ "photo_quality": "fair",
+ "need_score": 3,
+ "findings": [
+  "Grey carpet on the rear deck looks faded and a bit dusty in the on-water and console photos",
+  "Water spotting and dust visible on the dash bezel, gauge faces and around the Humminbird unit",
+  "Hull and blue gelcoat stripe look reasonably glossy from the side shot, though it is taken at a distance",
+  "Outboard cowling appears glossy with decals in good shape",
+  "Grey vinyl seat tops look slightly dull in a couple of shots"
+ ],
+ "services": [
+  "interior detail",
+  "exterior wash and wax",
+  "gelcoat oxidation removal"
+ ],
+ "message": "Hi Doug, we saw your listing for the 2012 Skeeter TZX 190. It looks well kept, but the deck carpet and dash area look a little dusty and water spotted in the photos, and a clean-up and wax on the hull would help it pop for buyers. We do pre-sale boat details and can come to you. Would you like a quote?",
+ "id": "7940329357",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:49:49",
+ "usage": {
+  "in": 3365,
+  "out": 371
+ }
+}

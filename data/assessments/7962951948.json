@@ -1,0 +1,23 @@
+{
+ "fit": true,
+ "fit_reason": "Private owner selling a whole 2018 Malibu Wakesetter boat (with trailer and lift as a package).",
+ "photo_quality": "fair",
+ "need_score": 2,
+ "findings": [
+  "Hull paint on the port side looks glossy with strong reflections and no visible chalking or oxidation",
+  "Blue and black gelcoat on the bow and sides appears clean in the driveway photos",
+  "Interior is mostly hidden by the windshield and cover, so its condition cannot be judged from these photos"
+ ],
+ "services": [
+  "exterior wash and wax"
+ ],
+ "message": "Hi, we saw your listing for the 2018 Malibu Wakesetter. The hull already looks glossy and well kept in your driveway photos. If you'd like it extra sharp for showings, we offer a mobile pre-sale wash, wax and interior detail that comes to you. Would you like a quote?",
+ "id": "7962951948",
+ "model": "claude-opus-5-5",
+ "photos_seen": 4,
+ "assessed_at": "2026-10-10T11:50:58",
+ "usage": {
+  "in": 3571,
+  "out": 292
+ }
+}

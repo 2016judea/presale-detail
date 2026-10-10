@@ -1,0 +1,28 @@
+{
+ "fit": true,
+ "fit_reason": "Whole aluminum fishing boat with motor and trailer listed by a private owner in boats by owner.",
+ "photo_quality": "good",
+ "need_score": 7,
+ "findings": [
+  "Leaves and debris scattered across the rear deck carpet",
+  "Dirty, stained and worn-looking carpet on the gunwales and side panels",
+  "Grime and residue on the dash and around the helm console, with old sticker remnants",
+  "Dull, water-stained aluminum on the transom and rear hull corner",
+  "Brown film and grime along the lower hull sides",
+  "Dusty, dirty seat cushions and seat covers in the cockpit"
+ ],
+ "services": [
+  "interior detail",
+  "exterior wash and wax",
+  "trim restoration"
+ ],
+ "message": "Hi, we saw your listing for the 1990 Lowe with the Johnson 100. The leaves on the rear deck carpet and the grime around the dash and transom are things a good cleaning would take care of before buyers come to look. We do pre-sale boat details, cleaning the carpet, seats, console and hull, and we come to you. Would you like a quote?",
+ "id": "7967828286",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:50:34",
+ "usage": {
+  "in": 3274,
+  "out": 356
+ }
+}

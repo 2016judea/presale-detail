@@ -1,0 +1,28 @@
+{
+ "fit": true,
+ "fit_reason": "Private owner selling a complete 14 ft Lund aluminum boat with outboard and trailer.",
+ "photo_quality": "good",
+ "need_score": 4,
+ "findings": [
+  "Scuffing and worn patches in the light green interior paint on the floor and transom area near the motor",
+  "Dirt and debris on the interior floor between the seats",
+  "Dull, slightly faded red paint along the hull sides",
+  "Hazy, weathered bare aluminum on the lower hull and gunwale rails",
+  "Light grime on the padded seats"
+ ],
+ "services": [
+  "exterior wash and wax",
+  "paint correction / buff",
+  "interior detail",
+  "touch-up"
+ ],
+ "message": "Hi, we saw your listing for the Lund and motor. It looks like a solid boat, and a cleanup of the floor dirt and a buff on the red hull sides and aluminum rails would help it pop in photos. We do pre-sale details and come to you. Would you like a quote?",
+ "id": "7949601507",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:50:50",
+ "usage": {
+  "in": 2812,
+  "out": 306
+ }
+}

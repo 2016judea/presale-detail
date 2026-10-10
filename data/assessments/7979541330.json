@@ -1,0 +1,28 @@
+{
+ "fit": true,
+ "fit_reason": "Whole pickup truck listed by a private owner in cars by owner.",
+ "photo_quality": "good",
+ "need_score": 6,
+ "findings": [
+  "Headlights look yellowed and hazy on the front of the truck",
+  "Silver paint looks flat and dull across the hood, cab and bed sides",
+  "Dark lower body cladding and fender flares look faded and gray, with dirt marks along the driver side rocker area",
+  "Rear bumper chrome and lower tailgate area look dusty and spotted",
+  "Engine bay is dusty and grimy around the hoses, fluid reservoirs and fan shroud"
+ ],
+ "services": [
+  "headlight restoration",
+  "exterior wash and wax",
+  "paint correction / buff",
+  "trim restoration"
+ ],
+ "message": "Hi Jim, we saw your listing for the Dakota. The headlights look a bit hazy and the black lower trim has faded to gray in the photos, both things that clean up well. We do mobile pre-sale details, including headlight and trim restoration and a paint buff, and can come to you. Would you like a quote?",
+ "id": "7979541330",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:53:22",
+ "usage": {
+  "in": 3398,
+  "out": 345
+ }
+}

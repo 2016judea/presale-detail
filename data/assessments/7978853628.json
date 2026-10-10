@@ -1,0 +1,27 @@
+{
+ "fit": true,
+ "fit_reason": "Private owner selling a whole 14ft aluminum Crestliner boat (hull only, no trailer), which we can clean and polish.",
+ "photo_quality": "good",
+ "need_score": 6,
+ "findings": [
+  "Flaking, peeling red paint across the hull sides and transom corners",
+  "Green mildew/algae film on the upturned hull bottom near the bow",
+  "Dark grime and staining inside the hull along the ribs and floor",
+  "Dirt and debris buildup in the stern compartments",
+  "Dull, oxidized bare aluminum on the gunwales and bow handle area"
+ ],
+ "services": [
+  "exterior wash and wax",
+  "interior detail",
+  "paint correction / buff"
+ ],
+ "message": "Hi, we saw your listing for the 14ft Crestliner. The photos show some green film on the hull bottom and dark grime inside along the ribs and floor. We do mobile pre-sale cleanups and aluminum polishing and can come to you. Would you like a quote?",
+ "id": "7978853628",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:50:19",
+ "usage": {
+  "in": 2785,
+  "out": 317
+ }
+}

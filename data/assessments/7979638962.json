@@ -1,0 +1,31 @@
+{
+ "fit": true,
+ "fit_reason": "Private owner selling a whole SUV (2008 Lincoln MKX) in the cars by owner section.",
+ "photo_quality": "good",
+ "need_score": 6,
+ "findings": [
+  "Wear and creasing on the driver seat bolster and cushion, light beige leather looks dingy",
+  "Smudges and marks on the back of the front passenger headrest and seatback",
+  "Aftermarket red and black steering wheel cover and phone mount left in place for photos",
+  "Item on the passenger floor near the console",
+  "Front bumper and hood paint look dull with light grime and scuffs on the lower front bumper",
+  "Faded rear taillight lenses",
+  "Headlight lenses look slightly hazy"
+ ],
+ "services": [
+  "interior detail",
+  "exterior wash and wax",
+  "paint correction / buff",
+  "headlight restoration",
+  "touch-up"
+ ],
+ "message": "Hi, we saw your listing for the white MKX. The light leather shows wear and some marks on the driver seat and the back of the headrests, and the front bumper and headlights look a bit dull in the photos. We do pre-sale details that come to you, including a leather clean, exterior polish and headlight restoration. Would you like a quote?",
+ "id": "7979638962",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:53:16",
+ "usage": {
+  "in": 3489,
+  "out": 379
+ }
+}

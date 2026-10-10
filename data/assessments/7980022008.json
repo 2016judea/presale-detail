@@ -1,0 +1,27 @@
+{
+ "fit": true,
+ "fit_reason": "Whole pickup truck listed by a private owner in cars by owner.",
+ "photo_quality": "good",
+ "need_score": 4,
+ "findings": [
+  "Gold paint on the hood, cab and bed sides looks flat and dull rather than glossy",
+  "Light grime and road film along the lower doors and rocker area",
+  "Chrome front bumper and rear step bumper look dull and spotted",
+  "Black step bars and lower trim look faded and dusty",
+  "Wheels look dusty with brake and road grime"
+ ],
+ "services": [
+  "exterior wash and wax",
+  "paint correction / buff",
+  "trim restoration"
+ ],
+ "message": "Hi, we saw your listing for the F-250. The gold paint on the hood and cab looks a bit flat, and the chrome bumpers and step bars could use some brightening. We do mobile pre-sale details with a wash, light buff and trim dressing that we bring to you. Would you like a quote?",
+ "id": "7980022008",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:52:51",
+ "usage": {
+  "in": 2668,
+  "out": 298
+ }
+}

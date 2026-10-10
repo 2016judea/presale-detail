@@ -1,0 +1,17 @@
+{
+ "fit": false,
+ "fit_reason": "This listing is a boat lift with a canopy frame, not a boat or vehicle. There is nothing here for us to detail.",
+ "photo_quality": "good",
+ "need_score": 0,
+ "findings": [],
+ "services": [],
+ "message": "",
+ "id": "7976899752",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:49:14",
+ "usage": {
+  "in": 2613,
+  "out": 88
+ }
+}

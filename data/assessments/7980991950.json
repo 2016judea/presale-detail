@@ -1,0 +1,26 @@
+{
+ "fit": true,
+ "fit_reason": "Private owner selling a whole 2016 Nissan Versa Note hatchback.",
+ "photo_quality": "good",
+ "need_score": 3,
+ "findings": [
+  "Grey paint looks clean but somewhat flat, with a light dusty film on the rear hatch and bumper",
+  "Small sticker residue or decal on the lower rear hatch near the license plate",
+  "Plastic wheel covers look a bit dull",
+  "Interior looks tidy; front floor mat shows some light lint and dust",
+  "Headlights look reasonably clear, with no heavy yellowing visible"
+ ],
+ "services": [
+  "exterior wash and wax",
+  "interior detail"
+ ],
+ "message": "Hi, we saw your listing for the Versa Note and it looks well kept. The grey paint is a little flat and the rear hatch has some dust and a sticker spot near the plate that a wash and wax would clean up nicely. We do pre-sale details that come to you, inside and out. Would you like a quote?",
+ "id": "7980991950",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:51:33",
+ "usage": {
+  "in": 2957,
+  "out": 314
+ }
+}

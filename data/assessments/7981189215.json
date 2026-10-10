@@ -1,0 +1,26 @@
+{
+ "fit": true,
+ "fit_reason": "Whole car, a 2012 BMW 535i, listed by a private owner in the cars by owner section.",
+ "photo_quality": "good",
+ "need_score": 3,
+ "findings": [
+  "Paint looks clean and glossy on both sides, with only mild dullness visible on the lower doors and rocker area",
+  "Dust and grime on the plastic cowl and engine bay covers, especially the radiator support panel",
+  "Headlight lenses show slight haze on the edges in the front shot",
+  "Seller mentions a scratch on the rear bumper near the trunk lid from the garage door, but it is not clearly visible in the rear photo"
+ ],
+ "services": [
+  "exterior wash and wax",
+  "headlight restoration",
+  "touch-up"
+ ],
+ "message": "Hi, we saw your listing for the 535i and it looks like it has been well kept. The engine bay has some dust on the covers and the headlights look slightly hazy at the edges, and we could also look at the bumper scratch you mentioned. We do pre-sale details and small touch-ups that come to you. Would you like a quote?",
+ "id": "7981189215",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:51:23",
+ "usage": {
+  "in": 3367,
+  "out": 345
+ }
+}

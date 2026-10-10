@@ -1,0 +1,23 @@
+{
+ "fit": true,
+ "fit_reason": "Whole car, a 2024 Corvette E-Ray convertible, listed by its private owner.",
+ "photo_quality": "good",
+ "need_score": 1,
+ "findings": [
+  "Blue paint on the hood, doors and rear quarters is glossy with clean, sharp reflections and no visible swirls or dullness",
+  "Front splitter, side skirts and rear diffuser trim look deep black with no fading",
+  "Wheels and tires look clean with dressed sidewalls",
+  "Two-tone leather seats look clean and unworn with no visible stains or debris",
+  "Headliner and overhead console look clean"
+ ],
+ "services": [],
+ "message": "Hi, we saw your listing for the Corvette E-Ray. It already looks sharp, and the paint and the two-tone seats are clearly well kept. If you'd like a light pre-sale wash and interior wipe-down before showings, we come to you. Would you like a quote?",
+ "id": "7980085551",
+ "model": "claude-opus-5-5",
+ "photos_seen": 4,
+ "assessed_at": "2026-10-10T11:52:46",
+ "usage": {
+  "in": 2905,
+  "out": 301
+ }
+}

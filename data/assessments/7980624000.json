@@ -1,0 +1,29 @@
+{
+ "fit": true,
+ "fit_reason": "Whole fishing boat with motor and trailer listed by a private owner in boats by owner.",
+ "photo_quality": "fair",
+ "need_score": 7,
+ "findings": [
+  "Dull, chalky-looking gelcoat on the white hull sides, port and starboard",
+  "Yellowed, stained areas low on the hull near the keel visible from the bow photo",
+  "Faded, flat gray finish on the topsides/deck cap near the stern",
+  "Grimy, faded black and gray hull striping along the sides and by the Dyna-Trak decal",
+  "Dull, faded gray finish on the Johnson outboard cowling",
+  "Dust and debris on the blue carpet and gray deck area near the bow console"
+ ],
+ "services": [
+  "gelcoat oxidation removal",
+  "exterior wash and wax",
+  "interior detail",
+  "trim restoration"
+ ],
+ "message": "Hi, we saw your listing for the Ebbtide Dyna-Trak. The white hull sides and the gray deck cap look a bit dull and chalky in the photos, and the motor cowling has faded some. We do mobile gelcoat oxidation removal and polish plus a carpet and deck cleanup, and we can come to you before you show it. Would you like a quote?",
+ "id": "7980624000",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:50:13",
+ "usage": {
+  "in": 2470,
+  "out": 395
+ }
+}

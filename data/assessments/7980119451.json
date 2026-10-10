@@ -1,0 +1,28 @@
+{
+ "fit": true,
+ "fit_reason": "Whole SUV listed by a private owner in cars by owner.",
+ "photo_quality": "fair",
+ "need_score": 5,
+ "findings": [
+  "Yellowed, hazy headlight lenses on the front",
+  "Faded, grayish black plastic on the rear bumper step and lower trim",
+  "Faded gray fender flares and lower body cladding along both sides",
+  "Paint looks reasonably glossy in reflections but somewhat flat on the hood and lower doors",
+  "Dust and grime on the lower rocker areas and around the rear hitch area"
+ ],
+ "services": [
+  "headlight restoration",
+  "trim restoration",
+  "exterior wash and wax",
+  "paint correction / buff"
+ ],
+ "message": "Hi, we saw your listing for the 2007 Explorer. The headlights look a bit yellowed and the black bumper and fender trim has faded to gray, both of which we can bring back so it photographs sharper for buyers. We do pre-sale details that come to you, including headlight and trim restoration and a wash and wax. Would you like a quote?",
+ "id": "7980119451",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:52:44",
+ "usage": {
+  "in": 2977,
+  "out": 335
+ }
+}

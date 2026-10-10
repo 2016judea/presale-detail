@@ -1,0 +1,29 @@
+{
+ "fit": true,
+ "fit_reason": "Whole aluminum fishing boat with outboard and trailer, sold by a private owner.",
+ "photo_quality": "good",
+ "need_score": 7,
+ "findings": [
+  "Heavy tan/brown water staining on the lower unit and midsection of the Johnson outboard",
+  "Dull, faded red paint on the hull sides with grime along the lower hull",
+  "Dirty, stained transom and aluminum stern area",
+  "Dusty, dirty carpeted floor and casting decks inside the boat",
+  "Scuffed, dirty light-blue painted interior walls and gunwales",
+  "Grimy pedestal seat"
+ ],
+ "services": [
+  "interior detail",
+  "exterior wash and wax",
+  "paint correction / buff",
+  "touch-up"
+ ],
+ "message": "Hi, we saw your listing for the 18 foot Lund. The staining on the Johnson's lower unit and the dull red paint on the hull would clean up nicely and make the rig photograph a lot better. We do mobile pre-sale details for boats, including cleaning the carpet and interior and buffing the paint, and we come to you. Would you like a quote?",
+ "id": "7936670601",
+ "model": "claude-opus-5-5",
+ "photos_seen": 4,
+ "assessed_at": "2026-10-10T11:49:06",
+ "usage": {
+  "in": 2757,
+  "out": 357
+ }
+}

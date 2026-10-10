@@ -1,0 +1,20 @@
+{
+ "fit": false,
+ "fit_reason": "This is an aluminum Grumman canoe sold with a utility trailer. A riveted aluminum canoe has no paint, gelcoat, interior or trim for our services to work on, so it falls outside what we can detail in a way that changes how it presents.",
+ "photo_quality": "good",
+ "need_score": 1,
+ "findings": [
+  "Bare aluminum canoe hull shows normal dull weathering along the sides, not paint or gelcoat oxidation we would treat",
+  "Weathered wood on the trailer bed sides is a trailer item, not part of the vessel"
+ ],
+ "services": [],
+ "message": "Hi, we saw your listing for the Grumman canoe and trailer. The bare aluminum hull looks like it is in honest shape, and it is not really something our detailing would change much. Best of luck with the sale.",
+ "id": "7937712318",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:50:11",
+ "usage": {
+  "in": 3488,
+  "out": 271
+ }
+}

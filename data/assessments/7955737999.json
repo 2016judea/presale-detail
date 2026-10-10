@@ -1,0 +1,24 @@
+{
+ "fit": true,
+ "fit_reason": "A whole Alumacraft aluminum canoe listed by a private owner in boats by owner. It is a boat, though bare aluminum leaves little for a detail to work on.",
+ "photo_quality": "fair",
+ "need_score": 3,
+ "findings": [
+  "Light water spots and smudges on the aluminum bottom, visible in the overhead hull shot",
+  "Dull, uneven sheen on the aluminum hull sides near the Alumacraft decal",
+  "Light dirt and grime along the bow edge and rivet line",
+  "Interior of the canoe is not shown, so its condition can't be judged"
+ ],
+ "services": [
+  "exterior wash and wax"
+ ],
+ "message": "Hi, we saw your listing for the Alumacraft Voyager canoe. The hull looks to be in good shape, though the photos pick up some water spotting on the bottom and a bit of dullness along the sides. We do mobile pre-sale cleaning and polishing that could bring the aluminum back to a more even shine before you show it. Would you like a quote?",
+ "id": "7955737999",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:50:38",
+ "usage": {
+  "in": 3023,
+  "out": 335
+ }
+}

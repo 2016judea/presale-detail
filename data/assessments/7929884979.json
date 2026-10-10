@@ -1,0 +1,21 @@
+{
+ "fit": false,
+ "fit_reason": "This is a human-powered wood-and-canvas canoe; it has no gelcoat, machine-polishable paint, upholstery or trim of the kind we work on, and a traditional varnished wood and painted canvas boat calls for restoration specialists rather than a detailing service.",
+ "photo_quality": "good",
+ "need_score": 1,
+ "findings": [
+  "Red painted canvas hull looks clean and evenly glossy in the full-length shot",
+  "Varnished cedar ribs, planking and gunwales look clean and well kept",
+  "Cane seats look intact with no visible staining"
+ ],
+ "services": [],
+ "message": "Hi, we saw your listing for the wood-canvas canoe, and it looks very well cared for, with a clean red hull and nicely kept varnished ribs and gunwales. Wood and canvas boats aren't something we detail, so we don't have a service to offer here. Good luck with the sale.",
+ "id": "7929884979",
+ "model": "claude-opus-5-5",
+ "photos_seen": 3,
+ "assessed_at": "2026-10-10T11:51:04",
+ "usage": {
+  "in": 2476,
+  "out": 301
+ }
+}

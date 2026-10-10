@@ -1,0 +1,27 @@
+{
+ "fit": true,
+ "fit_reason": "Private owner selling a whole 2019 Silverado 3500HD flatbed work truck, which we can detail.",
+ "photo_quality": "fair",
+ "need_score": 4,
+ "findings": [
+  "Dust and road grime on the white lower cab and door area behind the front wheel",
+  "Dusty, dull hub cover and grimy tire sidewall on the front wheel",
+  "Dust film on the dash area in front of the gauge cluster",
+  "Black flatbed and headache rack look dull and dusty, with scattered debris on the deck",
+  "Grimy lower rear bumper panel and taillight surround on the bed"
+ ],
+ "services": [
+  "exterior wash and wax",
+  "interior detail",
+  "trim restoration"
+ ],
+ "message": "Hi, we saw your listing for the Silverado 3500 flatbed. From the photos the white cab looks solid but has some dust and road grime along the lower doors and wheels, and the dash has a dust film. We do pre-sale details that come to you, including a wash and wax, wheel and tire cleanup, and an interior wipe-down to help it photograph well. Would you like a quote?",
+ "id": "7980340272",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:52:28",
+ "usage": {
+  "in": 2137,
+  "out": 358
+ }
+}

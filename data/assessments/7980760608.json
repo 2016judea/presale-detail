@@ -1,0 +1,29 @@
+{
+ "fit": true,
+ "fit_reason": "Whole car, a 2011 Crown Victoria sedan listed by a private owner in the cars by owner section.",
+ "photo_quality": "fair",
+ "need_score": 7,
+ "findings": [
+  "Yellowed, hazy headlight lenses on both front headlights",
+  "Dull, faded black paint on the hood, trunk lid and doors, with little reflection",
+  "Faded, grayish black bumper covers and lower trim front and rear",
+  "Dust and grime along the lower doors and rocker areas on both sides",
+  "Roof paint looks lighter and faded compared to the rest of the car"
+ ],
+ "services": [
+  "headlight restoration",
+  "paint correction / buff",
+  "exterior wash and wax",
+  "trim restoration",
+  "interior detail"
+ ],
+ "message": "Hi, we saw your listing for the Crown Vic. The headlights look pretty yellowed and the black paint on the hood and trunk has gone dull in the photos, and both of those clean up well. We do mobile pre-sale details, including headlight restoration, a buff and wax, and an interior clean that can help with the seat stains. Would you like a quote?",
+ "id": "7980760608",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:51:59",
+ "usage": {
+  "in": 3718,
+  "out": 356
+ }
+}

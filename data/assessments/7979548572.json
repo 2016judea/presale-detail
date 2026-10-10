@@ -1,0 +1,28 @@
+{
+ "fit": true,
+ "fit_reason": "Whole SUV listed by a private owner in cars by owner.",
+ "photo_quality": "fair",
+ "need_score": 4,
+ "findings": [
+  "Exterior white paint looks clean overall; some dullness and light road film visible along the lower doors and rocker panels",
+  "Black lower front bumper trim and grille surround look slightly faded/grey in the front three-quarter shot",
+  "Dust and light lint on the driver and passenger floor mats",
+  "Light dust on the dashboard and center console trim",
+  "Leather seats look worn-in with some creasing and dullness on the front seat bolsters",
+  "Aftermarket steering wheel cover and a child seat in the cabin make the interior look lived-in"
+ ],
+ "services": [
+  "interior detail",
+  "exterior wash and wax",
+  "trim restoration"
+ ],
+ "message": "Hi, we saw your listing for the Q7 and it looks like a nice, well-kept SUV. A few spots in the photos could pop more, like dust on the floor mats and dash and some slightly faded black trim on the front bumper. We do mobile pre-sale details that come to you, including leather cleaning and conditioning and trim restoration. Would you like a quote?",
+ "id": "7979548572",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:53:22",
+ "usage": {
+  "in": 2910,
+  "out": 379
+ }
+}

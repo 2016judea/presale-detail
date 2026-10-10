@@ -1,0 +1,25 @@
+{
+ "fit": true,
+ "fit_reason": "Whole 2019 Subaru Crosstrek offered by a private owner in the cars-by-owner section.",
+ "photo_quality": "good",
+ "need_score": 3,
+ "findings": [
+  "Light dust and a slightly dull finish on the dark grey paint along the driver side doors and rear quarter",
+  "Dust film on the front bumper and hood in the front shot",
+  "Light road dust on the lower rear bumper and black lower cladding"
+ ],
+ "services": [
+  "exterior wash and wax",
+  "paint correction / buff",
+  "trim restoration"
+ ],
+ "message": "Hi, we saw your listing for the Crosstrek. It already looks well kept, but the dark grey paint shows some dust and a slightly flat look along the side doors and front bumper in the photos. We do mobile pre-sale details, including a wash, light buff and trim dressing, and can come to you. Would you like a quote?",
+ "id": "7979839536",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:52:59",
+ "usage": {
+  "in": 2924,
+  "out": 288
+ }
+}

@@ -1,0 +1,27 @@
+{
+ "fit": true,
+ "fit_reason": "Whole vehicle (2006 Hummer H2 SUT) listed by a private owner in cars by owner.",
+ "photo_quality": "fair",
+ "need_score": 4,
+ "findings": [
+  "Black plastic fender flares and lower rear bumper look grayish and faded, especially at the rear corner",
+  "Headlight lenses appear somewhat cloudy and yellowed in the front shot",
+  "White paint looks clean but flat rather than glossy on the doors and hood",
+  "Light dust and road film on the lower rocker and running board area",
+  "Only exterior photos provided; interior and the driver's seat wear mentioned in the text are not shown, so interior cannot be judged"
+ ],
+ "services": [
+  "exterior wash and wax",
+  "trim restoration",
+  "headlight restoration"
+ ],
+ "message": "Hi, we saw your listing for the H2 SUT. The black fender flares and rear bumper are looking a bit faded, and the headlight lenses look slightly cloudy in the front photo. We do mobile pre-sale details, including trim and headlight restoration, and can come to you. Would you like a quote?",
+ "id": "7979760500",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:53:05",
+ "usage": {
+  "in": 3596,
+  "out": 356
+ }
+}

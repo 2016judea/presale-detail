@@ -1,0 +1,28 @@
+{
+ "fit": true,
+ "fit_reason": "Whole 20ft pontoon boat with outboard listed by a private owner in boats by owner.",
+ "photo_quality": "good",
+ "need_score": 6,
+ "findings": [
+  "Dull, streaky and stained aluminum pontoon tubes on both sides, with grayish oxidation and waterline staining",
+  "Dull, oxidized aluminum railings and deck edge trim",
+  "Faded, chalky-looking side panels with dated graphics along the fence",
+  "Dirt and stains on the tan cushions of the front captain's chairs",
+  "Cloudy front spot light lenses on the bow"
+ ],
+ "services": [
+  "exterior wash and wax",
+  "paint correction / buff",
+  "interior detail",
+  "headlight restoration"
+ ],
+ "message": "Hi Bob, we saw your listing for the Riviera Cruiser pontoon. The new carpet and interior look great, but the pontoon tubes and rails look dull and stained in the photos, and a polish would make them shine for buyers. We do pre-sale details and aluminum polishing and can come to you. Would you like a quote?",
+ "id": "7981018863",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:49:39",
+ "usage": {
+  "in": 3408,
+  "out": 345
+ }
+}

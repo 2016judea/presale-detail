@@ -1,0 +1,25 @@
+{
+ "fit": true,
+ "fit_reason": "Whole car, a 2016 Hyundai Accent hatchback, listed by a private owner in cars by owner.",
+ "photo_quality": "fair",
+ "need_score": 2,
+ "findings": [
+  "Red paint on the hood, doors and rear hatch looks clean with good gloss and reflections",
+  "Headlights look clear in the front three-quarter photo",
+  "Black lower front grille and bumper trim look dark, not faded",
+  "Interior is only glimpsed through the windows; no close-up interior photos to judge seats or carpets"
+ ],
+ "services": [
+  "interior detail",
+  "exterior wash and wax"
+ ],
+ "message": "Hi Jess, we saw your listing for the red Accent hatchback. The paint already looks glossy in your photos, so a light pre-sale wash, wax and interior detail would just keep it looking its best for showings. We come to you. Would you like a quote?",
+ "id": "7980555408",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:52:08",
+ "usage": {
+  "in": 3616,
+  "out": 287
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "fit": true,
+ "fit_reason": "Private owner selling a whole bass boat with trailer; some photos are dealer showroom shots of a new comparison boat, but the seller's own boat appears in the hangar and driveway photos.",
+ "photo_quality": "fair",
+ "need_score": 2,
+ "findings": [
+  "Hull paint on the seller's boat in the driveway photo looks glossy with no visible oxidation or dullness",
+  "Deck carpet and seats in the hangar photo look clean and uncluttered",
+  "Several photos appear to be of a different new boat in a dealer showroom, so only two photos show the seller's actual boat and they are fairly distant"
+ ],
+ "services": [
+  "exterior wash and wax"
+ ],
+ "message": "Hi, we saw your listing for the Vexus VTX and it looks like it has been kept in great shape, with a glossy hull in the driveway shot and a clean deck in the hangar. If you'd like it looking its best for showings, we do a pre-sale wash and wax that comes to you. Would you like a quote?",
+ "id": "7934177274",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:50:39",
+ "usage": {
+  "in": 3715,
+  "out": 331
+ }
+}

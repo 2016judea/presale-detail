@@ -1,0 +1,33 @@
+{
+ "fit": true,
+ "fit_reason": "Whole SUV listed by a private owner in cars by owner.",
+ "photo_quality": "good",
+ "need_score": 6,
+ "findings": [
+  "Yellowed, hazy headlight lenses on both front headlights",
+  "Dust and grime on the dashboard top and center stack",
+  "Peeling/worn finish on the center stack trim near the left vent",
+  "Spots and light staining on the passenger seat cushion",
+  "Dirty, dusty rubber floor mats in front footwells",
+  "Dusty door panels and light gray interior plastics",
+  "Faded black plastic on the rear bumper step pad and tailgate handle trim",
+  "Light scuffs on the rear bumper",
+  "Dull, flat-looking silver paint on hood and sides"
+ ],
+ "services": [
+  "interior detail",
+  "headlight restoration",
+  "trim restoration",
+  "exterior wash and wax",
+  "touch-up"
+ ],
+ "message": "Hi, we saw your listing for the Jeep Liberty. The headlights look pretty yellowed in the photos and the light gray interior has some dust and a few spots on the passenger seat. We do mobile pre-sale details including headlight restoration and interior cleaning, and we come to you. Would you like a quote?",
+ "id": "7981232853",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:51:14",
+ "usage": {
+  "in": 3308,
+  "out": 382
+ }
+}

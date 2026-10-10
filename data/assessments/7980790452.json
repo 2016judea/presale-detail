@@ -1,0 +1,27 @@
+{
+ "fit": true,
+ "fit_reason": "Whole SUV, 2010 Jeep Commander, listed by a private owner in cars by owner.",
+ "photo_quality": "fair",
+ "need_score": 5,
+ "findings": [
+  "Faded, grayish black plastic on the front bumper lower section and fender flares",
+  "Black plastic rear bumper looks dull and slightly faded",
+  "Black paint looks reasonably glossy from a distance, but swirls are likely on black and can't be confirmed at this photo resolution",
+  "Dusty, grimy engine bay with dirty plastic covers and residue around the strut tower and fender areas",
+  "Rear photo is mostly blocked by a finger, and there are no interior photos to judge"
+ ],
+ "services": [
+  "exterior wash and wax",
+  "trim restoration",
+  "paint correction / buff"
+ ],
+ "message": "Hi, I saw your listing for the black Jeep Commander. It looks solid, but the black plastic on the bumpers and fender flares has faded to gray, and the engine bay could use a cleanup before buyers look under the hood. We do mobile pre-sale details that include trim restoration and a polish on the black paint, and we come to you. Would you like a quote?",
+ "id": "7980790452",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:51:50",
+ "usage": {
+  "in": 3044,
+  "out": 378
+ }
+}

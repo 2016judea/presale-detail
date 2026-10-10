@@ -1,0 +1,24 @@
+{
+ "fit": true,
+ "fit_reason": "Whole classic car (1966 Mustang coupe) listed by a private owner in cars by owner.",
+ "photo_quality": "fair",
+ "need_score": 2,
+ "findings": [
+  "Paint on hood, doors and quarters looks glossy with clear reflections in the outdoor shots",
+  "Chrome bumpers and stainless trim look bright in the front and rear photos",
+  "Dash, steering wheel and carpet in the interior shot look clean",
+  "Photos are taken from a distance in flat light, so fine swirls or small chips cannot be judged"
+ ],
+ "services": [
+  "paint correction / buff"
+ ],
+ "message": "Hi, we saw your listing for the 1966 Mustang. The midnight purple paint and chrome already look sharp in your photos. If you want a final gloss enhancement buff before showings, we come to you and can do it on site. Would you like a quote?",
+ "id": "7980135516",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:52:42",
+ "usage": {
+  "in": 3284,
+  "out": 285
+ }
+}

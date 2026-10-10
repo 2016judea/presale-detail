@@ -1,0 +1,25 @@
+{
+ "fit": true,
+ "fit_reason": "Whole SUV, a 2013 Honda CR-V, listed by a private owner in the cars by owner section.",
+ "photo_quality": "good",
+ "need_score": 2,
+ "findings": [
+  "Paint on the hood, doors and rear quarters reflects cleanly with strong gloss in all four exterior shots",
+  "Black lower door cladding and bumper trim look dark, not faded",
+  "Headlight lenses on the front corners look clear",
+  "Cargo area is clean, with the factory protective cover still on the floor",
+  "Light dust visible on the front and rear wheel faces and tire sidewalls"
+ ],
+ "services": [
+  "exterior wash and wax"
+ ],
+ "message": "Hi, we saw your listing for the 2013 CR-V and it already looks sharp, with glossy paint and a cargo area that still has the factory floor cover on. If you want it fully buyer-ready, we can come to you for a light pre-sale wash, wax and wheel and tire cleanup. Would you like a quote?",
+ "id": "7980112422",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:52:44",
+ "usage": {
+  "in": 3434,
+  "out": 324
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "fit": true,
+ "fit_reason": "Whole 2002 Buick Regal sedan listed by a private owner in cars by owner.",
+ "photo_quality": "fair",
+ "need_score": 5,
+ "findings": [
+  "Yellowed, hazy headlight lenses on both front corners",
+  "Dull, flat silver paint on the hood and front bumper",
+  "Wet leaves and grime spots across the trunk lid and rear quarter panel",
+  "Dusty, dirty-looking lower doors and rear bumper"
+ ],
+ "services": [
+  "headlight restoration",
+  "exterior wash and wax",
+  "paint correction / buff"
+ ],
+ "message": "Hi, we saw your listing for the 2002 Buick Regal. The headlights look pretty yellowed and the silver paint on the hood has gone a bit flat, both of which show up in photos. We do mobile pre-sale details, including headlight restoration and a wash and buff, and can come to you. Would you like a quote?",
+ "id": "7979910513",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:52:55",
+ "usage": {
+  "in": 2274,
+  "out": 299
+ }
+}

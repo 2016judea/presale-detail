@@ -1,0 +1,31 @@
+{
+ "fit": true,
+ "fit_reason": "Whole passenger car offered by a private owner in the cars by owner section.",
+ "photo_quality": "fair",
+ "need_score": 7,
+ "findings": [
+  "Dull, faded maroon paint with blotchy oxidation across the trunk lid and rear bumper",
+  "Dirt and grime along the lower rear bumper",
+  "Yellowed, hazy driver-side headlight lens",
+  "Dull, chalky paint on the front bumper and driver-side fender",
+  "Dirt and creasing wear on the driver seat bolster and bottom cushion",
+  "Light soiling on the rear bench seat and loose items on the rear floor",
+  "Dusty, dirty carpet visible in the rear footwell",
+  "Leaves and grime in the door jambs and lower door sills"
+ ],
+ "services": [
+  "exterior wash and wax",
+  "paint correction / buff",
+  "headlight restoration",
+  "interior detail"
+ ],
+ "message": "Hi, we saw your listing for the Avalon. The maroon paint on the trunk and bumpers looks pretty faded in the photos, and the front headlight has gone hazy. We do mobile pre-sale details, including a buff, headlight restoration and an interior clean of the leather and carpets, and we come to you. Would you like a quote?",
+ "id": "7980792333",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:51:50",
+ "usage": {
+  "in": 2675,
+  "out": 398
+ }
+}

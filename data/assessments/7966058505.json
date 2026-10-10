@@ -1,0 +1,28 @@
+{
+ "fit": true,
+ "fit_reason": "Whole 1985 runabout with trailer listed by a private owner in boats by owner.",
+ "photo_quality": "fair",
+ "need_score": 7,
+ "findings": [
+  "Dull, faded gelcoat along the port and starboard hull sides, especially the dark lower band",
+  "Brownish staining and grime near the waterline area on the hull sides",
+  "Dusty, dull white vinyl and fiberglass on the rear bench and engine cover area",
+  "Grimy, dusty engine bay and oily-looking compartment under the engine hatch",
+  "Faded, weathered wood trim piece on the rear seat back"
+ ],
+ "services": [
+  "gelcoat oxidation removal",
+  "exterior wash and wax",
+  "interior detail",
+  "trim restoration"
+ ],
+ "message": "Hi, we saw your listing for the 1985 Fabuglas runabout. The hull sides look faded with some staining near the waterline, and the vinyl seating and engine bay could use a good cleaning. We do pre-sale details and gelcoat polishing and can come to you. Would you like a quote?",
+ "id": "7966058505",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:49:49",
+ "usage": {
+  "in": 2973,
+  "out": 343
+ }
+}

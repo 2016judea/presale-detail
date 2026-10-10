@@ -1,0 +1,23 @@
+{
+ "fit": true,
+ "fit_reason": "Private owner selling a whole sailboat with trailer, which is a vessel we can detail.",
+ "photo_quality": "poor",
+ "need_score": 2,
+ "findings": [
+  "The first image is a reference drawing, not a photo of the actual boat",
+  "The real boat is almost entirely covered by a blue tarp, so the deck, cockpit and most of the hull cannot be seen",
+  "The small strip of hull visible below the tarp on the starboard side looks off-white, but it is too distant to judge gloss or oxidation"
+ ],
+ "services": [
+  "gelcoat oxidation removal"
+ ],
+ "message": "Hi, we saw your listing for the 1963 Cape Cod Bullseye. Since the boat has been covered and in storage a long time, the hull might benefit from a gelcoat polish so buyers see it at its best once the tarp comes off. We do pre-sale details and gelcoat polishing and can come to you. Would you like a quote?",
+ "id": "7980774192",
+ "model": "claude-opus-5-5",
+ "photos_seen": 2,
+ "assessed_at": "2026-10-10T11:50:02",
+ "usage": {
+  "in": 2069,
+  "out": 310
+ }
+}

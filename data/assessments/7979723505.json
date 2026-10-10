@@ -1,0 +1,29 @@
+{
+ "fit": true,
+ "fit_reason": "Whole pickup truck listed by a private owner in cars by owner.",
+ "photo_quality": "good",
+ "need_score": 4,
+ "findings": [
+  "Water bottle and charging cable left in the front cup holder and console area",
+  "Light dust and lint on the front and rear floor liners",
+  "Gray cloth seats look slightly dull and lived-in on the driver seat and rear bench",
+  "Tan paint looks a bit flat rather than glossy on the hood and tailgate",
+  "Black step bars and bumper end trim look faded and grayish",
+  "Headlight lenses look slightly hazy"
+ ],
+ "services": [
+  "interior detail",
+  "exterior wash and wax",
+  "trim restoration",
+  "headlight restoration"
+ ],
+ "message": "Hi, we saw your listing for the 2004 Ram 2500 and it looks like a solid truck. A pre-sale detail could freshen up the cloth seats and floor liners and bring back some gloss on the tan paint and the faded black step bars. We come to you. Would you like a quote?",
+ "id": "7979723505",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:53:09",
+ "usage": {
+  "in": 2659,
+  "out": 327
+ }
+}

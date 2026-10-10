@@ -1,0 +1,25 @@
+{
+ "fit": true,
+ "fit_reason": "Whole SUV, a 2016 Ford Escape, listed by a private owner in cars by owner.",
+ "photo_quality": "fair",
+ "need_score": 3,
+ "findings": [
+  "White paint looks clean overall, though gloss reads a bit flat in the evening light on the hood and doors",
+  "Black lower door cladding and rocker trim along both sides looks slightly gray and faded",
+  "Headlight lenses look clear in the front shots, with maybe faint haze on the driver side",
+  "No interior shots, so the cabin can't be judged from the photos"
+ ],
+ "services": [
+  "exterior wash and wax",
+  "trim restoration"
+ ],
+ "message": "Hi, we saw your listing for the Ford Escape and it looks well kept. The white paint could use a bit more pop, and the black lower trim along the doors is starting to look a little gray. We do pre-sale details that come to you, including wax and trim restoration. Would you like a quote?",
+ "id": "7980571872",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:52:06",
+ "usage": {
+  "in": 3350,
+  "out": 304
+ }
+}

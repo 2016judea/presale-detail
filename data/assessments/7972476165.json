@@ -1,0 +1,24 @@
+{
+ "fit": true,
+ "fit_reason": "Private owner selling a complete ice boat (sail-powered boat) listed in boats by owner; it is a whole vessel we could detail.",
+ "photo_quality": "good",
+ "need_score": 2,
+ "findings": [
+  "Orange and white fiberglass body looks clean and glossy in both photos",
+  "Graphics and number decals on the hull sides appear crisp and unfaded",
+  "Orange-painted runner plank and frame look fresh with no visible chalking",
+  "Upholstered seat in the cockpit appears clean"
+ ],
+ "services": [
+  "exterior wash and wax"
+ ],
+ "message": "Hi, we saw your listing for the Slicer ice boat. The orange and white body already looks sharp and glossy in the photos. If you'd like a quick wash and wax before showing it, we come to you and can freshen up the body and frame. Would you like a quote?",
+ "id": "7972476165",
+ "model": "claude-opus-5-5",
+ "photos_seen": 2,
+ "assessed_at": "2026-10-10T11:49:43",
+ "usage": {
+  "in": 1974,
+  "out": 279
+ }
+}

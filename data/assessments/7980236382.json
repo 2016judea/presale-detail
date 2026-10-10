@@ -1,0 +1,27 @@
+{
+ "fit": true,
+ "fit_reason": "Whole boat (2002 Lund Fisherman 1700 aluminum fishing boat with outboard and trailer) listed by a private owner.",
+ "photo_quality": "good",
+ "need_score": 4,
+ "findings": [
+  "Painted aluminum hull sides look somewhat dull and flat in the sun, especially the dark upper band near the stern",
+  "Light grime and staining on the lower transom area around the motor mount",
+  "Outboard cowling has a slightly faded, hazy look rather than a deep gloss",
+  "Floor carpet in the bow and cockpit looks dusty with light marks",
+  "Seats and interior panels look generally clean, with only light dust"
+ ],
+ "services": [
+  "exterior wash and wax",
+  "paint correction / buff",
+  "interior detail"
+ ],
+ "message": "Hi, we saw your listing for the Lund Fisherman 1700. It looks well kept, but the dark hull paint and the Yamaha cowling look a bit dull in the photos, and the carpet could use a deep clean. We do mobile pre-sale details, including a wash, polish and wax on the hull and motor plus an interior cleanup, and we come to you. Would you like a quote?",
+ "id": "7980236382",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:50:43",
+ "usage": {
+  "in": 3199,
+  "out": 379
+ }
+}

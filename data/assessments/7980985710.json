@@ -1,0 +1,30 @@
+{
+ "fit": true,
+ "fit_reason": "Whole SUV, a 2007 GMC Yukon, listed by a private owner in cars by owner.",
+ "photo_quality": "good",
+ "need_score": 6,
+ "findings": [
+  "Yellowed, cloudy headlight lenses on the front, most visible on the driver side headlight",
+  "Faded, grayish black plastic on the front bumper lower trim and around the running boards",
+  "White paint on the hood and front bumper looks flat with no real gloss or reflection",
+  "Worn, creased leather with some shine on the driver seat bolster and cushion",
+  "Dust on the dash top and center console surfaces",
+  "Carpet in the passenger footwell and the rear cargo seatbacks looks dusty and could use a vacuum and shampoo"
+ ],
+ "services": [
+  "headlight restoration",
+  "trim restoration",
+  "exterior wash and wax",
+  "paint correction / buff",
+  "interior detail"
+ ],
+ "message": "Hi, we saw your listing for the Yukon. The headlights have gone yellow and cloudy in the photos, and the black trim on the front bumper looks faded. We do pre-sale details that come to you, including headlight and trim restoration, a polish on the paint and a cleanup of the leather and carpets. Would you like a quote?",
+ "id": "7980985710",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:51:40",
+ "usage": {
+  "in": 3666,
+  "out": 398
+ }
+}

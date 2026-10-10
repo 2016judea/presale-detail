@@ -1,0 +1,26 @@
+{
+ "fit": true,
+ "fit_reason": "Whole 14 ft Lund aluminum fishing boat with outboards, listed by owner in boats by owner.",
+ "photo_quality": "good",
+ "need_score": 4,
+ "findings": [
+  "Flat, dull finish on the camo-painted aluminum hull sides, with light dirt and scuffing near the stern",
+  "Dusty, scuffed camo paint on the outboard cowling",
+  "Loose gear, bags and clutter piled inside the boat around the seats",
+  "Dirt and debris on the floor and interior paint near the bow and middle bench"
+ ],
+ "services": [
+  "interior detail",
+  "exterior wash and wax",
+  "touch-up"
+ ],
+ "message": "Hi, we saw your listing for the 14 ft Lund. The camo paint on the hull and motor cover looks a bit dusty and flat, and clearing out the gear and cleaning the inside would help it show better in photos. We do pre-sale details for boats and come to you. Would you like a quote?",
+ "id": "7955082382",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:50:21",
+ "usage": {
+  "in": 3086,
+  "out": 313
+ }
+}

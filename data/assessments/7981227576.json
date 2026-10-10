@@ -1,0 +1,28 @@
+{
+ "fit": true,
+ "fit_reason": "Whole passenger sedan listed by a private owner in the cars by owner section.",
+ "photo_quality": "fair",
+ "need_score": 5,
+ "findings": [
+  "Yellowed, hazy headlight lenses on the front, most visible on the passenger side",
+  "Light scuffs and marks on the rear bumper cover below the trunk",
+  "Paint on the sides and hood looks somewhat flat rather than glossy, though the car appears freshly wet",
+  "Dusty, grimy engine bay with dirt on plastic covers and the radiator support",
+  "Interior not shown beyond glimpses through the windows, so it can't be judged"
+ ],
+ "services": [
+  "headlight restoration",
+  "exterior wash and wax",
+  "touch-up",
+  "paint correction / buff"
+ ],
+ "message": "Hi, we saw your listing for the 2006 Accord. The headlights look yellowed and hazy in the front photo, and there are some light scuffs on the rear bumper, both things we can clean up so it shows better to buyers. We do mobile pre-sale details and come to you. Would you like a quote?",
+ "id": "7981227576",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:51:15",
+ "usage": {
+  "in": 3387,
+  "out": 346
+ }
+}

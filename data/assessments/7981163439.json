@@ -1,0 +1,25 @@
+{
+ "fit": true,
+ "fit_reason": "Private owner selling a complete 1972 Mercury Cougar XR7 coupe.",
+ "photo_quality": "fair",
+ "need_score": 2,
+ "findings": [
+  "Fresh green paint looks glossy with strong reflections on the hood and quarter panels",
+  "Chrome wheels look bright and clean",
+  "Black rear bumper surround and spoiler look slightly flat in the rear shots",
+  "Interior is barely visible through the glass, so its condition can't be judged"
+ ],
+ "services": [
+  "exterior wash and wax",
+  "trim restoration"
+ ],
+ "message": "Hi, we saw your listing for the green Cougar XR7 and the new paint looks great in the photos. If you want it extra sharp for buyers, we do a mobile pre-sale wash and wax and can freshen up the black rear bumper surround and spoiler. Would you like a quote?",
+ "id": "7981163439",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:51:25",
+ "usage": {
+  "in": 3215,
+  "out": 281
+ }
+}

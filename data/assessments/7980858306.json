@@ -1,0 +1,27 @@
+{
+ "fit": true,
+ "fit_reason": "Whole passenger car (2004 Camry sedan) listed by a private owner in cars by owner.",
+ "photo_quality": "fair",
+ "need_score": 5,
+ "findings": [
+  "Gold paint on the passenger side looks flat and lacks gloss, with dust visible on the doors and lower panels",
+  "Dirt and stains on the front passenger and driver floor mats",
+  "Light soiling and smudges on the cloth front seat bottoms and rear bench",
+  "Dirt and scuffs on the door sills and kick plates at the front and rear door openings",
+  "Spots on the windshield seen from the driver door"
+ ],
+ "services": [
+  "interior detail",
+  "exterior wash and wax",
+  "paint correction / buff"
+ ],
+ "message": "Hi, we saw your listing for the 2004 Camry. The interior looks solid, but the floor mats and door sills are showing dirt, and the gold paint looks a bit flat in the photos. We do mobile pre-sale details, including interior shampoo and a wash, polish and wax, and we can come to you. Would you like a quote?",
+ "id": "7980858306",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:51:40",
+ "usage": {
+  "in": 2716,
+  "out": 344
+ }
+}

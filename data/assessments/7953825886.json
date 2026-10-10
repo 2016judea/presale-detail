@@ -1,0 +1,28 @@
+{
+ "fit": true,
+ "fit_reason": "Private owner selling a whole boat (1987 Lund aluminum fishing boat with motor and trailer).",
+ "photo_quality": "good",
+ "need_score": 5,
+ "findings": [
+  "Grime and dirt staining on the carpeted front deck floor near the bow",
+  "Dirty, scuffed interior surfaces along the bow casting deck and side walls",
+  "Dirt and staining on the forward bench and storage lids",
+  "Faded, weathered vinyl on the driver seat and passenger seats",
+  "Dull, uneven finish along the painted aluminum hull sides",
+  "Light dust and water spotting on the black Mercury cowling"
+ ],
+ "services": [
+  "interior detail",
+  "exterior wash and wax",
+  "trim restoration"
+ ],
+ "message": "Hi, we saw your listing for the Lund Pro Alaskan. The front deck floor and the interior walls look like they've seen a lot of good fishing and duck seasons, and a cleanup there plus a wash and wax on the hull and motor cowl would help it show well in photos. We do mobile pre-sale details and can come to you. Would you like a quote?",
+ "id": "7953825886",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:49:45",
+ "usage": {
+  "in": 3001,
+  "out": 359
+ }
+}

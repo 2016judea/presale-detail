@@ -1,0 +1,28 @@
+{
+ "fit": true,
+ "fit_reason": "Whole fiberglass boat on trailer sold by a private owner (no motor, but the hull and interior are detailable).",
+ "photo_quality": "fair",
+ "need_score": 7,
+ "findings": [
+  "Dull, chalky-looking white gelcoat along the port and starboard hull sides",
+  "Faded red accent stripe along the port side",
+  "Dirt, debris and black grime streaks on the interior deck/gunwale near the capacity and builder plates",
+  "Leaves, gravel and a dead insect sitting in the cockpit near the drain",
+  "Dirty, stained red vinyl seats with grime on the cushions and a soiled white seat base in the cockpit",
+  "Dark scum line along the inside gunwale edge"
+ ],
+ "services": [
+  "gelcoat oxidation removal",
+  "interior detail",
+  "exterior wash and wax"
+ ],
+ "message": "Hi, we saw your listing for the Alumacraft Sea Aira. The white gelcoat and red stripe on the hull look a bit chalky and faded, and the red seats and cockpit floor have some dirt and debris on them. We do mobile gelcoat polishing and interior cleanup and could come to you before you sell. Would you like a quote?",
+ "id": "7959413454",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:50:04",
+ "usage": {
+  "in": 3321,
+  "out": 389
+ }
+}

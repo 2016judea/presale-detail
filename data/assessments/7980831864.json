@@ -1,0 +1,24 @@
+{
+ "fit": true,
+ "fit_reason": "Whole SUV listed by a private owner in cars by owner.",
+ "photo_quality": "fair",
+ "need_score": 3,
+ "findings": [
+  "Light dust and road film along the lower doors and rocker area on both sides",
+  "Some dullness and possible light water spotting on the hood and front fenders in the low-sun shots",
+  "Lower black plastic on the front and rear bumpers looks slightly faded"
+ ],
+ "services": [
+  "exterior wash and wax",
+  "trim restoration"
+ ],
+ "message": "Hi, we saw your listing for the Murano and it already looks well kept. A wash and wax would bring back more gloss on the hood and clean up the road film along the lower doors, and we can darken the black bumper trim too. We come to you for pre-sale details. Would you like a quote?",
+ "id": "7980831864",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:51:44",
+ "usage": {
+  "in": 3714,
+  "out": 255
+ }
+}

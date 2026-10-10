@@ -1,0 +1,27 @@
+{
+ "fit": true,
+ "fit_reason": "Private owner selling a whole car (2010 Acura TL sedan) in the cars by owner section.",
+ "photo_quality": "fair",
+ "need_score": 4,
+ "findings": [
+  "Hazy, yellowed headlight lenses on the front, most visible in the close front-corner shot",
+  "Dull, slightly flat-looking white paint on the hood and front bumper",
+  "Light road grime along the lower rear bumper and rocker areas",
+  "Dirty, dark-looking wheel faces on all visible wheels",
+  "Some dust on the center dash and console trim"
+ ],
+ "services": [
+  "headlight restoration",
+  "exterior wash and wax",
+  "interior detail"
+ ],
+ "message": "Hi, we saw your listing for the 2010 Acura TL. The headlight lenses look a bit hazy in the photos and the white paint and wheels could use a cleanup. We do mobile pre-sale details, including headlight restoration, and can come to you. Would you like a quote?",
+ "id": "7980129273",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:52:42",
+ "usage": {
+  "in": 2988,
+  "out": 310
+ }
+}

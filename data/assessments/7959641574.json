@@ -1,0 +1,26 @@
+{
+ "fit": true,
+ "fit_reason": "Private owner selling a whole 14 ft aluminum fishing boat with trailer.",
+ "photo_quality": "good",
+ "need_score": 4,
+ "findings": [
+  "Dull, hazy aluminum along the port hull sides and gunwale above the red paint",
+  "Dirt and debris in the bilge and on the floor between the seats",
+  "Faded, slightly chalky red paint on the lower port hull",
+  "Grime and spotting on the inside hull walls and under the seats"
+ ],
+ "services": [
+  "exterior wash and wax",
+  "interior detail",
+  "paint correction / buff"
+ ],
+ "message": "Hi, we saw your listing for the 1957 Larson Crestliner and the redone wood looks great. The aluminum sides are a bit hazy and the red paint on the lower hull looks faded, and the floor between the seats has some dirt in it. We do mobile pre-sale cleanups and polish work and can come to you. Would you like a quote?",
+ "id": "7959641574",
+ "model": "claude-opus-5-5",
+ "photos_seen": 3,
+ "assessed_at": "2026-10-10T11:51:08",
+ "usage": {
+  "in": 2136,
+  "out": 305
+ }
+}

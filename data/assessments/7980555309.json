@@ -1,0 +1,26 @@
+{
+ "fit": true,
+ "fit_reason": "Whole passenger sedan listed by a private owner in the cars by owner section.",
+ "photo_quality": "fair",
+ "need_score": 3,
+ "findings": [
+  "White paint on both sides looks clean but somewhat flat in overcast light, with little reflection or gloss",
+  "Light dust and lint visible on the dash surround below the gauge cluster",
+  "Driver floor mat looks worn and a bit dusty",
+  "Rear door sill and lower door jamb area show light dirt",
+  "Black leather seats show normal wear creasing on the driver seat bolster and rear bench, looks dry rather than conditioned"
+ ],
+ "services": [
+  "interior detail",
+  "exterior wash and wax"
+ ],
+ "message": "Hi, we saw your listing for the Buick Verano and it looks like a well kept car. A quick pre-sale detail could add some gloss to the white paint and freshen up the leather seats, dash and door sills so it photographs even better. We come to you. Would you like a quote?",
+ "id": "7980555309",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:52:09",
+ "usage": {
+  "in": 3057,
+  "out": 316
+ }
+}

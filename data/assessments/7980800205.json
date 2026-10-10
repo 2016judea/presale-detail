@@ -1,0 +1,28 @@
+{
+ "fit": true,
+ "fit_reason": "Whole car (1985 Corvette C4) listed by a private owner in cars by owner.",
+ "photo_quality": "fair",
+ "need_score": 6,
+ "findings": [
+  "Red paint on the hood and front bumper looks dull and slightly faded, with light spotting and specks on the lower nose",
+  "Dust and grime on the engine bay surfaces, intake runners and plastic covers",
+  "Dusty, faded engine bay sheet metal and inner fender areas around the air intake",
+  "Black rubber/trim strip along the front bumper and door top looks faded and dry",
+  "Dust and light marks on the red interior door panel and lower door jamb area"
+ ],
+ "services": [
+  "paint correction / buff",
+  "exterior wash and wax",
+  "trim restoration",
+  "interior detail"
+ ],
+ "message": "Hi, we saw your listing for the 85 Corvette. The red paint on the hood and nose looks a bit dull in the photos, and the engine bay and door panels have some dust that cleans up well. We do mobile pre-sale details including a machine buff and polish, and we can come to you. Would you like a quote?",
+ "id": "7980800205",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:51:46",
+ "usage": {
+  "in": 3054,
+  "out": 355
+ }
+}

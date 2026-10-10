@@ -1,0 +1,28 @@
+{
+ "fit": true,
+ "fit_reason": "Whole private-party sedan for sale; the bad transmission is mechanical and not ours, but the car itself can be detailed.",
+ "photo_quality": "fair",
+ "need_score": 4,
+ "findings": [
+  "Black paint is fairly glossy overall, but reflections on the hood and front fender show light haze and fine swirling typical of black paint",
+  "Light dust and film on the lower doors and rocker area on the driver side",
+  "Headlight lenses look slightly cloudy and yellowed",
+  "Brake dust on the plastic wheel covers",
+  "Interior photo is shot through glare on the window, so the tan leather seats can only be partly judged; they look clean with light creasing"
+ ],
+ "services": [
+  "paint correction / buff",
+  "exterior wash and wax",
+  "headlight restoration",
+  "interior detail"
+ ],
+ "message": "Hi, we saw your listing for the black Acura RL. It looks well kept, and a light buff would bring out the gloss on the black paint and clear up the slightly cloudy headlights. We do pre-sale details and come to you. Would you like a quote?",
+ "id": "7979540268",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:53:23",
+ "usage": {
+  "in": 3177,
+  "out": 345
+ }
+}

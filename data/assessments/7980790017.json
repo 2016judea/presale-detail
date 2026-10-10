@@ -1,0 +1,26 @@
+{
+ "fit": true,
+ "fit_reason": "Whole SUV listed by a private owner in cars by owner.",
+ "photo_quality": "fair",
+ "need_score": 3,
+ "findings": [
+  "White paint looks clean overall but slightly flat, without strong gloss, on the hood and side panels in daylight shots",
+  "Black lower body cladding and fender flares look slightly gray and faded along the rocker panels and wheel arches",
+  "Tires look dry and unshined in all exterior shots",
+  "Headlight lenses look mostly clear in the front shots; no obvious yellowing visible",
+  "No interior photos beyond glimpses through the windows, so interior condition can't be judged; a finger also covers part of the front bumper in one shot"
+ ],
+ "services": [
+  "exterior wash and wax",
+  "trim restoration"
+ ],
+ "message": "Hi, we saw your listing for the Grand Cherokee, and the white paint looks to be in nice shape. The black cladding along the rockers and wheel arches looks a little faded, and a wax and trim restoration would make it pop in photos. We do mobile pre-sale details that come to you. Would you like a quote?",
+ "id": "7980790017",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:51:52",
+ "usage": {
+  "in": 2973,
+  "out": 356
+ }
+}

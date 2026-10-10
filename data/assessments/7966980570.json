@@ -1,0 +1,25 @@
+{
+ "fit": true,
+ "fit_reason": "Private owner selling a whole pontoon (tritoon) boat on a trailer.",
+ "photo_quality": "good",
+ "need_score": 3,
+ "findings": [
+  "Light dulling and faint water marks on the aluminum pontoon tubes, most visible on the port and center tubes in the first photo",
+  "Light soiling in the seams and piping of the cream vinyl lounge seating",
+  "Cream helm seat vinyl shows light creasing and dullness that a vinyl clean and conditioner would brighten",
+  "Light dust on the teak-look floor and the helm console"
+ ],
+ "services": [
+  "interior detail",
+  "exterior wash and wax"
+ ],
+ "message": "Hi, we saw your listing for the South Bay tritoon and it looks well kept. The pontoon tubes have some light dullness, and the cream vinyl seating could brighten up with a deep clean and conditioning before buyers see it. We do mobile pre-sale details and tube polishing and can come to you. Would you like a quote?",
+ "id": "7966980570",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:50:37",
+ "usage": {
+  "in": 2981,
+  "out": 323
+ }
+}

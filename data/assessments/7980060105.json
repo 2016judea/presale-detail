@@ -1,0 +1,31 @@
+{
+ "fit": true,
+ "fit_reason": "Whole SUV listed by a private owner in cars by owner.",
+ "photo_quality": "fair",
+ "need_score": 6,
+ "findings": [
+  "Dull, hazy black paint on the hood and doors with visible dust and film in the sunlight",
+  "Grime and water spotting on the rear liftgate and around the badge",
+  "Faded gray lower rear bumper and lower body cladding",
+  "Dirty, grayed wheels with brake dust",
+  "Scuffs on the rear bumper top surface",
+  "Headlights look slightly cloudy in the front three-quarter photo",
+  "No interior photos, so the cabin can't be judged"
+ ],
+ "services": [
+  "exterior wash and wax",
+  "paint correction / buff",
+  "trim restoration",
+  "headlight restoration",
+  "touch-up"
+ ],
+ "message": "Hi, we saw your listing for the 2009 MDX. The black paint looks a bit hazy in the photos and the gray lower bumper trim has faded, both things a buff and trim restoration would bring back. We do mobile pre-sale details and can come to you. Would you like a quote?",
+ "id": "7980060105",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:52:48",
+ "usage": {
+  "in": 2679,
+  "out": 344
+ }
+}

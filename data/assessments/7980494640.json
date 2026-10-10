@@ -1,0 +1,28 @@
+{
+ "fit": true,
+ "fit_reason": "Whole car (1979 Chrysler Cordoba project) sold by a private owner, though it is a long-stalled project car.",
+ "photo_quality": "good",
+ "need_score": 4,
+ "findings": [
+  "Dull, chalky-looking white paint on the hood and front fenders",
+  "General dirt and grime along the lower doors, rocker trim and rear quarter",
+  "Dirty, dull chrome on the rear bumper and front bumper",
+  "Dusty rear window glass with a covered, cluttered-looking rear interior area",
+  "Peeling, deteriorated vinyl roof covering (needs replacement, not a detail fix)",
+  "Bare primer and filler patches on the doors (bodywork, not ours to fix)"
+ ],
+ "services": [
+  "exterior wash and wax",
+  "paint correction / buff",
+  "interior detail"
+ ],
+ "message": "Hi, we saw your listing for the Cordoba T-top. The white paint on the hood and fenders looks chalky, and the chrome bumpers and lower trim have some built-up grime that a wash and buff could brighten up for photos and showings. We do mobile pre-sale details and can come to you. Would you like a quote?",
+ "id": "7980494640",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:52:09",
+ "usage": {
+  "in": 3786,
+  "out": 376
+ }
+}

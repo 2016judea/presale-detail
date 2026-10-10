@@ -1,0 +1,4 @@
+data/cache/posts/
+.env
+__pycache__/
+.vercel/

@@ -1,0 +1,28 @@
+{
+ "fit": true,
+ "fit_reason": "Private owner selling a whole 2013 Ford F-350 box truck, which we can detail.",
+ "photo_quality": "fair",
+ "need_score": 5,
+ "findings": [
+  "Yellowed, hazy headlight lenses on the front",
+  "Dull, slightly faded black plastic grille and front bumper",
+  "Water staining and dark marks on the wood paneling of the cargo box walls",
+  "Dusty, scuffed cargo box floor",
+  "Light grime and streaking on the white box exterior and side door"
+ ],
+ "services": [
+  "headlight restoration",
+  "trim restoration",
+  "exterior wash and wax",
+  "interior detail"
+ ],
+ "message": "Hi, we saw your listing for the F-350 box truck. The headlights look a bit yellowed and the black grille and bumper have faded some, and the cargo box could use a good clean-out. We do mobile pre-sale details, including headlight and trim restoration, and can come to you. Would you like a quote?",
+ "id": "7980397860",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:52:23",
+ "usage": {
+  "in": 3665,
+  "out": 306
+ }
+}

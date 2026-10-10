@@ -1,0 +1,27 @@
+{
+ "fit": true,
+ "fit_reason": "Private owner selling a whole boat (1988 Smoker Craft Magnum 161 aluminum fishing boat) with motors and trailer.",
+ "photo_quality": "good",
+ "need_score": 4,
+ "findings": [
+  "Painted aluminum hull sides look a bit dull and flat rather than glossy, especially the tan lower section on the port side",
+  "Light grime and faint streaking on the hull paint near the bow",
+  "Some yellowing and light soiling on the cream vinyl seats",
+  "Light dust and lint on the blue carpet in the bow deck and around the helm",
+  "Scattered items left in the bow area (plastic bag, loose wiring) clutter the interior photos"
+ ],
+ "services": [
+  "interior detail",
+  "exterior wash and wax",
+  "paint correction / buff"
+ ],
+ "message": "Hi, we saw your listing for the Smoker Craft Magnum 161. It looks well kept, but the hull paint has gone a little flat and the cream seats show some yellowing. We do mobile pre-sale details, including a hull buff and wax plus carpet and vinyl cleaning, and can come to you. Would you like a quote?",
+ "id": "7963690986",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:50:34",
+ "usage": {
+  "in": 3264,
+  "out": 370
+ }
+}

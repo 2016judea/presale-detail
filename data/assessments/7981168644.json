@@ -1,0 +1,26 @@
+{
+ "fit": true,
+ "fit_reason": "Private owner selling a whole car, a 2009 Pontiac Vibe GT hatchback.",
+ "photo_quality": "good",
+ "need_score": 3,
+ "findings": [
+  "Red paint is reasonably glossy overall, with slight dullness visible on the hood and front fenders in the low-sun shots",
+  "Headlight lenses show mild yellowing and haze, most visible in the front three-quarter photos",
+  "Black lower trim under the rear bumper looks slightly faded",
+  "No interior close-ups in the listing, so interior condition can't be judged"
+ ],
+ "services": [
+  "exterior wash and wax",
+  "headlight restoration",
+  "trim restoration"
+ ],
+ "message": "Hi, we saw your listing for the Vibe GT and it already looks well kept. The headlight lenses look a little hazy in the photos, and the black trim under the rear bumper looks slightly faded. We do mobile pre-sale details, including headlight restoration and a wash and wax, and we come to you. Would you like a quote?",
+ "id": "7981168644",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:51:28",
+ "usage": {
+  "in": 3613,
+  "out": 327
+ }
+}

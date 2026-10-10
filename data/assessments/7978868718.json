@@ -1,0 +1,21 @@
+{
+ "fit": false,
+ "fit_reason": "These are two antique wooden cedar-strip rowboats sold as restoration projects or display pieces. They are painted wood, not gelcoat, and need carpentry and refinishing work like gunwale and transom repair, which a detail cannot address.",
+ "photo_quality": "fair",
+ "need_score": 1,
+ "findings": [
+  "Peeling and flaking white paint on the hull of the yellow-interior boat",
+  "Weathered, worn blue paint along the hull side of the second boat",
+  "Bare, grayed wood ribs and seats inside the second boat"
+ ],
+ "services": [],
+ "message": "Hi, we saw your listing for the two Larson cedar strip rowboats. They look like neat restoration pieces, but the peeling paint and weathered wood are more of a strip-and-refinish job than a detail. We focus on gelcoat and paint polishing, so we wouldn't be the right fit here. Best of luck with the sale.",
+ "id": "7978868718",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:50:19",
+ "usage": {
+  "in": 2511,
+  "out": 307
+ }
+}

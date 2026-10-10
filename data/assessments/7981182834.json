@@ -1,0 +1,27 @@
+{
+ "fit": true,
+ "fit_reason": "Private-owner listing for a complete 2013 BMW 328i xDrive sedan, a car we can detail.",
+ "photo_quality": "fair",
+ "need_score": 3,
+ "findings": [
+  "Black paint on the hood and sides looks glossy and reflective overall, consistent with the ceramic coating the seller mentions",
+  "Light dust and pollen film visible on the hood and front fenders in the angled sun shots",
+  "Headlight lenses look slightly hazy compared to the rest of the front end",
+  "Wheels look reasonably clean but with light brake dust on the front wheel faces",
+  "Interior is not clearly shown; only seat tops visible through the glass"
+ ],
+ "services": [
+  "exterior wash and wax",
+  "headlight restoration",
+  "interior detail"
+ ],
+ "message": "Hi, we saw your listing for the 328i and it looks like it has been well kept. The black paint shows a bit of dust on the hood in the photos, and the headlight lenses look like they could be a touch clearer. We do pre-sale details that come to you, including a coating-safe wash, headlight restoration and an interior wipe-down. Would you like a quote?",
+ "id": "7981182834",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:51:21",
+ "usage": {
+  "in": 2667,
+  "out": 368
+ }
+}

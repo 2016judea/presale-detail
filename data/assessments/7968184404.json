@@ -1,0 +1,29 @@
+{
+ "fit": true,
+ "fit_reason": "Private owner selling a whole 21 ft Crownline open bow powerboat with trailer.",
+ "photo_quality": "fair",
+ "need_score": 8,
+ "findings": [
+  "Dull, chalky-looking gelcoat along the port and starboard hull sides",
+  "Faded, washed-out dark hull color below the rub rail",
+  "Brown staining and grime on the transom and lower stern",
+  "Dirty, scuffed cockpit floor and swim area in the stern seating",
+  "Grimy, discolored vinyl on the rear bench and helm seats",
+  "Dirty dark trim panel under the rear bench seat"
+ ],
+ "services": [
+  "gelcoat oxidation removal",
+  "exterior wash and wax",
+  "interior detail",
+  "trim restoration"
+ ],
+ "message": "Hi, we saw your listing for the Crownline. The hull sides look chalky and faded, and the transom and cockpit floor have some staining that shows up in the photos. We do mobile pre-sale details including gelcoat oxidation removal and polish plus vinyl and deck cleaning, and we come to you. Would you like a quote?",
+ "id": "7968184404",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:49:05",
+ "usage": {
+  "in": 2491,
+  "out": 355
+ }
+}

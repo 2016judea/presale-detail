@@ -1,0 +1,26 @@
+{
+ "fit": true,
+ "fit_reason": "Whole 18 ft bowrider on trailer listed by a private owner in boats by owner.",
+ "photo_quality": "fair",
+ "need_score": 5,
+ "findings": [
+  "Lower white hull looks dull and slightly yellowed toward the bow in the side photo",
+  "Transom gelcoat around the outdrive has a yellowed, cream tint",
+  "Swim platform / rear deck surface looks dull and dirty",
+  "Black fiberglass trailer fenders look faded and grayish"
+ ],
+ "services": [
+  "gelcoat oxidation removal",
+  "exterior wash and wax",
+  "trim restoration"
+ ],
+ "message": "Hi, we saw your listing for the Sea Ray 182 SRX. From the photos, the lower hull and the transom around the outdrive look a bit dull and yellowed, and a gelcoat polish would bring the shine back before buyers see it. We do pre-sale boat details and come to you. Would you like a quote?",
+ "id": "7981163664",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:49:24",
+ "usage": {
+  "in": 2652,
+  "out": 308
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "fit": true,
+ "fit_reason": "Whole pontoon boat with trailer listed in the boats by owner section by a private seller.",
+ "photo_quality": "good",
+ "need_score": 2,
+ "findings": [
+  "Maroon side panels along the port and starboard rails look glossy and clean",
+  "Aluminum pontoon tubes look bright and even, with no visible waterline scum or staining",
+  "Beige vinyl seating throughout the deck looks clean with no visible stains or mildew",
+  "Deck carpet/flooring looks clean and uncluttered",
+  "Mercury outboard cowling looks clean and glossy"
+ ],
+ "services": [
+  "exterior wash and wax",
+  "interior detail"
+ ],
+ "message": "Hi, we saw your listing for the 2021 Starcraft LX22R. It already shows really well, with clean seats and bright tubes. If you'd like a quick pre-sale wash, wax and vinyl wipe-down to keep it looking that way for buyers, we can come to you. Would you like a quote?",
+ "id": "7978473288",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:49:52",
+ "usage": {
+  "in": 2772,
+  "out": 318
+ }
+}

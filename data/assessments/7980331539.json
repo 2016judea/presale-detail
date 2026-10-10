@@ -1,0 +1,29 @@
+{
+ "fit": true,
+ "fit_reason": "Whole 2010 Ford F-150 pickup listed by a private owner in cars by owner.",
+ "photo_quality": "fair",
+ "need_score": 5,
+ "findings": [
+  "Red paint on the doors and bed sides looks somewhat flat with light haze rather than a deep gloss",
+  "Rear tailgate and bed side paint appears dull and slightly faded",
+  "Rubber floor mats on the driver side look dusty and scuffed with dirt",
+  "Dash, gauge cluster area and console look dusty",
+  "Black leather seats look dry and a bit dull, with wear on the driver bolster",
+  "Black plastic rear bumper top and step areas look faded and grayed"
+ ],
+ "services": [
+  "interior detail",
+  "exterior wash and wax",
+  "paint correction / buff",
+  "trim restoration"
+ ],
+ "message": "Hi, we saw your listing for the 2010 F-150 Lariat. The red paint on the sides and tailgate looks a little flat in the photos, and the floor mats and dash could use a cleaning. We do pre-sale details and paint buffing and come to you, which would help it show better to buyers. Would you like a quote?",
+ "id": "7980331539",
+ "model": "claude-opus-5-5",
+ "photos_seen": 4,
+ "assessed_at": "2026-10-10T11:52:30",
+ "usage": {
+  "in": 2926,
+  "out": 368
+ }
+}

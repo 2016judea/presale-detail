@@ -1,0 +1,27 @@
+{
+ "fit": true,
+ "fit_reason": "Private owner selling a whole 2012 Chevy Captiva SUV.",
+ "photo_quality": "fair",
+ "need_score": 6,
+ "findings": [
+  "Light-colored stains and lint across the rear bench seat cushion",
+  "Dust and debris in the front center console and cup holders",
+  "Hazy, yellowed headlight lenses on the front",
+  "Dusty, dull black paint on the hood and front bumper",
+  "Dust on the dashboard and door panel trim"
+ ],
+ "services": [
+  "interior detail",
+  "exterior wash and wax",
+  "headlight restoration"
+ ],
+ "message": "Hi, we saw your listing for the 2012 Captiva. The rear bench has some light staining and the headlights look a bit hazy in the photos, both of which clean up well before a sale. We do pre-sale details, inside and out, and come to you. Would you like a quote?",
+ "id": "7980242175",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:52:32",
+ "usage": {
+  "in": 2620,
+  "out": 278
+ }
+}

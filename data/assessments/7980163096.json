@@ -1,0 +1,17 @@
+{
+ "fit": false,
+ "fit_reason": "This is an outboard motor only, not a whole boat, and the seller appears to be a repeat outboard seller with multiple motors listed. Engine-only listings are outside what we detail.",
+ "photo_quality": "good",
+ "need_score": 0,
+ "findings": [],
+ "services": [],
+ "message": "",
+ "id": "7980163096",
+ "model": "claude-opus-5-5",
+ "photos_seen": 4,
+ "assessed_at": "2026-10-10T11:50:42",
+ "usage": {
+  "in": 2705,
+  "out": 107
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "fit": true,
+ "fit_reason": "Private owner selling a whole boat (1958 Alumacraft runabout) with trailer.",
+ "photo_quality": "fair",
+ "need_score": 7,
+ "findings": [
+  "Dull, faded painted finish along the port and starboard hull sides",
+  "Brown staining and grime on the lower transom around the motor mount",
+  "Dirt and streaking along the lower hull sides near the waterline area",
+  "Dusty, cloudy windshield and dull chrome/aluminum trim along the gunwales",
+  "Scuffs and marks on the bow paint near the registration numbers",
+  "Discolored, dirty-looking vinyl seats and interior visible from the stern"
+ ],
+ "services": [
+  "exterior wash and wax",
+  "paint correction / buff",
+  "interior detail",
+  "trim restoration",
+  "touch-up"
+ ],
+ "message": "Hi, we saw your listing for the 1958 Alumacraft Queen Merrie. From the photos, the hull paint looks faded and there is some staining on the lower transom and grime along the lower sides that a wash, buff and polish would brighten up, along with a cleanup of the seats and windshield. We do mobile pre-sale details and can come to you in St Louis Park. Would you like a quote?",
+ "id": "7944470098",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:49:34",
+ "usage": {
+  "in": 3709,
+  "out": 390
+ }
+}

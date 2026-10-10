@@ -1,0 +1,25 @@
+{
+ "fit": false,
+ "fit_reason": "Although posted under cars by owner, the seller's text describes multiple vehicles with down-payment financing and on-the-spot approval, which points to a dealer or buy-here-pay-here operation rather than a private owner selling their own vehicle.",
+ "photo_quality": "fair",
+ "need_score": 4,
+ "findings": [
+  "Light grime and scuffing on the rear bumper, most visible in the rear three-quarter shots",
+  "Grey paint looks somewhat flat and dull on the hood and doors in the overcast photos",
+  "Dirt and road film along the lower doors and rocker area"
+ ],
+ "services": [
+  "exterior wash and wax",
+  "touch-up",
+  "headlight restoration"
+ ],
+ "message": "Hi, we saw your listing for the 2014 Infiniti QX60. The rear bumper has some scuffing and the grey paint looks a little dull in the photos. We do mobile pre-sale details, including wash, wax and small touch-ups, and can come to you. Would you like a quote?",
+ "id": "7980260673",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:52:32",
+ "usage": {
+  "in": 3350,
+  "out": 325
+ }
+}

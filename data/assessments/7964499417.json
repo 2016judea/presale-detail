@@ -1,0 +1,27 @@
+{
+ "fit": true,
+ "fit_reason": "Private owner selling a whole aluminum jon-style boat with outboard and trailer.",
+ "photo_quality": "good",
+ "need_score": 5,
+ "findings": [
+  "Dirt and dust across the camo-painted floor and front casting deck",
+  "Debris and loose clutter in the rear area around the battery and fuel tank",
+  "Faded, dull flat green paint along the outer hull sides",
+  "Pink seat cushions look faded and soiled where they are piled in the middle",
+  "Grime and scuffing on the interior floor near the bow deck edge"
+ ],
+ "services": [
+  "interior detail",
+  "exterior wash and wax",
+  "touch-up"
+ ],
+ "message": "Hi, we saw your listing for the Alumacraft 1648 and it looks like a solid rig. The photos show some dirt across the floor and casting deck and a bit of clutter around the battery area in back. We do mobile pre-sale details that come to you, a good cleanout, wash and protectant so it shows its best. Would you like a quote?",
+ "id": "7964499417",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:50:23",
+ "usage": {
+  "in": 3035,
+  "out": 323
+ }
+}

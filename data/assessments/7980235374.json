@@ -1,0 +1,28 @@
+{
+ "fit": true,
+ "fit_reason": "Whole SUV listed in cars by owner; the seller mentions running a repair shop, but it is posted as a private sale of a single vehicle.",
+ "photo_quality": "good",
+ "need_score": 4,
+ "findings": [
+  "Black paint on the hood and front fenders looks somewhat dull and dusty, with a slightly flat reflection rather than deep gloss",
+  "Light dust and road film on the lower doors and rear bumper area",
+  "Unpainted gray/black lower bumper and rocker trim looks a little faded and chalky, especially on the front bumper",
+  "Front headlight lenses show slight haze",
+  "Interior dash and seats look tidy, with only light dust on the dash top and console"
+ ],
+ "services": [
+  "exterior wash and wax",
+  "paint correction / buff",
+  "trim restoration",
+  "headlight restoration"
+ ],
+ "message": "Hi, we saw your listing for the 2013 Escape. The interior looks tidy, but the black paint on the hood and sides looks a bit dull in the photos and the lower bumper trim is starting to fade. We do mobile pre-sale details, including a wash, buff and trim restoration, and we can come to you. Would you like a quote?",
+ "id": "7980235374",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:52:36",
+ "usage": {
+  "in": 2605,
+  "out": 381
+ }
+}

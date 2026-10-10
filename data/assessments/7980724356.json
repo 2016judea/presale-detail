@@ -1,0 +1,28 @@
+{
+ "fit": true,
+ "fit_reason": "Private owner selling a whole 1998 Lund 1800 Fisherman aluminum fishing boat with motor and trailer.",
+ "photo_quality": "fair",
+ "need_score": 4,
+ "findings": [
+  "Painted aluminum hull sides (tan and navy) look fairly dull with little reflection in the side shots",
+  "Some light spotting and grime visible on the tan lower hull near the stern on the port side",
+  "Black outboard cowling and lower unit look faded and chalky in the rear view",
+  "Rear transom area below the splash well shows dirt and discoloration",
+  "Interior carpet and seats look reasonably clean but carpet appears a bit dusty in the rear view"
+ ],
+ "services": [
+  "exterior wash and wax",
+  "paint correction / buff",
+  "trim restoration",
+  "interior detail"
+ ],
+ "message": "Hi, we saw your listing for the 1998 Lund 1800 Fisherman. It looks like a solid boat, though the painted hull sides look a bit dull in the photos and the black Johnson cowling has some fading. We do pre-sale details that come to you, including a hull buff and wax and a cleanup of the motor cover and interior. Would you like a quote?",
+ "id": "7980724356",
+ "model": "claude-opus-5-5",
+ "photos_seen": 5,
+ "assessed_at": "2026-10-10T11:50:06",
+ "usage": {
+  "in": 2611,
+  "out": 384
+ }
+}
