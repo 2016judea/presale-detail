@@ -63,7 +63,7 @@ h2{font-size:17px;line-height:1.3;margin:0;overflow-wrap:anywhere}
 .saw{margin:0;padding-left:18px;font-size:15px}
 .saw li{margin:2px 0}
 .more{background:none;border:0;color:var(--accent);font:inherit;font-size:14px;padding:4px 0;cursor:pointer}
-.msg{border-left:3px solid var(--accent);padding:2px 0 2px 12px;font-size:15px;white-space:pre-wrap}
+.msg{cursor:pointer;-webkit-tap-highlight-color:transparent;border-left:3px solid var(--accent);padding:2px 0 2px 12px;font-size:15px;white-space:pre-wrap}
 .contact{font-size:14px;color:var(--mute)}
 .contact b{color:var(--ink)}
 .acts{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-top:auto}
@@ -74,7 +74,7 @@ h2{font-size:17px;line-height:1.3;margin:0;overflow-wrap:anywhere}
 .empty{grid-column:1/-1;text-align:center;color:var(--mute);padding:40px 0}
 footer{max-width:1200px;margin:0 auto;padding:0 16px 40px;color:var(--mute);font-size:13.5px}
 </style>
-<!-- bm-posthog:begin v1 — shared across every Vercel prototype; source ~/.claude/skills/site-analytics/posthog_snippet.html. ?me=1 opts this browser out on this site (?me=0 undoes); ?me=1&next=host1,host2 walks the opt-out across sites; headless (navigator.webdriver) never loads it. -->
+<!-- bm-posthog:begin v2 — shared across every Vercel prototype; source ~/.claude/skills/site-analytics/posthog_snippet.html. ?me=1 opts this browser out on this site (?me=0 undoes); ?me=1&next=host1,host2 walks the opt-out across sites; headless (navigator.webdriver) never loads it. -->
 <script>
 (function(w,d){var S="presale-detail",K="bm_me",me=false,u,p,n;
 try{u=new URLSearchParams(location.search);p=u.get("me");n=u.get("next");}catch(e){}
@@ -82,7 +82,7 @@ try{if(p==="1"){localStorage.setItem(K,"1");}else if(p==="0"){localStorage.remov
 if(p==="1"){d.cookie=K+"=1; path=/; max-age=63072000; SameSite=Lax";}else if(p==="0"){d.cookie=K+"=; path=/; max-age=0; SameSite=Lax";}
 try{me=localStorage.getItem(K)==="1";}catch(e){}
 if(!me&&/(?:^|; )bm_me=1/.test(d.cookie))me=true;
-if(p==="1"&&n){var h=n.split(","),f=h.shift();if(/^([a-z0-9-]+\.)*(vercel\.app|brickandmortar\.dev|readglean\.com)$/.test(f)){location.replace("https://"+f+"/?me=1"+(h.length?"&next="+h.join(","):""));}}
+if(p==="1"&&n){var h=n.split(","),f=h.shift();if(/^[a-z0-9.-]+$/.test(f)&&(f.slice(-11)===".vercel.app"||f==="brickandmortar.dev"||f==="readglean.com")){location.replace("https://"+f+"/?me=1"+(h.length?"&next="+h.join(","):""));}}
 if(navigator.webdriver===true)return;
 !function(t,e){var o,n,p,r;e.__SV||(w.posthog=e,e._i=[],e.init=function(i,s,a){function g(t,e){var o=e.split(".");2==o.length&&(t=t[o[0]],e=o[1]),t[e]=function(){t.push([e].concat(Array.prototype.slice.call(arguments,0)))}}(p=t.createElement("script")).type="text/javascript",p.crossOrigin="anonymous",p.async=!0,p.src=s.api_host.replace(".i.posthog.com","-assets.i.posthog.com")+"/static/array.js",(r=t.getElementsByTagName("script")[0]).parentNode.insertBefore(p,r);var u=e;for(void 0!==a?u=e[a]=[]:a="posthog",u.people=u.people||[],u.toString=function(t){var e="posthog";return"posthog"!==a&&(e+="."+a),t||(e+=" (stub)"),e},u.people.toString=function(){return u.toString(1)+".people (stub)"},o="init capture register register_once unregister identify setPersonProperties reset get_distinct_id get_session_id alias set_config startSessionRecording stopSessionRecording opt_in_capturing opt_out_capturing has_opted_in_capturing has_opted_out_capturing clear_opt_in_out_capturing captureException getFeatureFlag isFeatureEnabled onFeatureFlags".split(" "),n=0;n<o.length;n++)g(u,o[n]);e._i.push([i,s,a])},e.__SV=1)}(d,w.posthog||[]);
 posthog.init("phc_yFgRGppL6H7DvhgZTQKbHdrY5oqnpLT482rrNYtLqnAx",{api_host:"https://us.i.posthog.com",person_profiles:"identified_only",persistence:"localStorage+cookie",opt_out_capturing_by_default:me});
@@ -158,7 +158,7 @@ document.addEventListener("click",e=>{
   if(e.target.closest("[data-reset]")){mine={};store.set("rates",mine);sheet();render();return}
   const f=e.target.closest("button[data-kind],button[data-src]");
   if(f){if(f.dataset.kind)kind=f.dataset.kind;if(f.dataset.src)src=f.dataset.src;render();window.scrollTo({top:0});return}
-  const cp=e.target.closest("[data-copy]");
+  const tm=e.target.closest(".msg"),cp=e.target.closest("[data-copy]")||(tm&&tm.closest(".body").querySelector("[data-copy]"));
   if(cp){const c=DATA.cards.find(x=>x.id===cp.dataset.copy),text=c._p.message;
     const done=()=>{cp.textContent="Copied";setTimeout(()=>cp.textContent="Copy message",1600)};
     (navigator.clipboard?navigator.clipboard.writeText(text):Promise.reject()).then(done,()=>{
