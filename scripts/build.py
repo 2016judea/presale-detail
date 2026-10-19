@@ -53,6 +53,20 @@ def message(opener, q, kind):
     return " ".join(parts)
 
 
+def embed_json(obj):
+    """JSON that is safe inside a <script>: a seller's title can carry "</script>", and
+    json.dumps leaves "</" alone, which would close the data block and run what follows.
+    "<\\/" is the same string to JSON.parse. U+2028/2029 are line breaks to old engines."""
+    return (json.dumps(obj).replace("</", "<\\/")
+            .replace("\u2028", "\\u2028").replace("\u2029", "\\u2029"))
+
+
+def render_page(tpl, data, city):
+    return (tpl.replace("/*DATA*/null", embed_json(data))
+               .replace("/*READER_EVENTS*/", (ROOT / "scripts" / "reader_events.js").read_text())
+               .replace("{{CITY}}", city.title()))
+
+
 def main():
     doc = json.loads((ROOT / "data" / "listings.json").read_text())
     now = datetime.now(timezone.utc)
@@ -109,9 +123,7 @@ def main():
     prices = [{"tier": t, "label": LABELS[t], "price": Q.unit_price(t)[0], "hours": Q.tier_hours(t)} for t in LABELS]
     meta = {"city": doc["city"], "fetched_at": doc["fetched_at"], "counts": counts, "prices": prices}
     tpl = (ROOT / "scripts" / "page.html").read_text()
-    page = (tpl.replace("/*DATA*/null", json.dumps({"meta": meta, "cards": cards}))
-               .replace("/*READER_EVENTS*/", (ROOT / "scripts" / "reader_events.js").read_text())
-               .replace("{{CITY}}", doc["city"].title()))
+    page = render_page(tpl, {"meta": meta, "cards": cards}, doc["city"])
     (ROOT / "site" / "index.html").write_text(page)
     c = counts["all|all"]
     print(f"read {c['read']}, shown {c['shown']}, ${c['quotes']:,} in quotes, {c['unquoted']} unquoted, {c['new24']} new in 24h")
