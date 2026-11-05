@@ -11,7 +11,7 @@ const fs = require("fs");
 const path = require("path");
 const os = require("os");
 const pw = process.env.PLAYWRIGHT_PATH ||
-  path.join(os.homedir(), "Desktop/pricing-vintage-baseball-cards/node_modules/playwright");
+  path.join(os.homedir(), "Desktop/workspace/pricing-vintage-baseball-cards/node_modules/playwright");
 const { chromium } = require(pw);
 
 const ROOT = path.resolve(__dirname, "..");

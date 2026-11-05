@@ -6,7 +6,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 KEY = os.environ.get("GEMINI_API_KEY") or next(
-    l.split("=", 1)[1].strip().strip('"') for l in open(Path.home() / "Desktop/bricks/.env") if l.startswith("GEMINI_API_KEY"))
+    l.split("=", 1)[1].strip().strip('"') for l in open(Path.home() / "Desktop/workspace/bricks/.env") if l.startswith("GEMINI_API_KEY"))
 TIERS = {
     "car_interior": "interior detail, sedan/SUV", "car_wash_wax": "exterior hand wash and wax",
     "car_full": "full detail inside and out, sedan/SUV", "paint_correction": "one-step paint correction / buff and polish",

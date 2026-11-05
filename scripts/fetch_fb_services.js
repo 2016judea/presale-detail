@@ -3,7 +3,7 @@
 // (id -> the query that found it). scripts/price_table.py parses them.
 const fs = require("fs"), path = require("path"), os = require("os");
 const { chromium } = require(process.env.PLAYWRIGHT_PATH ||
-  path.join(os.homedir(), "Desktop/pricing-vintage-baseball-cards/node_modules/playwright"));
+  path.join(os.homedir(), "Desktop/workspace/pricing-vintage-baseball-cards/node_modules/playwright"));
 const ROOT = path.resolve(__dirname, "..");
 const OUT = path.join(ROOT, "data/cache/services/fb");
 fs.mkdirSync(OUT, { recursive: true });
